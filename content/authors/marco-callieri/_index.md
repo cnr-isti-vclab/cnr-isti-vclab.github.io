@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Digital Heritage, 3D Scanning, 3D on the Web.
+bio: Digital Technologies for Cultural Heritage
 
 interests:
   - Digital Heritage
