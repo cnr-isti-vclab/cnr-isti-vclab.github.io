@@ -6,19 +6,34 @@
 main:
   - name: Tour
     url: tour
-    weight: 10
-  - name: News
-    url: post
-    weight: 20
+    weight: 1
+  - name: Research
+    url: research
+    weight: 2
+  - name: Software
+    url: software
+    weight: 3
+  - name: Results
+    url: results
+    weight: 4
   - name: People
     url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
+    weight: 5
   - name: Publications
     url: publication
-    weight: 50
+    weight: 6
+  - name: Courses
+    url: courses
+    weight: 7
+  - name: Projects
+    url: projects
+    weight: 8
+  - name: Events
+    url: event
+    weight: 9
+  - name: News
+    url: post
+    weight: 10
   - name: Contact
     url: contact
-    weight: 60
+    weight: 11
