@@ -26,7 +26,7 @@ main:
     url: courses
     weight: 7
   - name: Projects
-    url: projects
+    url: project
     weight: 8
   - name: Events
     url: event
