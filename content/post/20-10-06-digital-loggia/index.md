@@ -1,0 +1,12 @@
+---
+title: "A 'digital Loggia' for Raphael and his workshop in Villa Farnesina, Rome"
+date: 2020-10-06
+image:
+  focal_point: 'top'
+---
+
+An Interactive Digital System was developed by Gianpaolo Palma and Eliana Siotto of the Visual Computing Lab of ISTI-CNR to explore the frescoed ceiling of the Loggia of Cupid and Psyche at the time of the COVID-19. [The system](http://vcg.isti.cnr.it/farnesina/loggia) was created in collaboration with the [Accademia Nazionale dei Lincei](https://www.lincei.it/it) within the celebrations for the fifth centenary of Raphael's death, and it is mentioned among the "[136 reopening projects in Italy and worldwide](https://www.ilgiornaledellarte.com/articoli/il-giornale-dell-arte-di-maggio/133265.html)".
+
+The system has encountered a great media promotion in the leading specialized magazines, national and local media, social network and web ([TG3 (17':35')](https://www.rainews.it/tgr/lazio/notiziari/index.html?/tgr/video/2020/05/ContentItem-b98764eb-e700-42b5-8f62-634a476259fd.html), [Rai Cultura](https://www.raicultura.it/arte/eventi/La-Loggia-di-Villa-Farnesina-diventa-digitale-0bcf49c2-33ec-4081-bc06-6bf35df14d65.html), [Arte Sky](https://arte.sky.it/2020/05/villa-farnesina-loggia-raffaello-digitale/), [Finestre sull'Arte](https://www.finestresullarte.info/flash-news/6490n_loggia-amore-e-psiche-villa-farnesina-interattiva.php), [Arte Magazine](http://artemagazine.it/attualita/item/11161-la-loggia-di-villa-farnesina-diventa-digitale-e-ci-fa-immergere-nei-capolavori-della-bottega-di-raffaello), [Corriere della Sera](https://www.corriere.it/bello-italia/notizie/loggia-psiche-raffaello-digitale-che-non-ti-aspetti-0a80e090-95f0-11ea-b0dc-2b898cb19b15.shtml), [Repubblica Roma](https://roma.repubblica.it/cronaca/2020/05/06/news/roma_la_loggia_di_amore_e_psiche_di_raffaello_a_villa_farnesina_diventa_digitale-255873325/), [La Nazione di Pisa](http://vcg.isti.cnr.it/img/news/lanazione-loggia.pdf), [Webinar -- The Cyprus Institute, Webinar -- Italian Cultural Institutes of the United States and Canada](https://www.giornalediplomatico.it/IIC-Los-Angeles-un-webinar-sugli-affreschi-di-Raffaello.htm), etc.) with interesting effects on the cultural enjoyment.
+
+The dedicated interactive system provides practical support at the exhibition '[Raphael in Villa Farnesina: Galatea and Psyche](http://www.villafarnesina.it/?lang=en)', opened today (October 6, 2020 -- January 6, 2021).
