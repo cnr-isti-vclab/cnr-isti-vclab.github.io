@@ -73,7 +73,9 @@ user_groups:
 - Group 2
 ---
 
-Dr. Paolo Cignoni is a Research Director with CNR-ISTI where he leads the Visual Computing Laboratory. He received a Ph.D. Degree in Computer Science at the University of Pisa in 1998. He has been awarded "Best Young Researcher" by the Eurographics association in 2004. His research interests cover many Computer Graphics fields like geometry processing, 3D scanning data processing, digital fabrication, scientific visualisation and digital heritage.
-He teaches the main 3D Graphics course at the University of Pisa since more than 10 years. He started and still leads the development of MeshLab, a widely known open source mesh processing tool used in hundreds of universities, research centers and companies by thousands of users. He has published more than one hundred papers in international refereed journals/conferences and has served in the program committee of all the most important conferences of Computer Graphics. He is member of Eurographics Executive Committee, and he has been in the Editorial Board of IEEE TVCG, Computer Graphics Forum, and ACM Journal on Computing and Cultural Heritage.
+Dr. **Paolo Cignoni** is a Research Director with CNR-ISTI where he leads the Visual Computing Laboratory. He received a Ph.D. Degree in Computer Science at the University of Pisa in 1998. He has been awarded "Best Young Researcher" by the Eurographics association in 2004. His research interests cover many Computer Graphics fields like geometry processing, 3D scanning data processing, digital fabrication, scientific visualisation and digital heritage.
+He teaches the main 3D Graphics course at the University of Pisa since more than 10 years. 
+
+He started and still leads the development of MeshLab, a widely known open source mesh processing tool used in hundreds of universities, research centers and companies by thousands of users. He has published more than one hundred papers in international refereed journals/conferences and has served in the program committee of all the most important conferences of Computer Graphics. He is member of Eurographics Executive Committee, and he has been in the Editorial Board of IEEE TVCG, Computer Graphics Forum, and ACM Journal on Computing and Cultural Heritage.
 
 
