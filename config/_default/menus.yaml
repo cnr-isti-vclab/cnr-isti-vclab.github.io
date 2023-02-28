@@ -11,7 +11,7 @@ main:
     url: research
     weight: 1
   - name: Publications
-    url: publication
+    url: Publication
     weight: 2
   - name: Activities
     url: results
