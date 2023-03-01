@@ -26,14 +26,17 @@ interests:
 - Computer Graphics
 - Digital Fabrication
 
-#education:
-#  courses:
-#  - course: Title course 1
-#    institution: Name of Institution
-#    year: 2012
-#  - course: Title course 1
-#    institution: Name of Institution
-#    year: 2012
+education:
+  courses:
+  - course: Bachelor's Degree in Computer Science
+    institution: Università degli Studi di Cagliari
+    year: 2012
+  - course: Master's Degree in Computer Science
+    institution: Università degli Studi di Cagliari
+    year: 2014
+  - course: Ph.D. in Mathematichs Computer Science
+    institution: Università degli Studi di Cagliari
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
