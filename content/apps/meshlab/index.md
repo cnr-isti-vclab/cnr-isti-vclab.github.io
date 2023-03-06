@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MeshLab"
-summary: ""
+summary: "MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured 3D triangular meshes. It also supports processing of raw data produced with 3D digitization tools/devices, providing a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting this kind of models."
 authors: []
 tags: []
 categories: []
