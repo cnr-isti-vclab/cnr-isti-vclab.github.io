@@ -1,6 +1,6 @@
 ---
-title: "Geometry Processing"
-authors: ["paolo-cignoni"]
+title: "XR and Advanced UI"
+authors: ["gianpaolo-palma"]
 show_date: false
 #date: 2022
 image:

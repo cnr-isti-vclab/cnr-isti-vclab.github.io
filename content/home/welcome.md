@@ -7,9 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  Visual Computing Laboratory
+hero_media: FMpav@Biennale.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +19,6 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The history of the Visual Computing Lab of CNR-ISTI began more than 25 years ago, with the friendship and collaboration of Claudio Montani (first head of the lab and former CNR-ISTI Director) and Roberto Scopigno (former head of the VClab, now CNR-ISTI Director). [Paolo Cignoni]({{< relref "/authors/paolo-cignoni" >}}), joined the laboratory at its beginning, and now heads the laboratory.
+
+

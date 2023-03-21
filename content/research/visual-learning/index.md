@@ -1,6 +1,6 @@
 ---
-title: "Geometry Processing"
-authors: ["paolo-cignoni"]
+title: "Visual Learning"
+authors: ["daniela-giorgi"]
 show_date: false
 #date: 2022
 image:

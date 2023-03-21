@@ -1,6 +1,6 @@
 ---
-title: "Geometry Processing"
-authors: ["paolo-cignoni"]
+title: "Environment Monitoring"
+authors: ["massimiliano-corsini","gaia-pavoni"]
 show_date: false
 #date: 2022
 image:

@@ -1,7 +1,7 @@
 ---
-title: "Digital Heritage"
+title: "Architectural Geometry"
 show_date: false
-authors: ["marco-callieri"]
+authors: ["francesco-laccone"]
 #date: 2022
 image:
   focal_point: 'top'

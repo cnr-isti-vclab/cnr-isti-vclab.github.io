@@ -60,6 +60,8 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+courses: ["geometry"]
+research: ["geometry-processing"]
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -77,5 +79,5 @@ Dr. **Paolo Cignoni** is a Research Director with CNR-ISTI where he leads the Vi
 He teaches the main 3D Graphics course at the University of Pisa since more than 10 years. 
 
 He started and still leads the development of MeshLab, a widely known open source mesh processing tool used in hundreds of universities, research centers and companies by thousands of users. He has published more than one hundred papers in international refereed journals/conferences and has served in the program committee of all the most important conferences of Computer Graphics. He is member of Eurographics Executive Committee, and he has been in the Editorial Board of IEEE TVCG, Computer Graphics Forum, and ACM Journal on Computing and Cultural Heritage.
-
+[A project]({{< relref "/research/geometry-processing" >}})
 

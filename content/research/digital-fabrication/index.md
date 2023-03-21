@@ -1,7 +1,7 @@
 ---
-title: "Digital Heritage"
+title: "Digital Fabrication"
+authors: ["luigi-malomo"]
 show_date: false
-authors: ["marco-callieri"]
 #date: 2022
 image:
   focal_point: 'top'
