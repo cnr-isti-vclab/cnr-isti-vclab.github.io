@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Pingi | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Paolo-Pingi/</link><atom:link href="http://vcg.isti.cnr.it/author/Paolo-Pingi/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Pingi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Paolo Pingi</title><link>http://vcg.isti.cnr.it/author/Paolo-Pingi/</link></image><item><title>Leafing through the painting “Ecce Homo” by Antonello da Messina: multimodal imaging techniques and data-fusion</title><link>http://vcg.isti.cnr.it/Publication/2022/CPARPSCSPSCTBBMD22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2022/CPARPSCSPSCTBBMD22/</guid><description/></item><item><title>Temporal Deformation Analysis of 3D Models as Diagnostic Tool for Panel Paintings</title><link>http://vcg.isti.cnr.it/Publication/2022/PPS22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2022/PPS22/</guid><description/></item><item><title>Un modello 3D per lo studio ed il monitoraggio</title><link>http://vcg.isti.cnr.it/Publication/2022/PS22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2022/PS22/</guid><description/></item><item><title>“Ecce Homo” by Antonello da Messina, from non-invasive investigations to data fusion and dissemination</title><link>http://vcg.isti.cnr.it/Publication/2021/ARCCPSPSBBMCTPSD21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2021/ARCCPSPSBBMCTPSD21/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_8_new.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_14.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_6_new.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_11.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_5_new.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_7.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_3.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_10.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_9.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_13_new.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_1.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_12.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Documentation and analysis of the deformations of the panel and painted surface with 3D scanning</title><link>http://vcg.isti.cnr.it/Publication/2021/PSPS21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2021/PSPS21/</guid><description/></item><item><title>Deformation analysis of Leonardo da Vinci&amp;apos;s &amp;ldquo;Adorazione dei Magi&amp;rdquo; through temporal unrelated 3D digitization</title><link>http://vcg.isti.cnr.it/Publication/2019/PPSBGS19a/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2019/PPSBGS19a/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/PPSBGS19a/modelr_displace.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/PPSBGS19a/adorazione.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/PPSBGS19a/model.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/PPSBGS19a/model_change_back.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/PPSBGS19a/model_change_front.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Rilievo 3D di Alchimia, ed uso dei modelli 3D per studio e divulgazione</title><link>http://vcg.isti.cnr.it/Publication/2019/CDLPPPS19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2019/CDLPPPS19/</guid><description/></item><item><title>Documentazione e analisi delle deformazioni del supporto ligneo e della superficie pittorica mediante rilievo 3D</title><link>http://vcg.isti.cnr.it/Publication/2017/PSPS17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2017/PSPS17/</guid><description/></item><item><title>A Virtual Experience Across the Buried History</title><link>http://vcg.isti.cnr.it/Publication/2016/CPCDPDS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2016/CPCDPDS16/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2016/CPCDPDS16/layers.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Alchemy in 3D – A Digitization for a Journey Through Matter</title><link>http://vcg.isti.cnr.it/Publication/2015/CPPDPLS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/CPPDPLS15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/kiosk.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/scan.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Digitizing and navigating unaccessible archaeological sites on mobile devices</title><link>http://vcg.isti.cnr.it/Publication/2015/MBPCDS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/MBPCDS15/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/virtualtour/" target="_blank" rel="noopener">VirtualTour&lt;/a>&lt;/p></description></item><item><title>Fast and Simple Automatic Alignment of Large Sets of Range Maps</title><link>http://vcg.isti.cnr.it/Publication/2015/PCGS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/PCGS15/</guid><description/></item><item><title>LecceAR: An Augmented Reality App</title><link>http://vcg.isti.cnr.it/Publication/2015/BCMPGA15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/BCMPGA15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_1.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_5.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_3.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_2.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://vcg.isti.cnr.it/LecceAR/" target="_blank" rel="noopener">LecceAR&lt;/a>&lt;/p></description></item><item><title>VirtualTour: A System for Exploring Cultural Heritage Sites in an Immersive Way</title><link>http://vcg.isti.cnr.it/Publication/2015/MBPGS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/MBPGS15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/MBPGS15/palmier_crypt_map_path.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/MBPGS15/ipad_photograph_w_hand.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/MBPGS15/meshlab.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://vcg.isti.cnr.it/virtualtour/" target="_blank" rel="noopener">VirtualTour&lt;/a>&lt;/p></description></item><item><title>Dallo stato di rudere alla realtà virtuale</title><link>http://vcg.isti.cnr.it/Publication/2014/PSCFS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2014/PSCFS14/</guid><description/></item><item><title>From the archival documentation to standardised web database and 3D models: the case study of the Camaldolese Abbey in Volterra (Italy)</title><link>http://vcg.isti.cnr.it/Publication/2014/SCPSBPLF14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2014/SCPSBPLF14/</guid><description/></item><item><title>Knowledge, science and enhancement of historical decaying buildings in Tuscany. The ArTeSalVa project</title><link>http://vcg.isti.cnr.it/Publication/2012/BPSCPS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2012/BPSCPS12/</guid><description/></item><item><title>Virtual Reconstruction of an Etruscan Tomb</title><link>http://vcg.isti.cnr.it/Publication/2012/BCDDPSS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2012/BCDDPSS12/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/BCDDPSS12/Fig9.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/BCDDPSS12/elm_snap_mod.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Integrazione di dati tridimensionali e campionamento del colore a fini di documentazione e visualizzazione interattiva</title><link>http://vcg.isti.cnr.it/Publication/2008/CCGMPS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2008/CCGMPS08/</guid><description/></item><item><title>Using 3D scanning to monitor wood deformations and to evaluate preservation strategies</title><link>http://vcg.isti.cnr.it/Publication/2007/BCPMPS07/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2007/BCPMPS07/</guid><description/></item><item><title>Enhancing processing and visualization efficiency of 3D scanned meshes</title><link>http://vcg.isti.cnr.it/Publication/2005/CCFMPPS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2005/CCFMPPS05/</guid><description/></item><item><title>Exploiting the scanning sequence for automatic registration of large sets of range maps</title><link>http://vcg.isti.cnr.it/Publication/2005/PFCMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2005/PFCMS05/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2005/PFCMS05/pic_arki.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2005/PFCMS05/pic_sepolcro2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2005/PFCMS05/pic_spyral_stripe_small2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Interactive visualization of artwork’s 3D digital reconstruction</title><link>http://vcg.isti.cnr.it/Publication/2005/BBCCCFMNNPPS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2005/BBCCCFMNNPPS05/</guid><description/></item><item><title>Tools for inverse mapping and visualization of multi-spectral image data on 3D scanned representations of drawings</title><link>http://vcg.isti.cnr.it/Publication/2005/CCGPPMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2005/CCGPPMS05/</guid><description/></item><item><title>Using multiple scanning technologies for the 3D acquisition of Torcello's basilica</title><link>http://vcg.isti.cnr.it/Publication/2005/BCCCDMPPSTU05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2005/BCCCDMPPSTU05/</guid><description/></item><item><title>Digital reconstruction of the Arrigo VII funerary complex</title><link>http://vcg.isti.cnr.it/Publication/2004/BBCCCFMNNPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2004/BBCCCFMNNPS04/</guid><description/></item><item><title>Digital representation and multimodal presentation of archeological graffiti at Pompei</title><link>http://vcg.isti.cnr.it/Publication/2004/BCFFMPSSU04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2004/BCFFMPSSU04/</guid><description/></item><item><title>Integrazione di dati tridimensionali e campionamento del colore a fini di documentazione e visualizzazione interattiva</title><link>http://vcg.isti.cnr.it/Publication/2004/CCGMPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2004/CCGMPS04/</guid><description/></item><item><title>Restoring David using 3D</title><link>http://vcg.isti.cnr.it/Publication/2004/CCGIMPPS04a/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2004/CCGIMPPS04a/</guid><description/></item><item><title>The Marching Intersections Algorithm for Merging Range Images</title><link>http://vcg.isti.cnr.it/Publication/2004/RCGMPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2004/RCGMPS04/</guid><description/></item><item><title>Visualization and 3D data processing in David’s restoration</title><link>http://vcg.isti.cnr.it/Publication/2004/CCGIMPPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2004/CCGIMPPS04/</guid><description/></item><item><title>Derma: monitoring the evolution of skin lesions with a 3D system</title><link>http://vcg.isti.cnr.it/Publication/2003/CCCPRS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2003/CCCPRS03/</guid><description/></item><item><title>Il modello digitale 3D del David e il suo uso nel progetto di restauro</title><link>http://vcg.isti.cnr.it/Publication/2003/SCCGMP03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2003/SCCGMP03/</guid><description/></item><item><title>Supporting the restoration of the Minerva of Arezzo</title><link>http://vcg.isti.cnr.it/Publication/2003/GFGPPPCS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2003/GFGPPPCS03/</guid><description/></item><item><title>Using optically scanned 3D data in the restoration of Michelangelo David</title><link>http://vcg.isti.cnr.it/Publication/2003/SCCGIPP03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2003/SCCGIPP03/</guid><description/></item><item><title>VCLab Tools for 3D range data processing</title><link>http://vcg.isti.cnr.it/Publication/2003/CCGMPS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2003/CCGMPS03/</guid><description/></item></channel></rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olga Sorkine-Hornung | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Olga-Sorkine-Hornung/</link><atom:link href="http://vcg.isti.cnr.it/author/Olga-Sorkine-Hornung/index.xml" rel="self" type="application/rss+xml"/><description>Olga Sorkine-Hornung</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Olga Sorkine-Hornung</title><link>http://vcg.isti.cnr.it/author/Olga-Sorkine-Hornung/</link></image><item><title>Autocuts: Simultaneous Distortion and Cut Optimization for UV Mapping</title><link>http://vcg.isti.cnr.it/Publication/2017/PTHPS17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2017/PTHPS17/</guid><description/></item><item><title>Image Content Retargeting: Maintaining Color, Tone, and Spatial Consistency</title><link>http://vcg.isti.cnr.it/Publication/2016/ABAPS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2016/ABAPS16/</guid><description>&lt;p>&lt;a href="https://www.crcpress.com/Image-Content-Retargeting-Maintaining-Color-Tone-and-Spatial-Consistency/Artusi-Banterle-Aydin-Panozzo-Sorkine-Hornung/p/book/9781482249910" target="_blank" rel="noopener">link to the official website&lt;/a>&lt;/p></description></item><item><title>Instant Field-aligned Meshes</title><link>http://vcg.isti.cnr.it/Publication/2015/JTPS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/JTPS15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/posbrush.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/bunny_varyingscale.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/database.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/box_ext_int.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/stmatthew.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/box_ext_int_pos.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/edit_orient_stacked.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/pos_sing.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/a02_representative_image.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/res_3dscan.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/a01_representative.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://github.com/wjakob/instant-meshes" target="_blank" rel="noopener">Code and executables on gitHub!&lt;/a>&lt;/p></description></item><item><title>Texture Mapping Real-World Objects with Hydrographics</title><link>http://vcg.isti.cnr.it/Publication/2015/PDPTSS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/PDPTSS15/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/PDPTSS15/results.JPG%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Frame fields: Anisotropic and non-orthogonal cross fields</title><link>http://vcg.isti.cnr.it/Publication/2014/PPTS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2014/PPTS14/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2014/PPTS14/fig1.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/PPTS14/source-code.zip" target="_blank" rel="noopener">[source code]&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/PPTS14/experimental-data.zip" target="_blank" rel="noopener">[experimental data]&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="//player.vimeo.com/video/114245005?title=0&amp;amp;byline=0&amp;amp;portrait=0" width="640" height="360" frameborder="0" frameborder="0" allowfullscreen></description></item></channel></rss>

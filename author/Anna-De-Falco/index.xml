@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anna De Falco | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Anna-De-Falco/</link><atom:link href="http://vcg.isti.cnr.it/author/Anna-De-Falco/index.xml" rel="self" type="application/rss+xml"/><description>Anna De Falco</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Anna De Falco</title><link>http://vcg.isti.cnr.it/author/Anna-De-Falco/</link></image><item><title>On assisting and automatizing the semantic segmentation of masonry walls</title><link>http://vcg.isti.cnr.it/Publication/2022/PGDCPCC22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2022/PGDCPCC22/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2022/PGDCPCC22/jocch1502-22-f12.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Another Brick in the Wall: Improving the Assisted Semantic Segmentation of Masonry Walls</title><link>http://vcg.isti.cnr.it/Publication/2020/PGDCPCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2020/PGDCPCC20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/demo2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/VVpredictions.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/demo1.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>

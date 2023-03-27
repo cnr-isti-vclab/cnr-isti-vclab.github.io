@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Denis Zorin | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Denis-Zorin/</link><atom:link href="http://vcg.isti.cnr.it/author/Denis-Zorin/index.xml" rel="self" type="application/rss+xml"/><description>Denis Zorin</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Denis Zorin</title><link>http://vcg.isti.cnr.it/author/Denis-Zorin/</link></image><item><title>Reinforcement of General Shell Structures</title><link>http://vcg.isti.cnr.it/Publication/2020/GPZ20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2020/GPZ20/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/GPZ20/0_thumb_reinforced.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Elastic Textures for Additive Fabrication</title><link>http://vcg.isti.cnr.it/Publication/2015/PZMPCZ15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2015/PZMPCZ15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/teaser.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/0_thumb_elastic.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://www.thingiverse.com/groups/microstructures/things" target="_blank" rel="noopener"> Some of the tested patterns &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/PZMPCZ15/Elastic_Textures_Siggraph_Slides.pptx" target="_blank" rel="noopener"> Siggraph presentation &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/licLnknhiFU" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Robust Field-aligned Global Parametrization</title><link>http://vcg.isti.cnr.it/Publication/2014/MPZ14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2014/MPZ14/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/MPZ14/14fieldtrace.pptx" target="_blank" rel="noopener"> talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/MPZ14/inputmodels.zip" target="_blank" rel="noopener"> Input data for our experiments &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/MPZ14/miq_NO_rounding.zip" target="_blank" rel="noopener"> Results of MIQ &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/MPZ14/miq_bd.zip" target="_blank" rel="noopener"> Results for BD &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/MPZ14/miq_igm.zip" target="_blank" rel="noopener"> Results for IGM &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/MPZ14/RGPFinal.zip" target="_blank" rel="noopener"> Our Results &lt;/a>&lt;/p></description></item><item><title>Quad-Mesh Generation and Processing: A Survey</title><link>http://vcg.isti.cnr.it/Publication/2013/BLPPSTZ13a/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2013/BLPPSTZ13a/</guid><description/></item><item><title>Quad Meshing</title><link>http://vcg.isti.cnr.it/Publication/2012/BLPPSTZ12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2012/BLPPSTZ12/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2012/BLPPSTZ12/slides_star_EG_on_quads.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Global Parametrization of Range Image Sets</title><link>http://vcg.isti.cnr.it/Publication/2011/PTSZ11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2011/PTSZ11/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/BadM1.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/Ateaser_Hpoint.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/pipeline.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/molecule1.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/badM0.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://vcg.isti.cnr.it/Publicstions/2011/PTSZ11/RParamSIGAsia2011.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Feature-aligned T-meshes</title><link>http://vcg.isti.cnr.it/Publication/2010/MPKZ10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2010/MPKZ10/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/MPKZ10/teaser_Tjunct.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/MPKZ10/Tmesh.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Geometry Processing 2004</title><link>http://vcg.isti.cnr.it/Publication/2004/SZ04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/Publication/2004/SZ04/</guid><description/></item></channel></rss>
