@@ -1,0 +1,6 @@
+
+RewriteEngine On
+
+RewriteBase /
+RewriteRule ^Publication/(.*)$ /publication/$1 [L,R=302]
+
