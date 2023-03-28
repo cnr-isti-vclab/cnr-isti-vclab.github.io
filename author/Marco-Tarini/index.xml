@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marco Tarini | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Marco-Tarini/</link><atom:link href="http://vcg.isti.cnr.it/author/Marco-Tarini/index.xml" rel="self" type="application/rss+xml"/><description>Marco Tarini</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Marco Tarini</title><link>http://vcg.isti.cnr.it/author/Marco-Tarini/</link></image><item><title>SkinMixer: Blending 3D Animated Models</title><link>http://vcg.isti.cnr.it/publication/2022/NPCST22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/NPCST22/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1145/3550454.3555503" target="_blank" rel="noopener"> https://doi.org/10.1145/3550454.3555503 &lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/84WPrEVuve4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Reliable feature-line driven quad-remeshing</title><link>http://vcg.isti.cnr.it/publication/2021/PNACT21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PNACT21/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1145/3450626.3459941" target="_blank" rel="noopener"> 10.1145/3450626.3459941&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.quadmesh.cloud/Thingi10K" target="_blank" rel="noopener"> www.quadmesh.cloud&lt;/a>&lt;/p>
@@ -39,37 +39,37 @@
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/mUzYFH7DrN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Texture Defragmentation for Photo-Reconstructed 3D Models</title><link>http://vcg.isti.cnr.it/publication/2021/MCT21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/MCT21/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_6.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_6.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_4.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_5.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_5.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_3.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_1.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1111/cgf.142615" target="_blank" rel="noopener">https://doi.org/10.1111/cgf.142615&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/maggio-a/texture-defrag" target="_blank" rel="noopener">https://github.com/maggio-a/texture-defrag&lt;/a>&lt;/p></description></item><item><title>Real-World Textured Things: a Repository of Textured Models Generated with Modern Photo-Reconstruction Tools</title><link>http://vcg.isti.cnr.it/publication/2020/MPCT20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/MPCT20/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/MPCT20/textured.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/MPCT20/textured.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/MPCT20/Textured_fig3.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/MPCT20/Textured_fig3.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://texturedmesh.isti.cnr.it/" target="_blank" rel="noopener">Real-World Textured Things (RWTT)&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://texturedmesh.isti.cnr.it/" target="_blank" rel="noopener">RWTT&lt;/a>&lt;/p>
@@ -77,224 +77,224 @@
 &lt;p>&lt;a href="https://doi.org/10.1016/j.cagd.2020.101943/" target="_blank" rel="noopener"> https://doi.org/10.1016/j.cagd.2020.101943/&lt;/a>&lt;/p></description></item><item><title>HexaLab.net: An online viewer for hexahedral meshes</title><link>http://vcg.isti.cnr.it/publication/2019/BTPLC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/BTPLC19/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/BTPLC19/snapshot_osx_chrome.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/BTPLC19/snapshot_osx_chrome.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus1.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://www.hexalab.net" target="_blank" rel="noopener">www.hexalab.net&lt;/a>&lt;/p></description></item><item><title>Autocuts: Simultaneous Distortion and Cut Optimization for UV Mapping</title><link>http://vcg.isti.cnr.it/publication/2017/PTHPS17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/PTHPS17/</guid><description/></item><item><title>Field-aligned online surface reconstruction</title><link>http://vcg.isti.cnr.it/publication/2017/STJKGP17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/STJKGP17/</guid><description/></item><item><title>Position-Based Tensegrity Design</title><link>http://vcg.isti.cnr.it/publication/2017/PTVPC17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/PTVPC17/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2017/PTVPC17/knot.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2017/PTVPC17/knot.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2017/PTVPC17/sphere_7.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2017/PTVPC17/sphere_7.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2017/PTVPC17/representative_tensegrity.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2017/PTVPC17/representative_tensegrity.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2017/PTVPC17/assembly.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2017/PTVPC17/assembly.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2017/PTVPC17/arc_3_stand.JPG%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2017/PTVPC17/arc_3_stand.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/Publicstions/2017/PTVPC17/tensegritysigA16_9.pptx" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2017/PTVPC17/TensegrityData.zip" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/qgilDkW_Aps" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Rethinking texture mapping</title><link>http://vcg.isti.cnr.it/publication/2017/TYL17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/TYL17/</guid><description/></item><item><title>Robust hex-dominant mesh generation using field-guided polyhedral agglomeration</title><link>http://vcg.isti.cnr.it/publication/2017/GTJP17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/GTJP17/</guid><description/></item><item><title>Sketch-Based Implicit Blending</title><link>http://vcg.isti.cnr.it/publication/2017/ATWBT17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/ATWBT17/</guid><description/></item><item><title>Anisotropic MatCap: Easy Capture and Reproduction of Anisotropic Materials</title><link>http://vcg.isti.cnr.it/publication/2016/MCT16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/MCT16/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2016/MCT16/image79.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2016/MCT16/image79.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2016/MCT16/camicia4.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2016/MCT16/camicia4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>cSculpt: A System for Collaborative Sculpting</title><link>http://vcg.isti.cnr.it/publication/2016/CSTP16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/CSTP16/</guid><description/></item><item><title>Volume-encoded UV-maps</title><link>http://vcg.isti.cnr.it/publication/2016/Tar16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/Tar16/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2016/Tar16/composed3.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2016/Tar16/composed3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2016/Tar16/combined2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2016/Tar16/combined2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/volume-encoded-uv-maps/" target="_blank" rel="noopener"> Project page (with demo, sources, etc). &lt;/a>&lt;/p></description></item><item><title>Extraction of the Quad Layout of a Triangle Mesh Guided by its Curve-Skeleton</title><link>http://vcg.isti.cnr.it/publication/2015/ULPTS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/ULPTS15/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/ULPTS15/remeshing.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/remeshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/ULPTS15/loops.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/loops.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/ULPTS15/domains_combined.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/domains_combined.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/ULPTS15/01_teaser.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/01_teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/ULPTS15/mosaic.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/mosaic.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://drive.google.com/open?id=0B6EEjMMaU7haUHhmQ0xWOGRjSVE" target="_blank" rel="noopener">Data Available Here.&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=5TzsT2BVVhA" target="_blank" rel="noopener">Video (youtube).&lt;/a>&lt;/p></description></item><item><title>Instant Field-aligned Meshes</title><link>http://vcg.isti.cnr.it/publication/2015/JTPS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/JTPS15/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/posbrush.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/posbrush.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/bunny_varyingscale.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/bunny_varyingscale.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/database.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/database.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/box_ext_int.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/box_ext_int.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/stmatthew.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/stmatthew.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/box_ext_int_pos.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/box_ext_int_pos.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/edit_orient_stacked.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/edit_orient_stacked.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/pos_sing.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/pos_sing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/a02_representative_image.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/a02_representative_image.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/res_3dscan.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/res_3dscan.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/JTPS15/a01_representative.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/JTPS15/a01_representative.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://github.com/wjakob/instant-meshes" target="_blank" rel="noopener">Code and executables on gitHub!&lt;/a>&lt;/p></description></item><item><title>Practical Hex-Mesh Optimization via Edge-Cone Rectification</title><link>http://vcg.isti.cnr.it/publication/2015/LSVT15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/LSVT15/</guid><description>&lt;p>&lt;a href="http://www.cs.ubc.ca/labs/imager/tr/2015/untangler/" target="_blank" rel="noopener">[ project page ]&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=QCts--i99yA" target="_blank" rel="noopener">[ Video ]
 &lt;/a>&lt;/p></description></item><item><title>Texture Mapping Real-World Objects with Hydrographics</title><link>http://vcg.isti.cnr.it/publication/2015/PDPTSS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PDPTSS15/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/PDPTSS15/results.JPG%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/PDPTSS15/results.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Accurate and Efficient Lighting for Skinned Models</title><link>http://vcg.isti.cnr.it/publication/2014/TPS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/TPS14/</guid><description>&lt;iframe width="580" height="435" src="//player.vimeo.com/video/85267396?title=0&amp;amp;byline=0&amp;amp;portrait=0" width="640" height="360" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Frame fields: Anisotropic and non-orthogonal cross fields</title><link>http://vcg.isti.cnr.it/publication/2014/PPTS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/PPTS14/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2014/PPTS14/fig1.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2014/PPTS14/fig1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/PPTS14/source-code.zip" target="_blank" rel="noopener">[source code]&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2014/PPTS14/experimental-data.zip" target="_blank" rel="noopener">[experimental data]&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="//player.vimeo.com/video/114245005?title=0&amp;amp;byline=0&amp;amp;portrait=0" width="640" height="360" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>PhotoCloud: interactive remote exploration of large 2D-3D datasets</title><link>http://vcg.isti.cnr.it/publication/2013/BBTPCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BBTPCS13/</guid><description>&lt;p>&lt;a href="http://www.youtube.com/playlist?list=PLHJB2bhmgB7cmYD0ST9CEDMRv1JlX4xPH" target="_blank" rel="noopener">youTube videos&lt;/a>&lt;/p></description></item><item><title>Quad-Mesh Generation and Processing: A Survey</title><link>http://vcg.isti.cnr.it/publication/2013/BLPPSTZ13a/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BLPPSTZ13a/</guid><description/></item><item><title>Sala del Grechetto: ricostruzione virtuale</title><link>http://vcg.isti.cnr.it/publication/2013/Tar13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/Tar13/</guid><description/></item><item><title>Cylindrical and Toroidal Parameterizations Without Vertex Seams</title><link>http://vcg.isti.cnr.it/publication/2012/Tar12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/Tar12/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/Tar12/whyItWorks.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2012/Tar12/whyItWorks.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/~tarini/no-seams/" target="_blank" rel="noopener">link to the homepages&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://vcg.isti.cnr.it/~tarini/no-seams/" target="_blank" rel="noopener">online&lt;/a>&lt;/p></description></item><item><title>Joint Interactive Visualization of 3D Models and Pictures in Walkable Scenes</title><link>http://vcg.isti.cnr.it/publication/2012/BTCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BTCS12/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_50.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_50.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_100_rot.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_100_rot.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/BTCS12/50_0.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/50_0.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_100.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_100.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_0.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_0.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>PileBars: Scalable Dynamic Thumbnail Bars</title><link>http://vcg.isti.cnr.it/publication/2012/BTPCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BTPCS12/</guid><description/></item><item><title>Quad Meshing</title><link>http://vcg.isti.cnr.it/publication/2012/BLPPSTZ12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BLPPSTZ12/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2012/BLPPSTZ12/slides_star_EG_on_quads.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Automatic Construction of Quad-Based Subdivision Surfaces using Fitmaps</title><link>http://vcg.isti.cnr.it/publication/2011/PPTPC11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/PPTPC11/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2011/PPTPC11/fitmap.ppt" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="http://www.youtube.com/embed/a0wYWC8JX34" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Global Parametrization of Range Image Sets</title><link>http://vcg.isti.cnr.it/publication/2011/PTSZ11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/PTSZ11/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/BadM1.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/PTSZ11/BadM1.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/Ateaser_Hpoint.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/PTSZ11/Ateaser_Hpoint.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/pipeline.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/PTSZ11/pipeline.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/molecule1.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/PTSZ11/molecule1.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/PTSZ11/badM0.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/PTSZ11/badM0.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/Publicstions/2011/PTSZ11/RParamSIGAsia2011.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Simple Quad Domains for Field Aligned Mesh Parametrization</title><link>http://vcg.isti.cnr.it/publication/2011/TPPPC11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/TPPPC11/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/TPPPC11/drill-smooth-pow2.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/drill-smooth-pow2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/TPPPC11/bunny-smooth-match.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/bunny-smooth-match.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/TPPPC11/rocker-smooth-match-a.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/rocker-smooth-match-a.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2011/TPPPC11/kitten-smotth.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/kitten-smotth.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/Publicstions/2011/TPPPC11/SimpleQuad.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>A framework for User-Assisted Sketch-Based Fitting of Geometric Primitives</title><link>http://vcg.isti.cnr.it/publication/2010/PGTCDS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PGTCDS10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/RisColonna.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/RisColonna.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/scalaSanGimignano.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/scalaSanGimignano.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Almost isometric mesh parameterization through abstract domains</title><link>http://vcg.isti.cnr.it/publication/2010/PTC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PTC10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/PTC10/total.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/total.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/PTC10/omotondo.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/omotondo.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://meshlab.sourceforge.net" target="_blank" rel="noopener">mesh processing&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/isoParam_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
@@ -306,19 +306,19 @@
 &lt;iframe width="580" height="435" src="http://www.youtube.com/v/t4RC3H3Ab0Y&amp;hl=en_US&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Browsing Large Image Datasets through Voronoi Diagrams</title><link>http://vcg.isti.cnr.it/publication/2010/BTC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BTC10/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/BTC10/horizontal.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/BTC10/horizontal.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Practical quad mesh simplification</title><link>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/TPCPP10/diag_ambiguity2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/diag_ambiguity2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/TPCPP10/composed.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/composed.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2010/TPCPP10/Ateaser_quad.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/Ateaser_quad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/quad_sempl.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/quad_meshes.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
@@ -326,39 +326,39 @@
 &lt;iframe width="580" height="435" src="http://www.youtube.com/v/CUuhwksq0jY&amp;hl=it_IT&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Ambient occlusion and edge cueing to enhance real time molecular visualization</title><link>http://vcg.isti.cnr.it/publication/2006/TCM06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/TCM06/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2006/TCM06/rendr_capping_crop.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/rendr_capping_crop.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2006/TCM06/halo_w.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/halo_w.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2006/TCM06/halo_b.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/halo_b.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2006/TCM06/a_qutemol_splash.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/a_qutemol_splash.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2006/TCM06/splash_thickborders.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/splash_thickborders.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2006/TCM06/ballandsticks.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/ballandsticks.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2006/TCM06/par_sma_2.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/par_sma_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://qutemol.sourceforge.net" target="_blank" rel="noopener">QuteMol&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://qutemol.sourceforge.net" target="_blank" rel="noopener">qutemol.sourceforge.net&lt;/a>&lt;/p></description></item><item><title>3D Acquisition of Mirroring Objects using Striped Patterns</title><link>http://vcg.isti.cnr.it/publication/2005/TLMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/TLMS05/</guid><description/></item><item><title>A simple Normal Enhancement technique for Interactive Non-photorealistic Renderings</title><link>http://vcg.isti.cnr.it/publication/2005/CST05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/CST05/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2005/CST05/CAG_TopCitedArticle.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2005/CST05/CAG_TopCitedArticle.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Pinchmaps: Textures with Customizable Discontinuities</title><link>http://vcg.isti.cnr.it/publication/2005/TC05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/TC05/</guid><description/></item><item><title>A Quadrilateral Rendering Primitive</title><link>http://vcg.isti.cnr.it/publication/2004/HT04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/HT04/</guid><description/></item><item><title>PolyCube-Maps</title><link>http://vcg.isti.cnr.it/publication/2004/THCM04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/THCM04/</guid><description/></item><item><title>Protected Interactive 3D Graphics Via Remote Rendering</title><link>http://vcg.isti.cnr.it/publication/2004/KTLTCCS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/KTLTCCS04/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2004/KTLTCCS04/protected1.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2004/KTLTCCS04/protected1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Visibility based methods and assessment for detail-recovery</title><link>http://vcg.isti.cnr.it/publication/2003/TCS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/TCS03/</guid><description/></item><item><title>HexaLab</title><link>http://vcg.isti.cnr.it/apps/hexalab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/apps/hexalab/</guid><description/></item></channel></rss>

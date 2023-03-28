@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Francesco Banterle | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Francesco-Banterle/</link><atom:link href="http://vcg.isti.cnr.it/author/Francesco-Banterle/index.xml" rel="self" type="application/rss+xml"/><description>Francesco Banterle</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Francesco Banterle</title><link>http://vcg.isti.cnr.it/author/Francesco-Banterle/</link></image><item><title>Virtual clones for cultural heritage applications</title><link>http://vcg.isti.cnr.it/publication/2021/PBCDPS21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PBCDPS21/</guid><description/></item><item><title>NoR-VDPNet: A No-Reference High Dynamic Range Quality Metric Trained on HDR-VDP 2</title><link>http://vcg.isti.cnr.it/publication/2020/BAMC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/BAMC20/</guid><description/></item><item><title>Turning a Smartphone Selfie Into a Studio Portrait</title><link>http://vcg.isti.cnr.it/publication/2020/CBCGE20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/CBCGE20/</guid><description/></item><item><title>ViDA 3D: Towards a View-based Dataset for Aesthetic prediction on 3D models</title><link>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/views.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/views.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/creatures.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/creatures.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/cultherit.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/cultherit.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/architecture.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/architecture.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Deep Flash : Turning a Flash Selfie Into a Studio Portrait</title><link>http://vcg.isti.cnr.it/publication/2019/CBCGSE19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/CBCGSE19/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/CBCGSE19/results_ssim.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/CBCGSE19/results_ssim.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1016/j.image.2019.05.013" target="_blank" rel="noopener"> 10.1016/j.image.2019.05.013&lt;/a>&lt;/p></description></item><item><title>Developing the ArchAIDE application: A digital workflow for identifying, organising and sharing archaeological pottery using automated image recognition</title><link>http://vcg.isti.cnr.it/publication/2019/ABBCDDEGGHIMMRRSVWWZ/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/ABBCDDEGGHIMMRRSVWWZ/</guid><description/></item><item><title>Efficient Evaluation of Image Quality via Deep-Learning Approximation of Perceptual Metrics</title><link>http://vcg.isti.cnr.it/publication/2019/ABMC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/ABMC19/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/ABMC19/tmo_opt.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/ABMC19/tmo_opt.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/ABMC19/timings.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/ABMC19/timings.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1109/TIP.2019.2944079" target="_blank" rel="noopener">link to the paper&lt;/a>&lt;/p></description></item><item><title>High Dynamic Range Point Clouds for Real-Time Relighting</title><link>http://vcg.isti.cnr.it/publication/2019/SPBBC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/SPBBC19/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/SPBBC19/office.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/SPBBC19/office.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/SPBBC19/corridor.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/SPBBC19/corridor.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/SPBBC19/atrium.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/SPBBC19/atrium.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/Publications/2019/SPBBC19/hdr_pbgi.pptx" target="_blank" rel="noopener"> Slides &lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/szBWhY1b4x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>HMD-TMO: A Tone Mapping Operator for 360 HDR Images Visualization for Head Mounted Displays</title><link>http://vcg.isti.cnr.it/publication/2019/GCB19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/GCB19/</guid><description>&lt;p>&lt;a href="https://www.springerprofessional.de/en/hmd-tmo-a-tone-mapping-operator-for-360-hdr-images-visualization/16798156" target="_blank" rel="noopener">link&lt;/a>&lt;/p></description></item><item><title>Image Sets Compression via Patch Redundancy</title><link>http://vcg.isti.cnr.it/publication/2019/CBPC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/CBPC19/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8-woreg.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8-woreg.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2019/CBPC19/example-dataset.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2019/CBPC19/example-dataset.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1109/EUVIP47703.2019.8946237" target="_blank" rel="noopener">link to the paper&lt;/a>&lt;/p></description></item><item><title>Automatic saturation correction for dynamic range management algorithms</title><link>http://vcg.isti.cnr.it/publication/2018/APBA18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/APBA18/</guid><description>&lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S0923596518300973?via%3Dihub" target="_blank" rel="noopener">link to the paper&lt;/a>&lt;/p></description></item><item><title>Fine-grained detection of inverse tone mapping in HDR images</title><link>http://vcg.isti.cnr.it/publication/2018/FVBD18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/FVBD18/</guid><description>&lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S0165168418301968" target="_blank" rel="noopener">Link&lt;/a>&lt;/p></description></item><item><title>Advanced High Dynamic Range Imaging</title><link>http://vcg.isti.cnr.it/publication/2017/BADC17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/BADC17/</guid><description>&lt;p>&lt;a href="http://www.advancedhdrbook.com/" target="_blank" rel="noopener">link to the official website&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/banterle/HDR_Toolbox/" target="_blank" rel="noopener">link to the HDR Toolbox git repository&lt;/a>&lt;/p></description></item><item><title>From Paper to Web: Automatic Generation of a Web-Accessible 3D Repository of Pottery Types</title><link>http://vcg.isti.cnr.it/publication/2017/DCBAZS17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/DCBAZS17/</guid><description/></item><item><title>The ArchAIDE Project: Results and Perspectives After the First Year</title><link>http://vcg.isti.cnr.it/publication/2017/BDEGIZ17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/BDEGIZ17/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2017/BDEGIZ17/ex.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2017/BDEGIZ17/ex.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>VASESKETCH: Automatic 3D Representation of Pottery from Paper Catolog Drawings</title><link>http://vcg.isti.cnr.it/publication/2017/BIDWCDS17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/BIDWCDS17/</guid><description>&lt;p>&lt;a href="https://github.com/cnr-isti-vclab/ArchAIDE_digit" target="_blank" rel="noopener">source code&lt;/a>&lt;/p></description></item><item><title>A Gamut Mapping Framework for Color-Accurate Reproduction of HDR Images</title><link>http://vcg.isti.cnr.it/publication/2016/SPAABRM16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/SPAABRM16/</guid><description>&lt;p>&lt;a href="https://ieeexplore.ieee.org/document/7325187" target="_blank" rel="noopener">Link&lt;/a>&lt;/p></description></item><item><title>Forensic detection of inverse tone mapping in HDR images</title><link>http://vcg.isti.cnr.it/publication/2016/FVBD16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/FVBD16/</guid><description/></item><item><title>High Dynamic Range Video: Concepts, Technologies and Applications</title><link>http://vcg.isti.cnr.it/publication/2016/BU16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/BU16/</guid><description>&lt;p>&lt;a href="https://www.sciencedirect.com/book/9780128094778/high-dynamic-range-video" target="_blank" rel="noopener">Link&lt;/a>&lt;/p></description></item><item><title>Image Content Retargeting: Maintaining Color, Tone, and Spatial Consistency</title><link>http://vcg.isti.cnr.it/publication/2016/ABAPS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/ABAPS16/</guid><description>&lt;p>&lt;a href="https://www.crcpress.com/Image-Content-Retargeting-Maintaining-Color-Tone-and-Spatial-Consistency/Artusi-Banterle-Aydin-Panozzo-Sorkine-Hornung/p/book/9781482249910" target="_blank" rel="noopener">link to the official website&lt;/a>&lt;/p></description></item><item><title>Mixing tone mapping operators on the GPU by differential zone mapping based on psychophysical experiments</title><link>http://vcg.isti.cnr.it/publication/2016/BASLBCB16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/BASLBCB16/</guid><description>&lt;p>&lt;a href="https://www.sciencedirect.com/science/article/pii/S0923596516301308" target="_blank" rel="noopener">Link&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/banterle/HDR_Toolbox" target="_blank" rel="noopener">The source code&lt;/a>&lt;/p></description></item><item><title>Practical-HDR: A Simple and Effective Method for Merging High Dynamic Range Videos</title><link>http://vcg.isti.cnr.it/publication/2016/ABCAS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/ABCAS16/</guid><description/></item><item><title>The HDR-video pipeline</title><link>http://vcg.isti.cnr.it/publication/2016/UBEM16a/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/UBEM16a/</guid><description/></item><item><title>Compression and Querying of Arbitrary Geodesic Distances</title><link>http://vcg.isti.cnr.it/publication/2015/ABPMCS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/ABPMCS15/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/ABPMCS15/PresentationICIAP.pptx.zip" target="_blank" rel="noopener"> Iciap presentation &lt;/a>&lt;/p></description></item><item><title>Digitizing and navigating unaccessible archaeological sites on mobile devices</title><link>http://vcg.isti.cnr.it/publication/2015/MBPCDS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/MBPCDS15/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/virtualtour/" target="_blank" rel="noopener">VirtualTour&lt;/a>&lt;/p></description></item><item><title>Effects of display rendering on HDR image quality assessment</title><link>http://vcg.isti.cnr.it/publication/2015/ZVDBD15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/ZVDBD15/</guid><description/></item><item><title>LecceAR: An Augmented Reality App</title><link>http://vcg.isti.cnr.it/publication/2015/BCMPGA15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/BCMPGA15/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_1.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_1.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_5.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_5.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_3.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_3.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_2.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/BCMPGA15/screen_with_ar_2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/LecceAR/" target="_blank" rel="noopener">LecceAR&lt;/a>&lt;/p></description></item><item><title>LecceAR: An Augmented Reality App for Cultural Heritage</title><link>http://vcg.isti.cnr.it/publication/2015/BCM15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/BCM15/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCM15/figure_3_a.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/BCM15/figure_3_a.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/BCM15/figure_3_c.jpg%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/BCM15/figure_3_c.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/LecceAR/" target="_blank" rel="noopener">LecceAR&lt;/a>&lt;/p></description></item><item><title>Photorealistic rendering of mixed reality scenes</title><link>http://vcg.isti.cnr.it/publication/2015/KBGMU15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/KBGMU15/</guid><description/></item><item><title>VirtualTour: A System for Exploring Cultural Heritage Sites in an Immersive Way</title><link>http://vcg.isti.cnr.it/publication/2015/MBPGS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/MBPGS15/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/MBPGS15/palmier_crypt_map_path.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/MBPGS15/palmier_crypt_map_path.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/MBPGS15/ipad_photograph_w_hand.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/MBPGS15/ipad_photograph_w_hand.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%27http://vcg.isti.cnr.it/Publications/2015/MBPGS15/meshlab.png%27" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/MBPGS15/meshlab.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://vcg.isti.cnr.it/virtualtour/" target="_blank" rel="noopener">VirtualTour&lt;/a>&lt;/p></description></item><item><title>CG-TMO: A Local Tone Mapping for Computer Graphics Generated Content</title><link>http://vcg.isti.cnr.it/publication/2014/BABS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/BABS14/</guid><description/></item><item><title>Dynamic Range Expansion of Video Sequences: a Subjective Quality Assessment Study</title><link>http://vcg.isti.cnr.it/publication/2014/DVLDB14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/DVLDB14/</guid><description/></item><item><title>Color Correction for Tone Reproduction</title><link>http://vcg.isti.cnr.it/publication/2013/PABASR13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/PABASR13/</guid><description/></item><item><title>EnvyDepth: An Interface for Recovering Local Natural Illumination from Environment Maps</title><link>http://vcg.isti.cnr.it/publication/2013/BCDCPS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BCDCPS13/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2013/BCDCPS13/envy_depth.zip" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://piccantelib.net" target="_blank" rel="noopener"> Piccante&lt;/a>&lt;/p>
