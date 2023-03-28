@@ -19,6 +19,5 @@ design:
 
 <br>
 
-The history of the Visual Computing Lab of CNR-ISTI began more than 25 years ago, with the friendship and collaboration of Claudio Montani (first head of the lab and former CNR-ISTI Director) and Roberto Scopigno (former head of the VClab, now CNR-ISTI Director). [Paolo Cignoni]({{< relref "/authors/paolo-cignoni" >}}), joined the laboratory at its beginning, and now heads the laboratory.
-
+The Visual Computing Lab is a research group of the [CNR-ISTI](https://www.isti.cnr.it/) (Italian National Research Council - Institute for Information Science and Technology) in Pisa, Italy. The lab is headed by [Paolo Cignoni]({{< relref "/authors/paolo-cignoni" >}}), and is located in the CNR-ISTI [building](https://www.isti.cnr.it/en/about/reach-us) in the CNR Research Area in Pisa, Italy. 
 
