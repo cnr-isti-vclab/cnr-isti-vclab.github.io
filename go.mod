@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-research-group
+module github.com/cnr-isti-vclab/cnr-isti-vclab.github.io
 
 go 1.15
 
