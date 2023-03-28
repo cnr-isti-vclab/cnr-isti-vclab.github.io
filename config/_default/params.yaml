@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: mrrobot
+  theme_night: mr_robot
   font: native
   font_size: L
 
