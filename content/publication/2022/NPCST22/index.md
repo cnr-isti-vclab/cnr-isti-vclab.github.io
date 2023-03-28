@@ -19,10 +19,10 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png" >}}
 [ https://doi.org/10.1145/3550454.3555503 ](https://doi.org/10.1145/3550454.3555503)
 
 <iframe width="580" height="435" src="https://www.youtube.com/embed/84WPrEVuve4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>

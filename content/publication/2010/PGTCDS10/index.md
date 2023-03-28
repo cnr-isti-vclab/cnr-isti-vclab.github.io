@@ -19,5 +19,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/Portelli_etal_AFramework.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/RisColonna.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/scalaSanGimignano.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/RisColonna.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/scalaSanGimignano.png" >}}

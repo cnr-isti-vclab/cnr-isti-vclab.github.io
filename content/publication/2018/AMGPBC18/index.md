@@ -20,12 +20,12 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_heptoroid.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_fertility.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_lucy.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_armadillo.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_horse.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_hammer.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_heptoroid.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_fertility.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_lucy.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_armadillo.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_horse.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/AMGPBC18/result_hammer.jpg" >}}
 [ Slides ](http://vcg.isti.cnr.it/Publicstions/2018/AMGPBC18/metamolds_slides.pptx)
 
 <iframe width="580" height="435" src="https://www.youtube.com/embed/7M2TbQnRLNg" frameborder="0" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen>

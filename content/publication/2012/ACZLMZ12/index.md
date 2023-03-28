@@ -19,4 +19,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/ACZLMZ12/bioblender.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/ACZLMZ12/bioblender.jpg" >}}

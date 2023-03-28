@@ -17,9 +17,9 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/PBFS14/kiosk.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/PBFS14/viewer_hotspot.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/PBFS14/viewer_light.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/PBFS14/a_home.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/PBFS14/kiosk.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/PBFS14/viewer_hotspot.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/PBFS14/viewer_light.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/PBFS14/a_home.jpg" >}}
 <iframe width="580" height="435" src="//www.youtube.com/embed/0A3bzSk7VHw" frameborder="0" frameborder="0" allowfullscreen>
 

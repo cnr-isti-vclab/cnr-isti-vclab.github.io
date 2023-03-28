@@ -16,5 +16,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2015/CDS15/isprsarchives-XL-5-W4-147-2015(1).pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/CDS15/ToWebsite.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/CDS15/SanSilvestro1.PNG' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/CDS15/ToWebsite.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/CDS15/SanSilvestro1.PNG" >}}

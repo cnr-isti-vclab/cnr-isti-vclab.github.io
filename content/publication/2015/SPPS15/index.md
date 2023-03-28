@@ -17,5 +17,5 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/SPPS15/3dhop.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/SPPS15/3dhop_reconstruc.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/SPPS15/3dhop.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/SPPS15/3dhop_reconstruc.jpg" >}}

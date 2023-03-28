@@ -17,5 +17,5 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/DDCA21/IRS1.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/DDCA21/IRS2.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/DDCA21/IRS1.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/DDCA21/IRS2.jpg" >}}

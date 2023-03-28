@@ -17,4 +17,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/CLDS13/Screenshot_presenter.PNG' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/CLDS13/Screenshot_presenter.PNG" >}}

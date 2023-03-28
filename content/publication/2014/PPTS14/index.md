@@ -20,7 +20,7 @@ url_pdf: http://vcg.isti.cnr.it/Publications/2014/PPTS14/frame-fields.pdf
 url_pdf: http://vcg.isti.cnr.it/Publications/2014/PPTS14/frame_fields_additional.pdf
 url_video: http://vcg.isti.cnr.it/Publications/2014/PPTS14/frame_fields.mp4
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/PPTS14/fig1.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/PPTS14/fig1.png" >}}
 [[source code]](http://vcg.isti.cnr.it/Publicstions/2014/PPTS14/source-code.zip)
 
 [[experimental data]](http://vcg.isti.cnr.it/Publicstions/2014/PPTS14/experimental-data.zip)

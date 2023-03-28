@@ -22,4 +22,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2011/CCDBCMRSB11/Callieri_et_al_Multiscale.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/CCDBCMRSB11/ColorPorta.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/CCDBCMRSB11/ColorPorta.jpg" >}}

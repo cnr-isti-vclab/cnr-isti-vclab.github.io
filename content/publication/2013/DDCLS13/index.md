@@ -18,5 +18,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2013/DDCLS13/Dellepiane_excavation.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/DDCLS13/Figure_9.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/DDCLS13/Figure_3.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DDCLS13/Figure_9.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DDCLS13/Figure_3.jpg" >}}

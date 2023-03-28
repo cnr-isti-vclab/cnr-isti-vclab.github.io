@@ -22,4 +22,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/YAVFRPLCS20/DHFSlicer_Teaser.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/YAVFRPLCS20/DHFSlicer_Teaser.jpg" >}}

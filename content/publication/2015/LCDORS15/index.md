@@ -19,5 +19,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2015/LCDORS15/DreamCross_JOCCH.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/LCDORS15/panel.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/LCDORS15/rune_word.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/LCDORS15/panel.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/LCDORS15/rune_word.jpg" >}}

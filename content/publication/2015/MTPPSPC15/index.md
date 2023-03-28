@@ -23,8 +23,8 @@ abstract: 'We propose an interactive quadrangulation method based on a large col
 url_video: http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/comparison.mp4
 url_pdf: http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/DDQ-Paper.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/oldman_our.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/bunny_our.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/oldman_our.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/bunny_our.png" >}}
 [ Siggraph presentation ](http://vcg.isti.cnr.it/Publicstions/2015/MTPPSPC15/DDIQ.key.zip)
 
 [ Code (GUI for retopology - SketchRetopo) ](http://igl.ethz.ch/projects/sketch-retopo/sketch-retopo-license.html)

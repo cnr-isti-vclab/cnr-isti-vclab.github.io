@@ -16,6 +16,6 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2012/CCS12/TVCG-2011-07-0217.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/CCS12/bunny_poisson.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/CCS12/dragonSnap02.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/CCS12/fandiskSampling0crop.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/CCS12/bunny_poisson.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/CCS12/dragonSnap02.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/CCS12/fandiskSampling0crop.png" >}}

@@ -15,4 +15,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2016/PD16/FastDec_Ponchio.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2016/PD16/Progress.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2016/PD16/Progress.png" >}}

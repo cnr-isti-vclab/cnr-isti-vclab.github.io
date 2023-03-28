@@ -19,6 +19,6 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/PAMPMC20/EX-5.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/PAMPMC20/IN-2.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/PAMPMC20/EX-6.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/PAMPMC20/EX-5.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/PAMPMC20/IN-2.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/PAMPMC20/EX-6.jpg" >}}

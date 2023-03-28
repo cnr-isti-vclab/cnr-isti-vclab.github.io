@@ -19,5 +19,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2013/DFLDCL13/digitalheritage2013_Pompeii.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/DFLDCL13/Pomp2.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/DFLDCL13/Pomp1.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DFLDCL13/Pomp2.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DFLDCL13/Pomp1.png" >}}

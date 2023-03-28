@@ -18,4 +18,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2016/PPDCS16/fig6_3D_apollo.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2016/PPDCS16/fig6_3D_apollo.png" >}}

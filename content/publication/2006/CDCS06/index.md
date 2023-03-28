@@ -17,4 +17,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2006/CDCS06/system.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2006/CDCS06/system.png" >}}

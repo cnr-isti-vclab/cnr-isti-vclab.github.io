@@ -17,7 +17,7 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/SGPC20/timeline_cropped.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/SGPC20/teaser_colormap1.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/SGPC20/timeline_cropped.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/SGPC20/teaser_colormap1.png" >}}
 [Reviewernet.org](https://reviewernet.org)
 

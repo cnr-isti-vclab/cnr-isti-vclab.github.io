@@ -20,6 +20,6 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/PCDS12/ennis.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/PCDS12/pisa.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/PCDS12/1_uffizi.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/PCDS12/ennis.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/PCDS12/pisa.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/PCDS12/1_uffizi.png" >}}

@@ -18,4 +18,4 @@ image:
 abstract: 'Recycled HDPE plastic can be obtained from up to 100% waste material and can be produced in the shape of panels and rods. The aim of this work is to explore the possibility to employ this material for structural purposes. The proposed concept for segmented shells is based on the cassette system, namely a spatial waffle structure clamped by inner and outer plates, and a shaping strategy of the shell cross section targeted on bending. The concept is applied on translational surfaces, in which the transverse cross section serves as the shaping objective. A digital workflow is implemented to explore the possible solutions and to evaluate the shells'' feasibility from both a fabrication and a structural point of view. A case study of 5.2 meters is further explored with nonlinear analysis.'
 url_pdf: http://vcg.isti.cnr.it/Publications/2022/LMMC22/IASS2021-Laccone_final_rev.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2022/LMMC22/shapes.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2022/LMMC22/shapes.jpg" >}}

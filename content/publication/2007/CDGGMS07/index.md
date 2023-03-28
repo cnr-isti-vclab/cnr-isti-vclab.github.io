@@ -20,4 +20,4 @@ image:
 url_pdf: http://vcg.isti.cnr.it/Publications/2007/CDGGMS07/BlockMaps_EG07.pdf
 url_video: http://vcg.isti.cnr.it/Publications/2007/CDGGMS07/BlockMapEG.avi
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2007/CDGGMS07/teaser.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2007/CDGGMS07/teaser.png" >}}

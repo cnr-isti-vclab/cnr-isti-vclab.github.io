@@ -17,4 +17,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2011/LDHS11/InHandScanning.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/LDHS11/InHand1.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/LDHS11/InHand1.png" >}}

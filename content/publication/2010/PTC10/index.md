@@ -18,9 +18,9 @@ abstract: 'In this paper we propose a robust, automatic technique to build a glo
 url_pdf: http://vcg.isti.cnr.it/Publications/2010/PTC10/Pietroni Tarini Cignoni - Almost isometric mesh parameterization - TVCG 2009.pdf
 url_video: http://vcg.isti.cnr.it/Publications/2010/PTC10/iso_param.avi
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/PTC10/total.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/PTC10/omotondo.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/PTC10/total.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/PTC10/omotondo.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png" >}}
 [mesh processing](http://meshlab.sourceforge.net)
 
 [ Talk Slides ](http://vcg.isti.cnr.it/Publicstions/2010/PTC10/isoParam_talk.pptx)

@@ -19,6 +19,6 @@ image:
 url_video: http://vcg.isti.cnr.it/Publications/2008/LGMBP08/10_VolumeMls.avi
 url_pdf: http://vcg.isti.cnr.it/Publications/2008/LGMBP08/MlsVolume_vis08.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/LGMBP08/03_bluntFin_vmls.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/LGMBP08/05_bluntFin_weights.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/LGMBP08/00_heptane_teaser.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/LGMBP08/03_bluntFin_vmls.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/LGMBP08/05_bluntFin_weights.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/LGMBP08/00_heptane_teaser.png" >}}

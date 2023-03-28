@@ -16,4 +16,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/FCS08/sofocle.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/FCS08/sofocle.jpg" >}}

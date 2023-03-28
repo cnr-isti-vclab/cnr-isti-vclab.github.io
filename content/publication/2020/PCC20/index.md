@@ -16,4 +16,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/PCC20/coral-bleaching.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/PCC20/coral-bleaching.jpg" >}}

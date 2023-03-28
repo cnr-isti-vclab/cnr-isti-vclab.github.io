@@ -16,4 +16,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/DVS11/test2.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/DVS11/test2.png" >}}

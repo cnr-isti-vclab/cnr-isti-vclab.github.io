@@ -17,5 +17,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2008/PCMA08/paper1030_final.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/PCMA08/Picture1.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/PCMA08/Picture2.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/PCMA08/Picture1.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/PCMA08/Picture2.png" >}}

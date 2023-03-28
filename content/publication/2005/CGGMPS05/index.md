@@ -21,5 +21,5 @@ url_pdf: http://vcg.isti.cnr.it/Publications/2005/CGGMPS05/BatchedMT_Vis05.pdf
 url_slides: http://vcg.isti.cnr.it/Publications/2005/CGGMPS05/Slide_BatchedMT_Vis05.pdf
 url_video: http://vcg.isti.cnr.it/Publications/2005/CGGMPS05/cignoni_video_1.divx.avi
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2005/CGGMPS05/david_Vpart_1.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2005/CGGMPS05/snap2.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2005/CGGMPS05/david_Vpart_1.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2005/CGGMPS05/snap2.jpg" >}}

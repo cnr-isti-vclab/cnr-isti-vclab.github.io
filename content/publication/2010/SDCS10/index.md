@@ -17,5 +17,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2010/SDCS10/Sottile_et_al_MC.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/SDCS10/End_MI.JPG' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/SDCS10/Satiro_AlMC.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/SDCS10/End_MI.JPG" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/SDCS10/Satiro_AlMC.jpg" >}}

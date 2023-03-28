@@ -18,4 +18,4 @@ image:
 url_video: http://vcg.isti.cnr.it/Publications/2009/CDPS09/paper1110.avi
 url_pdf: http://vcg.isti.cnr.it/Publications/2009/CDPS09/Corsini_etal_Mutual_Information.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/CDPS09/capitellocol_comb.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/CDPS09/capitellocol_comb.png" >}}

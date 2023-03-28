@@ -17,4 +17,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2009/CCDS09/biancone.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/CCDS09/final.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/CCDS09/final.png" >}}

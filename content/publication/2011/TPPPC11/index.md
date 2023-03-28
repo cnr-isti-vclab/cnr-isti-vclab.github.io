@@ -19,9 +19,9 @@ image:
 abstract: 'We present a method for the global parametrization of meshes that preserves alignment to a cross field in input     while obtaining a parametric domain made of few coarse axis-aligned rectangular patches,which form an abstract     base complex without T-junctions. The method is based on the topological simplification of the cross field     in input, followed by global smoothing     Talk Slides'
 url_pdf: http://vcg.isti.cnr.it/Publications/2011/TPPPC11/SimpleQuad.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/TPPPC11/drill-smooth-pow2.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/TPPPC11/bunny-smooth-match.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/TPPPC11/rocker-smooth-match-a.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/TPPPC11/kitten-smotth.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/drill-smooth-pow2.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/bunny-smooth-match.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/rocker-smooth-match-a.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/TPPPC11/kitten-smotth.jpg" >}}
 [ Talk Slides ](http://vcg.isti.cnr.it/Publicstions/2011/TPPPC11/SimpleQuad.pptx)
 

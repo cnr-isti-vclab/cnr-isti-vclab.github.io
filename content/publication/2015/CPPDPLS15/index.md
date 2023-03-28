@@ -20,5 +20,5 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/kiosk.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/scan.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/kiosk.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/scan.jpg" >}}

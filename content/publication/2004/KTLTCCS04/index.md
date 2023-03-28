@@ -20,4 +20,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2004/KTLTCCS04/protected.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2004/KTLTCCS04/protected1.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2004/KTLTCCS04/protected1.png" >}}

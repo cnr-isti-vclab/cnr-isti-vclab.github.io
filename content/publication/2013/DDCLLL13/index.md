@@ -19,4 +19,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2013/DDCLLL13/Archaeology_in_the_Digital_Era_CAA_Last-libre.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/DDCLLL13/pompeii2.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DDCLLL13/pompeii2.png" >}}

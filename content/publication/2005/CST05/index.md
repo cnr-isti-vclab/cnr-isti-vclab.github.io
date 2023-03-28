@@ -16,4 +16,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2005/CST05/CAG_TopCitedArticle.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2005/CST05/CAG_TopCitedArticle.jpg" >}}

@@ -16,5 +16,5 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/DSC18/figure_7_1.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/DSC18/figure_6_1.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/DSC18/figure_7_1.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/DSC18/figure_6_1.jpg" >}}

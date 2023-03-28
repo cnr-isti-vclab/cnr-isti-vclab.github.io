@@ -18,9 +18,9 @@ image:
 abstract: 'Mesh joinery is an innovative method to produce illustrative shape approxi- mations suitable for fabrication. Mesh joinery is capable of producing com- plex fabricable structures in an efficient and visually pleasing manner. We represent an input geometry as a set of planar pieces arranged to compose a rigid structure, by exploiting an efficient slit mechanism. Since slices are planar, to fabricate them a standard 2D cutting system is enough.     We automatically arrange slices according to a smooth cross field defined over the surface. Cross fields allow representing global features that char- acterize the appearance of the shape. Slice placement conforms to specific manufacturing constraints.             Talk Slides'
 url_pdf: http://vcg.isti.cnr.it/Publications/2014/CPMS14/joinery_lowres.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/CPMS14/hand0_e.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/CPMS14/human3.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2014/CPMS14/bimba0_e.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/CPMS14/hand0_e.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/CPMS14/human3.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2014/CPMS14/bimba0_e.jpg" >}}
 [ Talk Slides ](http://vcg.isti.cnr.it/Publicstions/2014/CPMS14/Joinery_SigAsia.pptx)
 
 <iframe width="580" height="435" src="http://www.youtube.com/embed/5AIw5dhLP70" frameborder="0" frameborder="0" allowfullscreen>

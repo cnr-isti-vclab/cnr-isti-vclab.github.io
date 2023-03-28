@@ -20,4 +20,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2022/PGDCPCC22/TAGLAB_WALLS_EXTENDED.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2022/PGDCPCC22/jocch1502-22-f12.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2022/PGDCPCC22/jocch1502-22-f12.jpg" >}}

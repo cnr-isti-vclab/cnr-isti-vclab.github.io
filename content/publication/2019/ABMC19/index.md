@@ -17,7 +17,7 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2019/ABMC19/tmo_opt.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2019/ABMC19/timings.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2019/ABMC19/tmo_opt.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2019/ABMC19/timings.png" >}}
 [link to the paper](https://doi.org/10.1109/TIP.2019.2944079)
 

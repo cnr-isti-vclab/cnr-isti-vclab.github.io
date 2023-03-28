@@ -15,4 +15,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2008/GC08/paper1008.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/GC08/twoplayers2view.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/GC08/twoplayers2view.jpg" >}}

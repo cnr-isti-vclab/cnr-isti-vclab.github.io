@@ -18,8 +18,8 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2007/DCFCS07/straight33.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2007/DCFCS07/straight_part2.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2007/DCFCS07/Leonardo-NUMBERED_1.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2007/DCFCS07/Leonardo-NUMBERED.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2007/DCFCS07/rotatedpart.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2007/DCFCS07/straight33.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2007/DCFCS07/straight_part2.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2007/DCFCS07/Leonardo-NUMBERED_1.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2007/DCFCS07/Leonardo-NUMBERED.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2007/DCFCS07/rotatedpart.png" >}}

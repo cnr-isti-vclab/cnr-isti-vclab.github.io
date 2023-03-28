@@ -18,4 +18,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2012/DMCCS12/Dellepiane_et_al_Flowbased.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/DMCCS12/Teschio_no2.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/DMCCS12/Teschio_no2.png" >}}

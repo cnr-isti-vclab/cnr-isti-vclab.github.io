@@ -18,8 +18,8 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2006/DCCS06/Dellepiane_et_al_High_quality_PTM.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2006/DCCS06/tombdetail1.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2006/DCCS06/tomb2.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2006/DCCS06/tombdetail2.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2006/DCCS06/system.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2006/DCCS06/groundtruth.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2006/DCCS06/tombdetail1.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2006/DCCS06/tomb2.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2006/DCCS06/tombdetail2.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2006/DCCS06/system.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2006/DCCS06/groundtruth.png" >}}

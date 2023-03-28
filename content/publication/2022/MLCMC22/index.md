@@ -19,4 +19,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2022/MLCMC22/3PatternReducedPairs.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2022/MLCMC22/3PatternReducedPairs.png" >}}

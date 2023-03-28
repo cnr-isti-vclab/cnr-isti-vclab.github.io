@@ -20,4 +20,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/DCPSSMS08/musa.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/DCPSSMS08/musa.png" >}}

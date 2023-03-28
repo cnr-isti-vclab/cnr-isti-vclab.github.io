@@ -15,6 +15,6 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/GC09/client1.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/GC09/client_lan.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/GC09/client2.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/GC09/client1.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/GC09/client_lan.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/GC09/client2.png" >}}

@@ -18,4 +18,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/PCPPC21/RESULT_IM.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PCPPC21/RESULT_IM.png" >}}

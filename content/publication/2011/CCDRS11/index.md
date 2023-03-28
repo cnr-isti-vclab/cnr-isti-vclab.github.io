@@ -18,6 +18,6 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2011/CCDRS11/Signoria_MeshLab_LAST.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/CCDRS11/align_1.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/CCDRS11/cloud_palazzoSnap03_radiance.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2011/CCDRS11/loggia_Poisson_10Snap00.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/CCDRS11/align_1.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/CCDRS11/cloud_palazzoSnap03_radiance.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2011/CCDRS11/loggia_Poisson_10Snap00.png" >}}

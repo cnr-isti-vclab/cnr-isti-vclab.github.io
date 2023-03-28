@@ -23,4 +23,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2010/CDDPCKMSSW10/cenobium_preprint.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/CDDPCKMSSW10/cenobium_fig4.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/CDDPCKMSSW10/cenobium_fig4.jpg" >}}

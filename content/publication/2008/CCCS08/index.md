@@ -17,4 +17,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2008/CCCS08/CG_textailor.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2008/CCCS08/capitellob.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2008/CCCS08/capitellob.jpg" >}}

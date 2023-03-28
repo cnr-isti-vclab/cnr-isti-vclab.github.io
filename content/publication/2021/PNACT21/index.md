@@ -19,10 +19,10 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2021/PNACT21/ReliableQuad.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png" >}}
 [ 10.1145/3450626.3459941](https://doi.org/10.1145/3450626.3459941)
 
 [ www.quadmesh.cloud](https://www.quadmesh.cloud/Thingi10K)

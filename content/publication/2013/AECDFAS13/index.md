@@ -20,5 +20,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2013/AECDFAS13/Arbace_Innovative.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/AECDFAS13/figure8.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/AECDFAS13/callieri_52.tiff' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/AECDFAS13/figure8.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/AECDFAS13/callieri_52.tiff" >}}

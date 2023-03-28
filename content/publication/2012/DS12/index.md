@@ -15,5 +15,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2012/DS12/3DGraphics.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/DS12/Cavallo2.JPG' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2012/DS12/Site.JPG' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/DS12/Cavallo2.JPG" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2012/DS12/Site.JPG" >}}

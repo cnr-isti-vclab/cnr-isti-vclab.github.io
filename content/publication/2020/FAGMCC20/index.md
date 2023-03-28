@@ -20,8 +20,8 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_lucy_results.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_bunny_results.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_armadillo_results.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/0_representative.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_dragon_results.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_lucy_results.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_bunny_results.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_armadillo_results.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/0_representative.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_dragon_results.png" >}}

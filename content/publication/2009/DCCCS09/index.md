@@ -18,4 +18,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/DCCCS09/Nikonc11.JPG' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/DCCCS09/Nikonc11.JPG" >}}

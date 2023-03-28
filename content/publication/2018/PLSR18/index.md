@@ -17,5 +17,5 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/PLSR18/markout.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/PLSR18/ductus-016.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/PLSR18/markout.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/PLSR18/ductus-016.jpg" >}}

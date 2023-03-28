@@ -15,4 +15,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2013/DS13/GlobalMutual_Final.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2013/DS13/Web1.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DS13/Web1.png" >}}

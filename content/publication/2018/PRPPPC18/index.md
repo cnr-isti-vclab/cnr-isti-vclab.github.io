@@ -19,4 +19,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2018/PRPPPC18/remotesensing-10-01154-v2.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2018/PRPPPC18/RS2.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2018/PRPPPC18/RS2.jpg" >}}

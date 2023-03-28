@@ -19,6 +19,6 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/all_pieces.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/histone_mold5.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/actin_mold2.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/all_pieces.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/histone_mold5.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/actin_mold2.jpg" >}}

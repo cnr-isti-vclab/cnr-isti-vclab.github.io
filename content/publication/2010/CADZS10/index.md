@@ -18,5 +18,5 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2010/CADZS10/SpiderMol.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/CADZS10/cacam_sci.jpg' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2010/CADZS10/cacam_trasp.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/CADZS10/cacam_sci.jpg" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2010/CADZS10/cacam_trasp.jpg" >}}

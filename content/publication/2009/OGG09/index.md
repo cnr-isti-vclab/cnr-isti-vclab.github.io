@@ -16,5 +16,5 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/OGG09/Ozt09_2.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2009/OGG09/Ozt09_3.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/OGG09/Ozt09_2.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2009/OGG09/Ozt09_3.png" >}}

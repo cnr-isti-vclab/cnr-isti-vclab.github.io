@@ -19,4 +19,4 @@ image:
     share: false
 url_pdf: http://vcg.isti.cnr.it/Publications/2017/BDEGIZ17/GCH_Archaide_final.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2017/BDEGIZ17/ex.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2017/BDEGIZ17/ex.png" >}}

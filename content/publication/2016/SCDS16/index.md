@@ -17,4 +17,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2016/SCDS16/Fig_3_Pice.jpg' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2016/SCDS16/Fig_3_Pice.jpg" >}}

@@ -21,8 +21,8 @@ image:
 url_pdf: http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/microstructures-final.pdf
 url_pdf: http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/microstructures-suppl-final.pdf
 ---
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/teaser.png' >}}
-{{< figure src='http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/0_thumb_elastic.png' >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/teaser.png" >}}
+{{< figure src="http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/0_thumb_elastic.png" >}}
 [ Some of the tested patterns ](http://www.thingiverse.com/groups/microstructures/things)
 
 [ Siggraph presentation ](http://vcg.isti.cnr.it/Publicstions/2015/PZMPCZ15/Elastic_Textures_Siggraph_Slides.pptx)
