@@ -6,6 +6,10 @@ title: "Alessandro Muntoni"
 authors:
 - "alessandro-muntoni"
 
+# Full Name (for SEO)
+first_name: Alessandro
+last_name: Muntoni
+
 # Is this the primary user of the site?
 superuser: false
 
