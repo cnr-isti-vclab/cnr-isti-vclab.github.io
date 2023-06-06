@@ -9,7 +9,7 @@ sections:
       title: |
         Visual Computing Lab
       image:
-        filename: home_banner.jpg
+        filename: FMpav@Biennale.jpg
       text: |        
         The Visual Computing Lab is a research group of the [CNR-ISTI](https://www.isti.cnr.it/) (Italian National Research Council - Institute for Information Science and Technology) in Pisa, Italy. The lab is headed by [Paolo Cignoni]({{< relref "/authors/paolo-cignoni" >}}), and is located in the CNR-ISTI [building](https://www.isti.cnr.it/en/about/reach-us) in the CNR Research Area in Pisa, Italy. 
   
