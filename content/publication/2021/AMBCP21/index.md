@@ -22,5 +22,5 @@ abstract: 'We introduce a novel technique to automatically decompose an input ob
 {{< figure src="http://vcg.isti.cnr.it/Publications/2021/AMBCP21/teaser.jpg" >}}
 [Presentation slides (.pptx)](http://vcg.isti.cnr.it/Publicstions/2021/AMBCP21/SA21_rigidmolds_presentation.pptx)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/spjTRArOeNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>
+{{< youtube spjTRArOeNY >}}
 
