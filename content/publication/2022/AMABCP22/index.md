@@ -8,7 +8,7 @@ authors:
   - Paolo Cignoni
   - Nico Pietroni
 date: '2022-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['2']
 publication: '*Computer Graphics Forum*'
 featured: false
 

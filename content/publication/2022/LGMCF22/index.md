@@ -7,7 +7,7 @@ authors:
   - Domenico Gaudioso
   - Francesco Laccone
 date: '2022-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['2']
 publication: '*Computer-Aided Civil and Infrastructure Engineering*'
 featured: false
 
