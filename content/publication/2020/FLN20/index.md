@@ -1,5 +1,5 @@
 ---
-title: 'TVT&#948; Concept for Long-Span Glass–Steel Footbridges'
+title: 'TVTδ Concept for Long-Span Glass–Steel Footbridges'
 authors:
   - Maurizio Froli
   - Francesco Laccone
