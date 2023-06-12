@@ -17,16 +17,15 @@ organizations:
 bio: Biomedical Imaging
 
 interests:
-  - ...
-  - ...
-  - ...
+  - Biomedical imaging
+  - 3D Printing
 
 education:
   courses:
-#    - course: PhD in ...
-#      institution: University ...
-#      year: xxxxx
-    - course: Master Degree in Biomedical Engineering
+    - course: Bachelor's Degree in Biomedical Engineering
+      institution: University of Pisa
+      year: 2018
+    - course: Master's Degree in Biomedical Engineering
       institution: University of Pisa
       year: 2023
 
@@ -38,19 +37,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:????????@isti.cnr.it'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=????????????
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/????-????-????	
+    link: 'mailto:valentina.piras@isti.cnr.it'
   - icon: github
     icon_pack: fab
-    link: https://github.com/???????????
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/????
+    link: https://github.com/vpiras3
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,13 +57,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD Students
 ---
 
-I am a ............ ....... ... ............ .... ... ..... ......... ...... .... ..........
+I am a PhD student of the Visual Computing Lab of ISTI-CNR in Pisa.
 
-............ ....... ... ............ .... ... ..... ......... ...... .... ..........
-............ ....... ... ............ .... ... ..... ......... ...... .... ...................... ....... ... ............ .... ... ..... ......... ...... .... ...................... ....... ... ............ .... ... ..... ......... ...... .... ..........
-............ ....... ... ............ .... ... ..... ......... ...... .... ...................... ....... ... ............ .... ... ..... ......... ...... .... ..........
-............ ....... ... ............ .... ... ..... ......... ...... .... ...................... ....... ... ......
-...... .... ... ..... ......... ...... .... ...................... ....... ... ............ .... ... ..... ......... ...... .... ..........
+I graduated from the Master's Degree program in Biomedical Engineering at the University of Pisa. During my master's thesis, i dealt with the generation of artificial mammograms through Image-to-Image Translation techniques. 
+
+My main research activity is focused on the use of NeRFs in the biomedical field.
