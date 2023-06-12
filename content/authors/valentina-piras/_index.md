@@ -1,18 +1,12 @@
 ---
 # Display name
-title: Nome Cognome
-
-# delete the following three lines if you want that your page appears:
-_build:
-  render: always
-  list: never
-
+title: Valentina Piras
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Technologies for Cultural Heritage
+bio: Biomedical Imaging
 
 interests:
   - ...
@@ -29,12 +23,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in ...
-      institution: University ...
-      year: xxxxx
-    - course: Master Degree in ...
-      institution: University ....
-      year: xxxx
+#    - course: PhD in ...
+#      institution: University ...
+#      year: xxxxx
+    - course: Master Degree in Biomedical Engineering
+      institution: University of Pisa
+      year: 2023
 
 
 # Social/Academic Networking
