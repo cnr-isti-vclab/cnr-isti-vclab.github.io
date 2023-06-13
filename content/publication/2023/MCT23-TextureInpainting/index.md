@@ -10,7 +10,7 @@ publication: '*Computer Graphics Forum*'
 featured: false
 doi: ' https://doi.org/10.1111/cgf.14735'
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2022/AMABCP22/star_molding_submitted.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2023/MCT23-TextureInpainting/2023TextureInpainting.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
