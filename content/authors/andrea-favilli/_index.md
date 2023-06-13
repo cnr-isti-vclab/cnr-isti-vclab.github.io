@@ -77,7 +77,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - PhD Students
 ---
 
 I am currently enrolled in the Italian National PhD in Artificial Intelligence at the University of Pisa. My research focuses on the development of AI-based tools for assisted architectual design, with the purpose of enhancing the architect's creativity towards the production of buildable shapes. 
