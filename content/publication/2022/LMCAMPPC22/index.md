@@ -10,7 +10,7 @@ authors:
   - Nico Pietroni
   - Paolo Cignoni
 date: '2022-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['2']
 publication: '*Journal of the International Association for Shell and Spatial Structures (J.IASS)*'
 featured: false
 

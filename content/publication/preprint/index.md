@@ -1,4 +1,9 @@
 ---
+# delete the following three lines if you want that your article appears:
+_build:
+  render: always
+  list: never
+
 title: 'An example preprint / working paper'
 authors:
   - admin
