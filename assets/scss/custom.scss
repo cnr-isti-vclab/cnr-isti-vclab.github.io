@@ -1,1 +1,13 @@
-.article-container{ max-width:50%;}
+.article-container{
+    max-width:50%;
+}
+
+// publications list
+#container-publications .media.stream-item {
+    margin-bottom: 0;       //removing margin bottom
+    align-items: center;    //vertically-align image div
+}
+// publications list and each publication page
+.article-metadata{
+    font-size:.9rem;        //larger font size for autors, venue and date
+}
