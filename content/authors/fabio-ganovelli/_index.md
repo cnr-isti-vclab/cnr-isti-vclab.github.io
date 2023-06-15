@@ -70,7 +70,3 @@ user_groups:
 Fabio Ganovelli is a Senior Researcher at the Visual Computing Laboratory of ISTI-CNR (Institute of Science and Technologies of Information - National Research Council) in Pisa, Italy. 
 
 He holds a Ph.D. in computer science from the University of Pisa, and a Master’s Degree in computer science from the University of Pisa. 
-
-His researcher career has substantially ended with the born of his first child in 2015. Since then, after  some
-years of inertial publications, the conjunction of a second newborn and the pandemic put the final nails on his coffin.
-At the present, he is taking care of very minor projects and try to make undergraduate learn transformations and Phong shading.
