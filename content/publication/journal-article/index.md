@@ -1,5 +1,6 @@
 ---
 # delete the following three lines if you want that your page appears:
+# Here is needed to avoid that the example paper appears in the list of publications
 _build:
   render: always
   list: never
@@ -11,6 +12,7 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+# Note use this date format
 date: '2015-09-01T00:00:00Z'
 doi: ''
 
@@ -31,9 +33,16 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+# Add keywords here (example keywords below)
 tags:
-  - Source Themes
+# - Digital Heritage 
+# - Architectural Geometry
+# - Geometry Processing 
+# - Digital Fabrication
+# - Environment Monitoring
+# - Visual Learning
+# - XR and Advanced UI  
+ 
 featured: false
 
 # links:
@@ -55,11 +64,8 @@ image:
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+# Associated Projects web Page(optional).
+# Not the funding project
 projects: []
 
 # Slides (optional).
