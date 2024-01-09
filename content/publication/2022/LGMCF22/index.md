@@ -1,11 +1,11 @@
 ---
 title: 'Vorogrid: A static-aware variable-density Voronoi mesh to design the tube structure tessellation of tall buildings'
 authors:
-  - Maurizio Froli
-  - Paolo Cignoni
-  - Luigi Malomo
-  - Domenico Gaudioso
   - Francesco Laccone
+  - Domenico Gaudioso
+  - Luigi Malomo
+  - Paolo Cignoni
+  - Maurizio Froli
 date: '2022-01-01T00:00:00Z'
 publication_types: ['2']
 publication: '*Computer-Aided Civil and Infrastructure Engineering*'

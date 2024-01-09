@@ -26,7 +26,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Computers & Structures'
+publication: '*Computers & Structures*'
 publication_short: ''
 
 abstract: This paper introduces a novel method for shape optimization and form-finding of free-form, triangular grid shells, based on geometric deep learning. We define an architecture which consumes a 3D mesh representing the initial design of a free-form grid shell, and outputs vertex displacements to get an optimized grid shell that minimizes structural compliance, while preserving design intent. The main ingredients of the architecture are layers that produce deep vertex embeddings from geometric input features, and a differentiable loss implementing structural analysis. We evaluate the method performance on a benchmark of eighteen free-form grid shell structures characterized by various size, geometry, and tessellation. Our results demonstrate that our approach can solve the shape optimization and form finding problem for a diverse range of structures, more effectively and efficiently than existing common tools.
