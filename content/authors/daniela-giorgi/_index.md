@@ -18,9 +18,9 @@ organizations:
 bio: This is my bio
 
 interests:
-  - pippo
-  - pluto
-  - topolino
+  - TBA
+  - TBA
+  - TBA
 
 education:
   courses:
