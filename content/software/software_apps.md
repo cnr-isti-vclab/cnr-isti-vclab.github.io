@@ -1,9 +1,9 @@
 ---
 widget: pages
 headless: true
-weight: 20
+weight: 10
 
-title: Libraries
+title: Applications
 subtitle:
 
 content:
@@ -16,7 +16,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: libs
+  page_type: software_apps
 design:
   view: 2
   columns: '1'
