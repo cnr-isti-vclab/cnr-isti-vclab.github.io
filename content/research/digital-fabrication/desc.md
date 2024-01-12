@@ -16,6 +16,7 @@ Since the early 2010s, the Visual Computing Lab has been very active in the digi
 
 The research activity is conducted by combining expertise in different fields related to Computer Graphics, namely geometry processing, geometric modeling, physical simulation, numerical optimization and shape analysis. The results of this research have been published in several papers in top-tier conferences and journals in the field of Computer Graphics and Computer-Aided Design (ACM Transactions on Graphics, SIGGRAPH, SIGGRAPH Asia, Eurographics, etc.).
 
+The produced methods and algorithms provide automated methods for several applications like manufacturing a stylized representation of the 3D model, designing flexible molds for casting, optimizing the model decomposition for 3D printing, synthesizing 3D-printable metamaterials, and [architectural design](/research/architecture).
 Relevant expertise in digital fabrication has been exploited in the context of several research projects, including Italian Government PRIN DSurf, EU Horizon 2020 ITN [Evocation](https://evocation.eu), and EU Horizon 2020 [EMOTIVE](https://emotiveproject.eu).
 
 Below is a selection of representative research works in the field.
