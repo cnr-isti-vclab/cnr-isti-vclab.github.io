@@ -9,5 +9,5 @@ publication_types: ['1']
 publication: '*The Ninth IASTED International Conference on Computer Graphics and Imaging - CGIM 2007*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2007/FCS07/2006_09_CGIM_Reconstruction.final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2007/FCS07/2006_09_CGIM_Reconstruction.final.pdf
 ---

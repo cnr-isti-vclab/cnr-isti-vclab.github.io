@@ -21,7 +21,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/BBCCCDMMRS08/Besora_etal_Portalada08.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/BBCCCDMMRS08/Besora_etal_Portalada08.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/BBCCCDMMRS08/Scheme.jpg" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/BBCCCDMMRS08/ColorPorta.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/BBCCCDMMRS08/Scheme.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/BBCCCDMMRS08/ColorPorta.jpg" >}}

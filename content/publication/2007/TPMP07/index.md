@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*6th International Conference on the Management of Healthcare & Medical Technology HTCM 2007*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2007/TPMP07/htmc_2007_paper_turini_pietroni.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2007/TPMP07/htmc_2007_paper_turini_pietroni.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

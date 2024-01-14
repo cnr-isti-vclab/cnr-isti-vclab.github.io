@@ -10,11 +10,11 @@ publication_types: ['1']
 publication: '*British Archeological Reports - 2nd International Conference on Remote Sensing Archaeology*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/CDCS06/Reflection.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/CDCS06/Reflection.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2006/CDCS06/system.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2006/CDCS06/system.png" >}}

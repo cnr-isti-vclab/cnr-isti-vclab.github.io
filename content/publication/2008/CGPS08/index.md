@@ -15,6 +15,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/CGPS08/colorprint_final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/CGPS08/colorprint_final.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/CGPS08/gargoyle_right.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/CGPS08/gargoyle_right.jpg" >}}

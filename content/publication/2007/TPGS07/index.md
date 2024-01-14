@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Eurographics Italian Chapter Conference 2007*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2007/TPGS07/egItalian.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2007/TPGS07/egItalian.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

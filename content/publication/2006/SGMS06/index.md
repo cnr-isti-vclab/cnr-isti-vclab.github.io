@@ -15,6 +15,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/SGMS06/poster.pdf
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/SGMS06/paper.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/SGMS06/poster.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/SGMS06/paper.pdf
 ---

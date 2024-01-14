@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*19th International Congress on Acoustics, Madrid*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2007/TDLD07a/Tsingos_et_al_Extending_Geometrical.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2007/TDLD07a/Tsingos_et_al_Extending_Geometrical.pdf
 ---

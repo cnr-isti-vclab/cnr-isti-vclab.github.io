@@ -8,5 +8,5 @@ publication_types: ['1']
 publication: '*ERCIM News*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/DC06/Dellepiane_Callieri_Visualization_of_colour.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/DC06/Dellepiane_Callieri_Visualization_of_colour.pdf
 ---

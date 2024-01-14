@@ -9,11 +9,11 @@ publication_types: ['1']
 publication: '*Sixth Eurographics Italian Chapter Conference*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/FCS08/OMreconst_EGit08_final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/FCS08/OMreconst_EGit08_final.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/FCS08/sofocle.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/FCS08/sofocle.jpg" >}}

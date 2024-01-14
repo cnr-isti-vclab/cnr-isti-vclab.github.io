@@ -13,11 +13,11 @@ publication_types: ['1']
 publication: '*Sixth Eurographics Italian Chapter Conference*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/DCPSSMS08/Dellepiane_etal_Luni08.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/DCPSSMS08/Dellepiane_etal_Luni08.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/DCPSSMS08/musa.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/DCPSSMS08/musa.png" >}}

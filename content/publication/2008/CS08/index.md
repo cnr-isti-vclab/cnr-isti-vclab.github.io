@@ -8,5 +8,5 @@ publication_types: ['1']
 publication: '*ACM Journ. on Computers and Cultural heritag*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/CS08/Cignoni Scopigno - Sampled 3D models for CH applications A viable and enabling new medium or just a technological exercise - JOCCH2008.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/CS08/Cignoni Scopigno - Sampled 3D models for CH applications A viable and enabling new medium or just a technological exercise - JOCCH2008.pdf
 ---

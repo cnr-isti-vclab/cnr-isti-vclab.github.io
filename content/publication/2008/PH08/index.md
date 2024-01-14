@@ -8,7 +8,7 @@ publication_types: ['1']
 publication: '*IEEE Transaction on Visualization and Computer Graphics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/PH08/dynamic.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/PH08/dynamic.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

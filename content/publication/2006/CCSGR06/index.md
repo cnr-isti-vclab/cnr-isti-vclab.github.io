@@ -11,5 +11,5 @@ publication_types: ['1']
 publication: '*Journal of Cultural Heritage*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/CCSGR06/beyond_drafting_finale_Wfigs.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/CCSGR06/beyond_drafting_finale_Wfigs.pdf
 ---

@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Fourth Eurographics Italian Chapter 2006*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/CPCS06/Inspector_EGit2006.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/CPCS06/Inspector_EGit2006.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

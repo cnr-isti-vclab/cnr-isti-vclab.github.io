@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Computer & Graphics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/CDPS06/parthenon.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/CDPS06/parthenon.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

@@ -15,6 +15,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/CCCS08/CG_textailor.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/CCCS08/CG_textailor.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/CCCS08/capitellob.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/CCCS08/capitellob.jpg" >}}

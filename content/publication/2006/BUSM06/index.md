@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*Restauro 2006: Salone dell''Arte del Restauro e della Conservazione dei Beni Culturali e Ambientali*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/BUSM06/RilievoDuomoPisa_catalogoFerrara06.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/BUSM06/RilievoDuomoPisa_catalogoFerrara06.pdf
 ---

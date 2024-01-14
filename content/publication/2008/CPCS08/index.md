@@ -15,7 +15,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/CPCS08/Inspector_IEEECGA_07.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/CPCS08/Inspector_IEEECGA_07.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/CPCS08/inspector_arrigo_crop.jpg" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/CPCS08/inspector_arrigo_testa.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/CPCS08/inspector_arrigo_crop.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/CPCS08/inspector_arrigo_testa.png" >}}

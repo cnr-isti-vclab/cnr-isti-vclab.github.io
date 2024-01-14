@@ -13,6 +13,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/GC08/paper1008.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/GC08/paper1008.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/GC08/twoplayers2view.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/GC08/twoplayers2view.jpg" >}}

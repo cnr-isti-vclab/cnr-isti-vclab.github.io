@@ -17,5 +17,5 @@ publication_types: ['1']
 publication: '*The 7th International Symposium on Virtual Reality, Archaeology and Cultural Heritage (VAST 2006)*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/BCCDDKMSSSW06/VAST06_Cenobium.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/BCCDDKMSSSW06/VAST06_Cenobium.pdf
 ---

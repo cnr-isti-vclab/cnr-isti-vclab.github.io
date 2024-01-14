@@ -17,7 +17,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2007/CDGGMS07/BlockMaps_EG07.pdf
-url_video: http://vcg.isti.cnr.it/Publications/2007/CDGGMS07/BlockMapEG.avi
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2007/CDGGMS07/BlockMaps_EG07.pdf
+url_video: https://vcgdata.isti.cnr.it/Publications/2007/CDGGMS07/BlockMapEG.avi
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2007/CDGGMS07/teaser.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2007/CDGGMS07/teaser.png" >}}

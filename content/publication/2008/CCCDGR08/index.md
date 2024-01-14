@@ -12,7 +12,7 @@ publication_types: ['1']
 publication: '*Sixth Eurographics Italian Chapter Conference*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/CCCDGR08/MeshLabEGIT.final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/CCCDGR08/MeshLabEGIT.final.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

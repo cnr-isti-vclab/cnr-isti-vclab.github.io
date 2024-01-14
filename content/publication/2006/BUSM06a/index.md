@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*Architetti: Idee, Cultura e Progetto*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2006/BUSM06a/Architetti.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2006/BUSM06a/Architetti.pdf
 ---

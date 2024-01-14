@@ -14,5 +14,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2008/CCR08/Cignoni Corsini Ranzuglia - MeshLab - Ercim 2008.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2008/CCR08/Cignoni Corsini Ranzuglia - MeshLab - Ercim 2008.pdf
 ---

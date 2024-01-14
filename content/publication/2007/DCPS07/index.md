@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Proceedings of Eurographics Conference - Cultural Heritage Papers*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2007/DCPS07/Dellepiane_et_al_Mapping_highly_detailed.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2007/DCPS07/Dellepiane_et_al_Mapping_highly_detailed.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
