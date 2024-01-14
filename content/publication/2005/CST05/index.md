@@ -9,11 +9,11 @@ publication_types: ['1']
 publication: '*Computer & Graphics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/CST05/simplenormal_CG05.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/CST05/simplenormal_CG05.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2005/CST05/CAG_TopCitedArticle.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2005/CST05/CAG_TopCitedArticle.jpg" >}}

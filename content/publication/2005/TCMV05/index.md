@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*3D Digital Imaging and Modeling: Applications of Heritage, Industry, Medicine and Land, Workshop Italy-Canada*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/TCMV05/WSH2005-24240.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/TCMV05/WSH2005-24240.pdf
 ---

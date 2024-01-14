@@ -12,5 +12,5 @@ publication_types: ['1']
 publication: '*Computer Graphics Forum*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2003/CGGMPS03a/bdam.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2003/CGGMPS03a/bdam.pdf
 ---

@@ -9,7 +9,7 @@ publication_types: ['1']
 publication: '*ACM-EG Symp. on Parallel Graphics and Visualization (EGPGV04)*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/BPS04/massiva_data_egpgv04.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/BPS04/massiva_data_egpgv04.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

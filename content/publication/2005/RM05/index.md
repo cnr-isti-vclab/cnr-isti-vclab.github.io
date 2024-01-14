@@ -8,5 +8,5 @@ publication_types: ['1']
 publication: '*IX Conferenza Nazionale ASITA, 15-18 Nov. 2005, Catania*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/RM05/asita05.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/RM05/asita05.pdf
 ---

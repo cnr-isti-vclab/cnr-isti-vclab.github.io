@@ -8,7 +8,7 @@ publication_types: ['1']
 publication: '*Advances in Computational Mathematics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/HF04/coordinates_aicm04.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/HF04/coordinates_aicm04.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

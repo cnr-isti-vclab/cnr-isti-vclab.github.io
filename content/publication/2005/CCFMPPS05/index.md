@@ -13,5 +13,5 @@ publication_types: ['1']
 publication: '*International Symposium on the CREST Digital Archiving Project*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/CCFMPPS05/CREST05.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/CCFMPPS05/CREST05.pdf
 ---

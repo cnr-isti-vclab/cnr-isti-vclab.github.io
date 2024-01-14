@@ -9,5 +9,5 @@ publication_types: ['1']
 publication: '*ACM Journal of Graphic Tools*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2003/GPR03/fast_tetrahedron_tetrahedron_overlap_algorithm.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2003/GPR03/fast_tetrahedron_tetrahedron_overlap_algorithm.pdf
 ---

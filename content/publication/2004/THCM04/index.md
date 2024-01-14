@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*ACM Trans. on Graphics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/THCM04/pcm.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/THCM04/pcm.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

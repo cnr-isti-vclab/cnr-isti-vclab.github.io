@@ -14,7 +14,7 @@ publication_types: ['1']
 publication: '*IEEE Potentials, IEEE Comp. Soc.*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/CCGIMPPS04a/david_potentials.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/CCGIMPPS04a/david_potentials.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

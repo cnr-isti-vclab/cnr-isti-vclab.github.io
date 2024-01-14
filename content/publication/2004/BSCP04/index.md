@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*VDA 2004, IST/SPIE International Symposium on Electronic Imaging Conf. Proc.*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/BSCP04/borgo-VDA04.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/BSCP04/borgo-VDA04.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

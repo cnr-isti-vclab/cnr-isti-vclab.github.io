@@ -13,7 +13,7 @@ publication_types: ['1']
 publication: '*SPIE International Symposium on Optical Metrology, 13-17 June 2005, Munich, Germany*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/CCGPPMS05/madonna_SPIE.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/CCGPPMS05/madonna_SPIE.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

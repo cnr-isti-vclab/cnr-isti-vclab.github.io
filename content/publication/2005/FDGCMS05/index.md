@@ -17,5 +17,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/FDGCMS05/Franken_Minimizing.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/FDGCMS05/Franken_Minimizing.pdf
 ---

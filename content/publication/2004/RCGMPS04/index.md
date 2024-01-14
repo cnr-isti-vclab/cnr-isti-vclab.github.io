@@ -12,7 +12,7 @@ publication_types: ['1']
 publication: '*The Visual Computer*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/RCGMPS04/mi_for_fusion.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/RCGMPS04/mi_for_fusion.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

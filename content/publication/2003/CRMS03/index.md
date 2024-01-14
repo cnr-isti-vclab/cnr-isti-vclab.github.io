@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*IEEE Transaction on Visualization and Computer Graphics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2003/CRMS03/oemm_tvcg.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2003/CRMS03/oemm_tvcg.pdf
 ---

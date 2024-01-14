@@ -13,5 +13,5 @@ publication_types: ['1']
 publication: '*SPIE Int. Symposium on Optical Metrology*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2003/SCCGIPP03/david_rest_spie.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2003/SCCGIPP03/david_rest_spie.pdf
 ---

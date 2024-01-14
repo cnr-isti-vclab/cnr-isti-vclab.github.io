@@ -17,7 +17,7 @@ publication_types: ['1']
 publication: '*VAST 2004*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/BBCCCFMNNPS04/arrigo_final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/BBCCCFMNNPS04/arrigo_final.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

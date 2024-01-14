@@ -8,7 +8,7 @@ publication_types: ['1']
 publication: '*Proceedings of SMI 2004 International Conference*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/CI04/smi04_im.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/CI04/smi04_im.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

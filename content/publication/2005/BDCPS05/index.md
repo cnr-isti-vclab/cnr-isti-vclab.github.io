@@ -11,5 +11,5 @@ publication_types: ['1']
 publication: '*8th International Protégé Conference Proceedings*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/BDCPS05/Borgo_et_alExtracting.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/BDCPS05/Borgo_et_alExtracting.pdf
 ---

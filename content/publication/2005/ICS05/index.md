@@ -9,5 +9,5 @@ publication_types: ['1']
 publication: '*International Journal of Shape Modeling*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/ICS05/IJSM05.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/ICS05/IJSM05.pdf
 ---

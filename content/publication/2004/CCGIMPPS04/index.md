@@ -14,7 +14,7 @@ publication_types: ['1']
 publication: '*IEEE Computer Graphics & Applications*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/CCGIMPPS04/david_rest_cg&a.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/CCGIMPPS04/david_rest_cg&a.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

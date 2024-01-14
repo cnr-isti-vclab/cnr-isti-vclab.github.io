@@ -12,5 +12,5 @@ publication_types: ['1']
 publication: '*4th International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage (VAST2003)*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2003/CCGMPS03/scan_tools_EG-GCH.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2003/CCGMPS03/scan_tools_EG-GCH.pdf
 ---

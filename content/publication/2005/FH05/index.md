@@ -8,5 +8,5 @@ publication_types: ['1']
 publication: '*Advances in multiresolution for geometric modelling*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/FH05/survey_mingle04.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/FH05/survey_mingle04.pdf
 ---

@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*SPIE International Symposium on Optical Metrology, 13-17 June 2005, Munich, Germany*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/CDPS05/parthenon.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/CDPS05/parthenon.pdf
 ---

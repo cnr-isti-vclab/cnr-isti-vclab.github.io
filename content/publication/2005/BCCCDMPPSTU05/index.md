@@ -17,5 +17,5 @@ publication_types: ['1']
 publication: '*Int. Workshop 3D-ARCH''2005 - 3D Virtual Reconstruction and Visualization of Complex Architectures, August 22-24, 2005, Mestre-Venice, Italy*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2005/BCCCDMPPSTU05/torcello_3DARCH05.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2005/BCCCDMPPSTU05/torcello_3DARCH05.pdf
 ---

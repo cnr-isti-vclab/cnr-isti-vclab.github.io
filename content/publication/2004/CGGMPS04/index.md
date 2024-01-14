@@ -12,7 +12,7 @@ publication_types: ['1']
 publication: '*ACM Trans. on Graphics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2004/CGGMPS04/vbdam_sig04.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2004/CGGMPS04/vbdam_sig04.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

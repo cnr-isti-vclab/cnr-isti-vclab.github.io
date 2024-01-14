@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*Second Annual Conference of Eurographics Italian Chapter*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2003/BSCP03/borgo-EGItalia03.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2003/BSCP03/borgo-EGItalia03.pdf
 ---
