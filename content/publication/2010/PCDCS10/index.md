@@ -16,6 +16,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/PCDCS10/VMV2010.pdf
-url_video: http://vcg.isti.cnr.it/Publications/2010/PCDCS10/VIDEO_TRACK.mov
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/PCDCS10/VMV2010.pdf
+url_video: https://vcgdata.isti.cnr.it/Publications/2010/PCDCS10/VIDEO_TRACK.mov
 ---

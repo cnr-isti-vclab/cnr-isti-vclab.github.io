@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Web3D 2010. 15th Conference on 3D Web technology*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/DPGS10/spidergl.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/DPGS10/spidergl.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

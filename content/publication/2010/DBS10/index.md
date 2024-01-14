@@ -14,6 +14,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/DBS10/paper1002_final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/DBS10/paper1002_final.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2010/DBS10/Shad2.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2010/DBS10/Shad2.jpg" >}}

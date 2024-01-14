@@ -19,5 +19,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/BBCCDDSS10/CAA_2010_David_Scopigno_final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/BBCCDDSS10/CAA_2010_David_Scopigno_final.pdf
 ---

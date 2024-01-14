@@ -18,5 +18,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/CCGPPPS10/cst2010.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/CCGPPPS10/cst2010.pdf
 ---

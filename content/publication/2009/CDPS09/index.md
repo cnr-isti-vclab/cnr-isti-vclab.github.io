@@ -15,7 +15,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_video: http://vcg.isti.cnr.it/Publications/2009/CDPS09/paper1110.avi
-url_pdf: http://vcg.isti.cnr.it/Publications/2009/CDPS09/Corsini_etal_Mutual_Information.pdf
+url_video: https://vcgdata.isti.cnr.it/Publications/2009/CDPS09/paper1110.avi
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2009/CDPS09/Corsini_etal_Mutual_Information.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2009/CDPS09/capitellocol_comb.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2009/CDPS09/capitellocol_comb.png" >}}

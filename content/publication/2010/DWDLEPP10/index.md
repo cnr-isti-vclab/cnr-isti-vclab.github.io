@@ -13,7 +13,7 @@ publication_types: ['1']
 publication: '*CAA 2010 Conference Proc.*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/DWDLEPP10/An Experiment of Integrated Technologies in Digital Archaeology Creation .pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/DWDLEPP10/An Experiment of Integrated Technologies in Digital Archaeology Creation .pdf
 image:
 #    caption: 'Image'
     focal_point: ''

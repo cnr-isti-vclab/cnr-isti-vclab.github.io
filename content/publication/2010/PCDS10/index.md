@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*Eurographics Italian Chapter Conference 2010*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/PCDS10/gradientmi-egitalia2010.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/PCDS10/gradientmi-egitalia2010.pdf
 ---

@@ -12,8 +12,8 @@ publication_types: ['1']
 publication: '*The Visual Computer (special issue of CGI 2010)*'
 featured: false
 
-url_video: http://vcg.isti.cnr.it/Publications/2010/BGPCPS10/volumetric_single_scattering_video.avi
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/BGPCPS10/volumetric_single_scattering_preprint.pdf
+url_video: https://vcgdata.isti.cnr.it/Publications/2010/BGPCPS10/volumetric_single_scattering_video.avi
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/BGPCPS10/volumetric_single_scattering_preprint.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

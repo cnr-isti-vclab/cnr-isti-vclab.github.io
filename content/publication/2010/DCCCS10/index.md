@@ -11,11 +11,11 @@ publication_types: ['1']
 publication: '*ACM Journ. on Computers and Cultural heritage*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/DCCCS10/Dellepiane_etal_Flash.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/DCCCS10/Dellepiane_etal_Flash.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2010/DCCCS10/Nikonc11.JPG" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2010/DCCCS10/Nikonc11.JPG" >}}

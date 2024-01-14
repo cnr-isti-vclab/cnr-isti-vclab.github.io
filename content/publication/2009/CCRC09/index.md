@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Archeologia e Calcolatori*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2009/CCRC09/Callieri Corsini Ranzuglia Cignoni - Scanner 3D con hardware low cost e strumenti free open source - Archeologia e Calcolatori 2009.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2009/CCRC09/Callieri Corsini Ranzuglia Cignoni - Scanner 3D con hardware low cost e strumenti free open source - Archeologia e Calcolatori 2009.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

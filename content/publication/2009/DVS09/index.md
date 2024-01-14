@@ -14,6 +14,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2009/DVS09/Dellepiane_et_al_HoleFiller.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2009/DVS09/Dellepiane_et_al_HoleFiller.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2009/DVS09/patternVert.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2009/DVS09/patternVert.png" >}}

@@ -8,13 +8,13 @@ publication_types: ['1']
 publication: '*Computer Graphics Forum*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2009/GC09/envymycar.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2009/GC09/envymycar.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2009/GC09/client1.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2009/GC09/client_lan.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2009/GC09/client2.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client1.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client_lan.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client2.png" >}}

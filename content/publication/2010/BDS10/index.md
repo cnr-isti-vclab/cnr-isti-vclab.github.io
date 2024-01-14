@@ -14,6 +14,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2010/BDS10/Baronti_etal.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2010/BDS10/Baronti_etal.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2010/BDS10/snap.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2010/BDS10/snap.png" >}}
