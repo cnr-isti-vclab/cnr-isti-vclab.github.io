@@ -302,44 +302,44 @@
 &lt;a href="http://vcg.isti.cnr.it/Publicstions/2011/TPPPC11/SimpleQuad.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Adaptive quad mesh simplification</title><link>http://vcg.isti.cnr.it/publication/2010/BPPPR10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BPPPR10/</guid><description/></item><item><title>Almost isometric mesh parameterization through abstract domains</title><link>http://vcg.isti.cnr.it/publication/2010/PTC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PTC10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/total.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/total.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/omotondo.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/omotondo.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://meshlab.sourceforge.net" target="_blank" rel="noopener">mesh processing&lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/isoParam_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/isoParam_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://meshlab.sourceforge.net" target="_blank" rel="noopener">MeshLab &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/example_models.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/scanned_models.zip" target="_blank" rel="noopener"> Here some processed scanned model with color on texture &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/comparison/statistics.html" target="_blank" rel="noopener"> Here some comparison with other parametrization/remeshing methods&lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/color_by_distorsion/distorsionComparison.html" target="_blank" rel="noopener"> Here some colored by considering isometry&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/example_models.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/scanned_models.zip" target="_blank" rel="noopener"> Here some processed scanned model with color on texture &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/comparison/statistics.html" target="_blank" rel="noopener"> Here some comparison with other parametrization/remeshing methods&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/color_by_distorsion/distorsionComparison.html" target="_blank" rel="noopener"> Here some colored by considering isometry&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="http://www.youtube.com/v/t4RC3H3Ab0Y&amp;hl=en_US&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Feature-aligned T-meshes</title><link>http://vcg.isti.cnr.it/publication/2010/MPKZ10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/MPKZ10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/MPKZ10/teaser_Tjunct.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/MPKZ10/teaser_Tjunct.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/MPKZ10/Tmesh.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Practical quad mesh simplification</title><link>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</guid><description>&lt;p>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/MPKZ10/Tmesh.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Practical quad mesh simplification</title><link>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/diag_ambiguity2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/composed.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/diag_ambiguity2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/Ateaser_quad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/composed.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/quad_sempl.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/quad_meshes.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/comparison/Comparison.html" target="_blank" rel="noopener"> Here some comparison with other quad mesh simplification methods&lt;/a>&lt;/p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/Ateaser_quad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/quad_sempl.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/quad_meshes.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/comparison/Comparison.html" target="_blank" rel="noopener"> Here some comparison with other quad mesh simplification methods&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="http://www.youtube.com/v/CUuhwksq0jY&amp;hl=it_IT&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Real-time Single Scattering Inside Inhomogeneous Materials</title><link>http://vcg.isti.cnr.it/publication/2010/BGPCPS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BGPCPS10/</guid><description>&lt;iframe width="580" height="435" src="http://www.youtube.com/v/1vdQBpIbA2Y&amp;hl=it_IT&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Solid-Texture Synthesis: A Survey</title><link>http://vcg.isti.cnr.it/publication/2010/PCOS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCOS10/</guid><description>&lt;p>&lt;a href="http://www.computer.org/portal/web/csdl/doi/10.1109/MCG.2009.153" target="_blank" rel="noopener"> IEEE Computer Graphics and Applications &lt;/a>&lt;/p></description></item><item><title>Splitting Cubes a Fast and Robust technique for Virtual Cutting</title><link>http://vcg.isti.cnr.it/publication/2009/PGCS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/PGCS09/</guid><description>&lt;iframe width="580" height="435" src="http://www.youtube.com/v/Rmsnb6nBEws&amp;hl=en_US&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Reconstructing head models from photographs for individualized 3D-audio processing</title><link>http://vcg.isti.cnr.it/publication/2008/DPTAS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/DPTAS08/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">

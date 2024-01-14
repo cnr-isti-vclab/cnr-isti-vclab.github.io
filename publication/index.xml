@@ -1295,146 +1295,146 @@
 &lt;/div>&lt;/figure></description></item><item><title>Using digital 3D models for study and restoration of Cultural Heritage artifacts</title><link>http://vcg.isti.cnr.it/publication/2011/DCCS11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/DCCS11/</guid><description/></item><item><title>A Comparison of Perceptually-Based Metrics for Objective Evaluation of Geometry Processing</title><link>http://vcg.isti.cnr.it/publication/2010/LC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/LC10/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/LC10/fig1maskingeffect.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/LC10/fig1maskingeffect.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>A framework for User-Assisted Sketch-Based Fitting of Geometric Primitives</title><link>http://vcg.isti.cnr.it/publication/2010/PGTCDS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PGTCDS10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/RisColonna.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGTCDS10/RisColonna.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PGTCDS10/scalaSanGimignano.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGTCDS10/scalaSanGimignano.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Adaptive quad mesh simplification</title><link>http://vcg.isti.cnr.it/publication/2010/BPPPR10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BPPPR10/</guid><description/></item><item><title>Afrigraph 2010 - Proceedings of the 7th International Conference on Computer Graphics, Virtual Reality, Visualisation and Interaction in Africa</title><link>http://vcg.isti.cnr.it/publication/2010/MS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/MS10/</guid><description/></item><item><title>Almost isometric mesh parameterization through abstract domains</title><link>http://vcg.isti.cnr.it/publication/2010/PTC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PTC10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/total.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/total.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/omotondo.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/omotondo.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="http://meshlab.sourceforge.net" target="_blank" rel="noopener">mesh processing&lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/isoParam_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/isoParam_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://meshlab.sourceforge.net" target="_blank" rel="noopener">MeshLab &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/example_models.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/scanned_models.zip" target="_blank" rel="noopener"> Here some processed scanned model with color on texture &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/comparison/statistics.html" target="_blank" rel="noopener"> Here some comparison with other parametrization/remeshing methods&lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/PTC10/color_by_distorsion/distorsionComparison.html" target="_blank" rel="noopener"> Here some colored by considering isometry&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/example_models.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/scanned_models.zip" target="_blank" rel="noopener"> Here some processed scanned model with color on texture &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/comparison/statistics.html" target="_blank" rel="noopener"> Here some comparison with other parametrization/remeshing methods&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/color_by_distorsion/distorsionComparison.html" target="_blank" rel="noopener"> Here some colored by considering isometry&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="http://www.youtube.com/v/t4RC3H3Ab0Y&amp;hl=en_US&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>An Experiment of Integrated Technologies in Digital Archaeology: Creation of New Pipelines to Increase the Perception of Archaeological Data</title><link>http://vcg.isti.cnr.it/publication/2010/DWDLEPP10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/DWDLEPP10/</guid><description/></item><item><title>Browsing Large Image Datasets through Voronoi Diagrams</title><link>http://vcg.isti.cnr.it/publication/2010/BTC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BTC10/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/BTC10/horizontal.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/BTC10/horizontal.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>CENOBIUM - Putting together the Romanesque Cloister Capitals of the Mediterranean Region</title><link>http://vcg.isti.cnr.it/publication/2010/CDDPCKMSSW10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/CDDPCKMSSW10/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/CDDPCKMSSW10/cenobium_fig4.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/CDDPCKMSSW10/cenobium_fig4.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Controlled and Adaptive Mesh Zippering</title><link>http://vcg.isti.cnr.it/publication/2010/MGCSS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/MGCSS10/</guid><description/></item><item><title>Documenting and Monitoring Small Fractures on Michelangelo’s David</title><link>http://vcg.isti.cnr.it/publication/2010/BBCCDDSS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BBCCDDSS10/</guid><description/></item><item><title>Dynamic Shading Enhancement for Reflectance Transformation Imaging</title><link>http://vcg.isti.cnr.it/publication/2010/PCCSM10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCCSM10/</guid><description/></item><item><title>Feature-aligned T-meshes</title><link>http://vcg.isti.cnr.it/publication/2010/MPKZ10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/MPKZ10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/MPKZ10/teaser_Tjunct.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/MPKZ10/teaser_Tjunct.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/MPKZ10/Tmesh.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Geometry-Aware Video Registration</title><link>http://vcg.isti.cnr.it/publication/2010/PCDCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCDCS10/</guid><description/></item><item><title>Improved Color Acquisition and Mapping on 3D Models via Flash-Based Photography</title><link>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</guid><description>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/MPKZ10/Tmesh.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Geometry-Aware Video Registration</title><link>http://vcg.isti.cnr.it/publication/2010/PCDCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCDCS10/</guid><description/></item><item><title>Improved Color Acquisition and Mapping on 3D Models via Flash-Based Photography</title><link>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/DCCCS10/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/DCCCS10/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Improving 2D-3D registration by mutual information using gradient maps</title><link>http://vcg.isti.cnr.it/publication/2010/PCDS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCDS10/</guid><description/></item><item><title>Mutual Correspondences: an hybrid method for image-to-geometry registration</title><link>http://vcg.isti.cnr.it/publication/2010/SDCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/SDCS10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/SDCS10/End_MI.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/SDCS10/End_MI.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/SDCS10/Satiro_AlMC.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/SDCS10/Satiro_AlMC.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Practical quad mesh simplification</title><link>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/diag_ambiguity2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/diag_ambiguity2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/composed.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/composed.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/TPCPP10/Ateaser_quad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/Ateaser_quad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/quad_sempl.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/quad_meshes.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2010/TPCPP10/comparison/Comparison.html" target="_blank" rel="noopener"> Here some comparison with other quad mesh simplification methods&lt;/a>&lt;/p>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/quad_sempl.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/quad_meshes.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/comparison/Comparison.html" target="_blank" rel="noopener"> Here some comparison with other quad mesh simplification methods&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="http://www.youtube.com/v/CUuhwksq0jY&amp;hl=it_IT&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Real-time Single Scattering Inside Inhomogeneous Materials</title><link>http://vcg.isti.cnr.it/publication/2010/BGPCPS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BGPCPS10/</guid><description>&lt;iframe width="580" height="435" src="http://www.youtube.com/v/1vdQBpIbA2Y&amp;hl=it_IT&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Removing shadows for color projection using sun position estimation</title><link>http://vcg.isti.cnr.it/publication/2010/DBS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/DBS10/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/DBS10/Shad2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/DBS10/Shad2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Shape enhancement for rapid prototyping</title><link>http://vcg.isti.cnr.it/publication/2010/PGCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PGCS10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PGCS10/col_vol_spot.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGCS10/col_vol_spot.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/PGCS10/buddha_roi_high.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGCS10/buddha_roi_high.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Solid-Texture Synthesis: A Survey</title><link>http://vcg.isti.cnr.it/publication/2010/PCOS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCOS10/</guid><description>&lt;p>&lt;a href="http://www.computer.org/portal/web/csdl/doi/10.1109/MCG.2009.153" target="_blank" rel="noopener"> IEEE Computer Graphics and Applications &lt;/a>&lt;/p></description></item><item><title>SpiderGL: A JavaScript 3D Graphics Library for Next-Generation WWW</title><link>http://vcg.isti.cnr.it/publication/2010/DPGS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/DPGS10/</guid><description/></item><item><title>The Rognosa Tower in San Gimignano: Digital Acquisition and Structural Analysis</title><link>http://vcg.isti.cnr.it/publication/2010/CCGPPPS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/CCGPPPS10/</guid><description/></item><item><title>Using Lego pieces for camera calibration: a preliminary study</title><link>http://vcg.isti.cnr.it/publication/2010/BDS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BDS10/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/BDS10/snap.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/BDS10/snap.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Verification and Acceptance Tests for High Definition 3D Surface Scanners</title><link>http://vcg.isti.cnr.it/publication/2010/BBS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BBS10/</guid><description/></item><item><title>Visualization Methods for Molecular Studies on the Web Platform</title><link>http://vcg.isti.cnr.it/publication/2010/CADZS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/CADZS10/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/CADZS10/cacam_sci.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/CADZS10/cacam_sci.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2010/CADZS10/cacam_trasp.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/CADZS10/cacam_trasp.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Artifacts removal for color projection on 3D models using flash light</title><link>http://vcg.isti.cnr.it/publication/2009/DCCCS09a/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCCCS09a/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/DCCCS09a/Pasto_shad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/DCCCS09a/Pasto_shad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>eNVyMyCar: a multi-player car racing game for teaching Computer Graphics</title><link>http://vcg.isti.cnr.it/publication/2009/GC09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/GC09/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/GC09/client1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/GC09/client_lan.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client_lan.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/GC09/client2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression</title><link>http://vcg.isti.cnr.it/publication/2009/OGG09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/OGG09/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/OGG09/Ozt09_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/OGG09/Ozt09_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/OGG09/Ozt09_3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/OGG09/Ozt09_3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Flash Lighting Space Sampling</title><link>http://vcg.isti.cnr.it/publication/2009/DCCCS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCCCS09/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/DCCCS09/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/DCCCS09/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Image guided reconstruction of un-sampled data: a coherent filling for uncomplete Cultural Heritage models</title><link>http://vcg.isti.cnr.it/publication/2009/DVS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DVS09/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/DVS09/patternVert.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/DVS09/patternVert.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Image-to-Geometry Registration: a Mutual Information Method exploiting Illumination-related Geometric Properties</title><link>http://vcg.isti.cnr.it/publication/2009/CDPS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/CDPS09/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/CDPS09/capitellocol_comb.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/CDPS09/capitellocol_comb.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Interactive Remote Exploration of Massive Cityscapes</title><link>http://vcg.isti.cnr.it/publication/2009/DCGGMS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCGGMS09/</guid><description/></item><item><title>Pushing Time-of-Flight scanners to the limit</title><link>http://vcg.isti.cnr.it/publication/2009/CCDS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/CCDS09/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2009/CCDS09/final.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/CCDS09/final.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure></description></item><item><title>Scanner 3D con hardware low cost e strumenti free/open source</title><link>http://vcg.isti.cnr.it/publication/2009/CCRC09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/CCRC09/</guid><description/></item><item><title>Splitting Cubes a Fast and Robust technique for Virtual Cutting</title><link>http://vcg.isti.cnr.it/publication/2009/PGCS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/PGCS09/</guid><description>&lt;iframe width="580" height="435" src="http://www.youtube.com/v/Rmsnb6nBEws&amp;hl=en_US&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>3D enhanced model from multiple data sources for the analysis of the Cylinder seal of Ibni-Sharrum</title><link>http://vcg.isti.cnr.it/publication/2008/PCMA08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/PCMA08/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
