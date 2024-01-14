@@ -23,8 +23,8 @@ abstract: 'Visual fidelity and interactivity are the main goals in Computer Grap
  
     Talk Slides'
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2008/DPTAS08/mannocci_total.png" >}}
-[ Talk Slides ](http://vcg.isti.cnr.it/Publicstions/2008/DPTAS08/HRTF.pptx)
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2008/DPTAS08/mannocci_total.png" >}}
+[ Talk Slides ](https://vcgdata.isti.cnr.it/Publicstions/2008/DPTAS08/HRTF.pptx)
 
 <iframe width="580" height="435" src="http://www.youtube.com/v/S1k5crOrVfo&hl=it_IT&fs=1&" frameborder="0" frameborder="0" allowfullscreen>
 

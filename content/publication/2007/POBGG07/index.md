@@ -25,7 +25,7 @@ abstract: 'We introduce a new appearance-modeling paradigm for synthesizing the 
  
     Talk Slides'
 ---
-[ Talk Slides ](http://vcg.isti.cnr.it/Publicstions/2007/POBGG07/texturingEG07.zip)
+[ Talk Slides ](https://vcgdata.isti.cnr.it/Publicstions/2007/POBGG07/texturingEG07.zip)
 
 <iframe width="580" height="435" src="http://www.youtube.com/v/RaXMH0uvuYc&hl=it_IT&fs=1&" frameborder="0" frameborder="0" allowfullscreen>
 
