@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quad Meshing | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/tag/Quad-Meshing/</link><atom:link href="http://vcg.isti.cnr.it/tag/Quad-Meshing/index.xml" rel="self" type="application/rss+xml"/><description>Quad Meshing</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Quad Meshing</title><link>http://vcg.isti.cnr.it/tag/Quad-Meshing/</link></image><item><title>Reliable feature-line driven quad-remeshing</title><link>http://vcg.isti.cnr.it/publication/2021/PNACT21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PNACT21/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://doi.org/10.1145/3450626.3459941" target="_blank" rel="noopener"> 10.1145/3450626.3459941&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.quadmesh.cloud/Thingi10K" target="_blank" rel="noopener"> www.quadmesh.cloud&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2021/PNACT21/reliable-quadremesh-siggraph2021.pptx" target="_blank" rel="noopener"> Download the slides! (.pttx)&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/mUzYFH7DrN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item></channel></rss>
