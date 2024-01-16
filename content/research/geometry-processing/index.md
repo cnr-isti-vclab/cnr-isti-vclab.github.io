@@ -1,11 +1,8 @@
 ---
+# Files in this folder represent a Widget Page (homepage)
+type: widget_page
 title: "Geometry Processing"
 authors: ["paolo-cignoni"]
 show_date: false
-#date: 2022
-image:
-  focal_point: 'top'
 ---
-
-Our activity on Geometry Processing includes methodologies for shape analysis and characterization, mesh parametrization and its applications. First, we aim to apply such techniques for re-meshing, compression and visualization. 
-
+Research on the foundational themes of Computer graphis like quad meshing, texture parametrization, Hexahedral Meshing, etc. has been always one of the basic line of our lab.
