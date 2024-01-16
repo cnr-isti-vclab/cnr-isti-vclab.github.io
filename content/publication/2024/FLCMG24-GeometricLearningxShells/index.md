@@ -36,6 +36,7 @@ summary:
 
 tags:
   - Architectural Geometry
+  - Visual AI
   - Grid Shells
   - Shape Optimization
   - Form Finding

@@ -12,7 +12,9 @@ date: '2022-01-01T00:00:00Z'
 publication_types: ['1']
 publication: '*ACM Journ. on Computing and Cultural heritage*'
 featured: false
-
+tags:
+- Visual AI
+- Digital Heritage
 image:
 #    caption: 'Image'
     focal_point: ''

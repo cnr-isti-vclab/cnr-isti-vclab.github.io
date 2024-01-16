@@ -12,6 +12,9 @@ date: '2021-01-01T00:00:00Z'
 publication_types: ['1']
 publication: '*Journal of Field Robotics*'
 featured: false
+tags: 
+- Visual AI
+- Environmental Monitoring
 
 url_pdf: http://vcg.isti.cnr.it/Publications/2021/PCPEPSC21/rob.22049.pdf
 image:
