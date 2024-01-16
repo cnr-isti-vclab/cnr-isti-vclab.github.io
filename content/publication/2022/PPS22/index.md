@@ -5,8 +5,8 @@ authors:
   - Paolo Pingi
   - Eliana Siotto
 date: '2022-01-01T00:00:00Z'
-publication_types: ['1']
-publication: '**'
+publication_types: ['6']
+publication: '*Handbook of Cultural Heritage Analysis*'
 featured: false
 
 image:

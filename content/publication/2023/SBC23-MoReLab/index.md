@@ -16,6 +16,7 @@ authors:
 date: '2023-07-17T00:00:00Z'
 doi: 'https://doi.org/10.3390/s23146456'
 
+
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
@@ -27,13 +28,13 @@ abstract: We present MoReLab, a tool for user-assisted 3D reconstruction. This r
 summary: A software for user-assisted 3D reconstruction.
 
 tags:
-  - Source Themes
+  - 3D Reconstruction
 featured: false
 
 # links:
 # - name: ""
 url_pdf: https://www.mdpi.com/1424-8220/23/14/6456
-
+url_code: https://github.com/cnr-isti-vclab/MoReLab
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
