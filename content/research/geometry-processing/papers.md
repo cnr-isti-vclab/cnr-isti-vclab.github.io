@@ -3,8 +3,8 @@ widget: pages
 headless: true
 weight: 20
 
-title: Recent Papers
-subtitle:
+title: 
+subtitle: Recent Papers on Geometry Processing
 
 content:
   count: 0
