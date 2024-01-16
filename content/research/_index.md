@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research Areas
 type: landing
 
 # Optional banner image (relative to `assets/media/` folder).
