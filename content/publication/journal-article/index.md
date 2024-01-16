@@ -31,7 +31,7 @@ publication_short: ''
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# Summary. An optional shortened abstract.
+# Summary. An optional shortened abstract, it appears in the list of publications.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 # Add keywords here (example keywords below)
 tags:
@@ -40,8 +40,16 @@ tags:
 # - Geometry Processing 
 # - Digital Fabrication
 # - Environment Monitoring
-# - Visual Learning
-# - XR and Advanced UI  
+# - Visual AI
+# - XR and Advanced UI
+
+# Additional Tags to be considered: 
+# - 3D Reconstruction
+# - 3D Printing
+# - 3D Scanning
+# - Texture Mapping
+# - Coral Reef
+# - TagLab
  
 featured: false
 
