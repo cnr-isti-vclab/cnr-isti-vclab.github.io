@@ -10,7 +10,9 @@
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/PGDCPCC22/jocch1502-22-f12.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure></description></item><item><title>SkinMixer: Blending 3D Animated Models</title><link>http://vcg.isti.cnr.it/publication/2022/NPCST22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/NPCST22/</guid><description>&lt;p>
+&lt;/div>&lt;/figure></description></item><item><title>SkinMixer: Blending 3D Animated Models</title><link>http://vcg.isti.cnr.it/publication/2022/NPCST22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/NPCST22/</guid><description>&lt;p>testo a caso&lt;/p>
+&lt;p>altro testo&lt;/p>
+&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
@@ -27,8 +29,8 @@
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="https://doi.org/10.1145/3550454.3555503" target="_blank" rel="noopener"> https://doi.org/10.1145/3550454.3555503 &lt;/a>&lt;/p>
-&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/84WPrEVuve4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Temporal Deformation Analysis of 3D Models as Diagnostic Tool for Panel Paintings</title><link>http://vcg.isti.cnr.it/publication/2022/PPS22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/PPS22/</guid><description/></item><item><title>Un modello 3D per lo studio ed il monitoraggio</title><link>http://vcg.isti.cnr.it/publication/2022/PS22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/PS22/</guid><description/></item><item><title>“Ecce Homo” by Antonello da Messina, from non-invasive investigations to data fusion and dissemination</title><link>http://vcg.isti.cnr.it/publication/2021/ARCCPSPSBBMCTPSD21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/ARCCPSPSBBMCTPSD21/</guid><description>&lt;p>
+&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/84WPrEVuve4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>“Ecce Homo” by Antonello da Messina, from non-invasive investigations to data fusion and dissemination</title><link>http://vcg.isti.cnr.it/publication/2021/ARCCPSPSBBMCTPSD21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/ARCCPSPSBBMCTPSD21/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_8_new.png" alt="" loading="lazy" data-zoomable />&lt;/div>
@@ -215,12 +217,11 @@
 &lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1111/cgf.142615" target="_blank" rel="noopener">https://doi.org/10.1111/cgf.142615&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://github.com/maggio-a/texture-defrag" target="_blank" rel="noopener">https://github.com/maggio-a/texture-defrag&lt;/a>&lt;/p></description></item><item><title>Virtual clones for cultural heritage applications</title><link>http://vcg.isti.cnr.it/publication/2021/PBCDPS21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PBCDPS21/</guid><description/></item><item><title>Volume decomposition for two-piece rigid casting</title><link>http://vcg.isti.cnr.it/publication/2021/AMBCP21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/AMBCP21/</guid><description>&lt;p>
+&lt;p>&lt;a href="https://github.com/maggio-a/texture-defrag" target="_blank" rel="noopener">https://github.com/maggio-a/texture-defrag&lt;/a>&lt;/p></description></item><item><title>Virtual clones for cultural heritage applications</title><link>http://vcg.isti.cnr.it/publication/2021/PBCDPS21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PBCDPS21/</guid><description/></item><item><title>Volume decomposition for two-piece rigid casting</title><link>http://vcg.isti.cnr.it/publication/2021/AMBCP21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/AMBCP21/</guid><description>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AMBCP21/teaser.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="http://vcg.isti.cnr.it/Publicstions/2021/AMBCP21/SA21_rigidmolds_presentation.pptx" target="_blank" rel="noopener">Presentation slides (.pptx)&lt;/a>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/spjTRArOeNY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item><item><title>A bending&amp;#8209;active twisted&amp;#8209;arch plywood structure: computational design and fabrication of the FlexMaps Pavilion</title><link>http://vcg.isti.cnr.it/publication/2020/LMPPPBC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/LMPPPBC20/</guid><description/></item><item><title>A digital Loggia at the time of COVID-19</title><link>http://vcg.isti.cnr.it/publication/2020/PS20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PS20/</guid><description/></item><item><title>A State of the Art Technology in Large Scale Underwater Monitoring</title><link>http://vcg.isti.cnr.it/publication/2020/PCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PCC20/</guid><description>
