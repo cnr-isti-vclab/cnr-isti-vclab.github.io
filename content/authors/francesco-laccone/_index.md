@@ -12,7 +12,7 @@ title: Francesco Laccone
 superuser: false
 
 # Role/position
-role: Pos-Doc Researcher
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Technologies for Cultural Heritage
+bio: Architectural Geometry
 
 interests:
   - Architectural geometry
@@ -78,4 +78,4 @@ user_groups:
   - Researchers
 ---
 
-I am Post-Doctoral Researcher at the ISTI - CNR in Pisa. My research focuses on Architectural Geometry, which is an interdisciplinary topic that aims to design, model, optimize, and manufacture complex free-form architectures through the tight collaboration and the synergy of several disciplines, such as differential geometry, algorithmic mathematics, computer graphics, engineering and industrial practice. I am also Adjunct Professor at the University of Pisa.
+I am fixed-term Researcher at the ISTI - CNR in Pisa. My research focuses on Architectural Geometry, which is an interdisciplinary topic that aims to design, model, optimize, and manufacture complex free-form architectures through the tight collaboration and the synergy of several disciplines, such as differential geometry, algorithmic mathematics, computer graphics, engineering and industrial practice. I am also Adjunct Professor at the University of Pisa.
