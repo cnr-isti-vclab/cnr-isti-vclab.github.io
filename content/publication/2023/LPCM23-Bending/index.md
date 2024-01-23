@@ -59,9 +59,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://vcgdata.isti.cnr.it/Publications/2023/LPCM23-Bending/1-s2.0-S0010448523002026-main.pdf
 url_code: ''
-url_dataset: ''
+url_dataset: https://zenodo.org/records/10391043
 url_poster: ''
 url_project: ''
 url_slides: ''
