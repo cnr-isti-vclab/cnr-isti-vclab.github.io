@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Pingi | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Paolo-Pingi/</link><atom:link href="http://vcg.isti.cnr.it/author/Paolo-Pingi/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Pingi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/author/Paolo-Pingi/avatar_hu1deea59c081fd3991ca2ac397a674b00_20104_270x270_fill_q75_lanczos_center.jpeg</url><title>Paolo Pingi</title><link>http://vcg.isti.cnr.it/author/Paolo-Pingi/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Pingi | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Paolo-Pingi/</link><atom:link href="http://vcg.isti.cnr.it/author/Paolo-Pingi/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Pingi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/author/Paolo-Pingi/avatar_hu1deea59c081fd3991ca2ac397a674b00_20104_270x270_fill_q75_lanczos_center.jpeg</url><title>Paolo Pingi</title><link>http://vcg.isti.cnr.it/author/Paolo-Pingi/</link></image><item><title>Leafing through the painting “Ecce Homo” by Antonello da Messina: multimodal imaging techniques and data-fusion</title><link>http://vcg.isti.cnr.it/publication/2022/CPARPSCSPSCTBBMD22/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/CPARPSCSPSCTBBMD22/</guid><description/></item><item><title>“Ecce Homo” by Antonello da Messina, from non-invasive investigations to data fusion and dissemination</title><link>http://vcg.isti.cnr.it/publication/2021/ARCCPSPSBBMCTPSD21/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/ARCCPSPSBBMCTPSD21/</guid><description>&lt;!--
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_5_new.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_6_new.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_7.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_8_new.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_9.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_10.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_11.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_12.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_13_new.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcgdata.isti.cnr.it/Publications/2021/ARCCPSPSBBMCTPSD21/Figure_14.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+--></description></item><item><title>Rilievo 3D di Alchimia, ed uso dei modelli 3D per studio e divulgazione</title><link>http://vcg.isti.cnr.it/publication/2019/CDLPPPS19/</link><pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/CDLPPPS19/</guid><description/></item></channel></rss>
