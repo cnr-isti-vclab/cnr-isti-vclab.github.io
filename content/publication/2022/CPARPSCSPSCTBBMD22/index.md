@@ -17,7 +17,7 @@ authors:
   - Rosa Brancaccio
   - Maria Pia Morigi
   - Francesca De Vita
-date: '2022-01-01T00:00:00Z'
+date: '2022-09-01'
 publication_types: ['1']
 publication: '*MA-XRF 2022 3rd Conference on the Use of Macroscopic XRF Scanning in Conservation, Art and Archaeology*'
 
@@ -25,5 +25,5 @@ tags:
   - Digital Heritage
 featured: true
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2022/CPARPSCSPSCTBBMD22/MAXRF2022_paper_4643.pdf
+url_pdf: http://vcgdata.isti.cnr.it/Publications/2022/CPARPSCSPSCTBBMD22/MAXRF2022_paper_4643.pdf
 ---
