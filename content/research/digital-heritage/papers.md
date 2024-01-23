@@ -3,11 +3,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: 
-subtitle: Recent Papers on Digital Heritage
+title: ----------------------
+subtitle: 
 
 content:
-  count: 0
+  count: 5
   filters:
     author: ''
     category: ''
