@@ -18,5 +18,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/BHBDGPS12/parallel_gi_IEEE.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/BHBDGPS12/parallel_gi_IEEE.pdf
 ---

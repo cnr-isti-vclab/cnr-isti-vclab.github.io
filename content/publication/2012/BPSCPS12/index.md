@@ -12,5 +12,5 @@ publication_types: ['1']
 publication: '*proceedings of the 3rd International Conference on Heritage and Sustainable Development*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/BPSCPS12/2012-A2-035.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/BPSCPS12/2012-A2-035.pdf
 ---

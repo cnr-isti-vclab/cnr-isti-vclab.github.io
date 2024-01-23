@@ -15,11 +15,11 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/BTCS12/EG_ProjColor.pdf
-url_video: http://vcg.isti.cnr.it/Publications/2012/BTCS12/projColor_final.avi
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/EG_ProjColor.pdf
+url_video: https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/projColor_final.avi
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_50.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_100_rot.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/50_0.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_100.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/BTCS12/100_0.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_50.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_100_rot.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/50_0.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_100.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_0.png" >}}

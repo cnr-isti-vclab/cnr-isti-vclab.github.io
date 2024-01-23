@@ -12,11 +12,11 @@ publication_types: ['1']
 publication: '*BMC Bioinformatics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/ACZLMZ12/Andrei_etal_2012.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/ACZLMZ12/Andrei_etal_2012.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/ACZLMZ12/bioblender.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/ACZLMZ12/bioblender.jpg" >}}

@@ -11,7 +11,7 @@ publication_types: ['1']
 publication: '*Machine Vision and Applications*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/BCCCS12/grayscale_matching_preprint.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/BCCCS12/grayscale_matching_preprint.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

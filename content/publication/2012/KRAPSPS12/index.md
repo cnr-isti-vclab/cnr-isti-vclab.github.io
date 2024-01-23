@@ -13,5 +13,5 @@ publication_types: ['1']
 publication: '*VAST 2012 Symp. Proc.*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/KRAPSPS12/081-088.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/KRAPSPS12/081-088.pdf
 ---
