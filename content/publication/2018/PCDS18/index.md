@@ -16,5 +16,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/PCDS18/F&T2018 (Plain) - Publishing and Consuming 3D Content on the Web, A Survey.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/PCDS18/F&T2018 (Plain) - Publishing and Consuming 3D Content on the Web, A Survey.pdf
 ---

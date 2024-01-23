@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Computer Graphics Forum (proceeding of Pacifig Graphics 2019)*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2019/PGJG19/PG2019_Automatic_cluttered_floorplan_modeling_from_panoramic_images.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/PGJG19/PG2019_Automatic_cluttered_floorplan_modeling_from_panoramic_images.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

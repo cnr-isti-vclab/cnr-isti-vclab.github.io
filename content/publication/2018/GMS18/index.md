@@ -9,7 +9,7 @@ publication_types: ['1']
 publication: '*Proc. IVCNZ Image and Vision Conference New Zealand*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/GMS18/powerlines.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/GMS18/powerlines.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

@@ -17,10 +17,10 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2019/BTPLC19/HexaLab_Personal.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/BTPLC19/HexaLab_Personal.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2019/BTPLC19/snapshot_osx_chrome.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus2.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus1.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2019/BTPLC19/snapshot_osx_chrome.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus2.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus1.png" >}}
 [www.hexalab.net](https://www.hexalab.net)
 

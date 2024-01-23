@@ -18,6 +18,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/PPCDCPS18/quasi-orthorectified-projection.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/PPCDCPS18/quasi-orthorectified-projection.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2018/PPCDCPS18/4.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2018/PPCDCPS18/4.jpg" >}}
