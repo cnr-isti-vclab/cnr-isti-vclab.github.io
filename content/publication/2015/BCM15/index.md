@@ -29,7 +29,7 @@ abstract: 'abstract
  
      More details please have a look to the official LecceAR webpage.'
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2015/BCM15/figure_3_a.jpg" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2015/BCM15/figure_3_c.jpg" >}}
-[LecceAR](http://vcg.isti.cnr.it/LecceAR/)
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2015/BCM15/figure_3_a.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2015/BCM15/figure_3_c.jpg" >}}
+[LecceAR](https://vcgdata.isti.cnr.it/LecceAR/)
 
