@@ -15,5 +15,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2017/PGCD17/chp17_Gobbetti et al.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2017/PGCD17/chp17_Gobbetti et al.pdf
 ---

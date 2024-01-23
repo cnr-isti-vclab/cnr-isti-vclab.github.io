@@ -15,5 +15,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2017/PGSG17/siggraph-asia-2017_preprint.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2017/PGSG17/siggraph-asia-2017_preprint.pdf
 ---

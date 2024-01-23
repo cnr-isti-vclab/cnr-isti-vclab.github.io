@@ -12,7 +12,7 @@ publication_types: ['1']
 publication: '*15th Eurographics Workshops on Graphics and Cultural Heritage (EG GCH 2017)*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2017/DCBAZS17/paper-catalogues (8).pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2017/DCBAZS17/paper-catalogues (8).pdf
 image:
 #    caption: 'Image'
     focal_point: ''

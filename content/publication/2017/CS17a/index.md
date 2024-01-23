@@ -8,7 +8,7 @@ publication_types: ['1']
 publication: '**'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2017/CS17a/Pollock_Vicenza_callieri_scopigno.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2017/CS17a/Pollock_Vicenza_callieri_scopigno.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
