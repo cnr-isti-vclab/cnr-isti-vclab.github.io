@@ -9,7 +9,11 @@ authors:
 date: '2022-01-01T00:00:00Z'
 publication_types: ['1']
 publication: '*Heritage for the Future, Science for Heritage - A European Adventure for Research and Innovation*'
-featured: false
+
+tags:
+  - Digital Heritage
+featured: true
+
 
 url_pdf: http://vcg.isti.cnr.it/Publications/2022/PPCCS22/378-383.pdf
 ---
