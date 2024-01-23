@@ -7,7 +7,10 @@ authors:
 date: '2022-01-01T00:00:00Z'
 publication_types: ['6']
 publication: '*Handbook of Cultural Heritage Analysis*'
-featured: false
+
+tags:
+  - Digital Heritage
+featured: true
 
 image:
 #    caption: 'Image'
