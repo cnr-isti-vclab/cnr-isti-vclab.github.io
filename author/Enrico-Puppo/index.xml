@@ -20,46 +20,46 @@
 &lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/cad_non_hexa.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://github.com/mlivesu/LoopyCuts" target="_blank" rel="noopener">GitHub Code&lt;/a>&lt;/p>
-&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/n-rWtLi3LSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Stability of Statics Aware Voronoi Grid-Shells</title><link>http://vcg.isti.cnr.it/publication/2016/TPPFCAS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/TPPFCAS16/</guid><description/></item><item><title>Tracing Field-Coherent Quad Layouts</title><link>http://vcg.isti.cnr.it/publication/2016/PPMSC16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/PPMSC16/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2016/PPMSC16/talk_field_coherent16_9.pptx" target="_blank" rel="noopener"> Pacific Graphics 2016 Slides &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2016/PPMSC16/data_field_coherent.zip" target="_blank" rel="noopener"> Data &lt;/a>&lt;/p></description></item><item><title>Data-Driven Interactive Quadrangulation</title><link>http://vcg.isti.cnr.it/publication/2015/MTPPSPC15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/MTPPSPC15/</guid><description>&lt;p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/n-rWtLi3LSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Stability of Statics Aware Voronoi Grid-Shells</title><link>http://vcg.isti.cnr.it/publication/2016/TPPFCAS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/TPPFCAS16/</guid><description/></item><item><title>Tracing Field-Coherent Quad Layouts</title><link>http://vcg.isti.cnr.it/publication/2016/PPMSC16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/PPMSC16/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2016/PPMSC16/talk_field_coherent16_9.pptx" target="_blank" rel="noopener"> Pacific Graphics 2016 Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2016/PPMSC16/data_field_coherent.zip" target="_blank" rel="noopener"> Data &lt;/a>&lt;/p></description></item><item><title>Data-Driven Interactive Quadrangulation</title><link>http://vcg.isti.cnr.it/publication/2015/MTPPSPC15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/MTPPSPC15/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/oldman_our.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/MTPPSPC15/oldman_our.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/MTPPSPC15/bunny_our.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/MTPPSPC15/bunny_our.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/MTPPSPC15/DDIQ.key.zip" target="_blank" rel="noopener"> Siggraph presentation &lt;/a>&lt;/p>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/DDIQ.key.zip" target="_blank" rel="noopener"> Siggraph presentation &lt;/a>&lt;/p>
 &lt;p>&lt;a href="http://igl.ethz.ch/projects/sketch-retopo/sketch-retopo-license.html" target="_blank" rel="noopener"> Code (GUI for retopology - SketchRetopo) &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/MTPPSPC15/DDIQ_code.zip" target="_blank" rel="noopener"> Code (learning patches) &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/MTPPSPC15/data_driven_interactive_quad.zip" target="_blank" rel="noopener"> Some quadrangulated meshes &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/MTPPSPC15/comparison.mp4" target="_blank" rel="noopener"> A video Showing comparison with previous methods &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/MTPPSPC15/patches_40_convex_12_concave_7_edges_max8convexcorners.db.zip" target="_blank" rel="noopener"> A database of learned patches &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/DDIQ_code.zip" target="_blank" rel="noopener"> Code (learning patches) &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/data_driven_interactive_quad.zip" target="_blank" rel="noopener"> Some quadrangulated meshes &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/comparison.mp4" target="_blank" rel="noopener"> A video Showing comparison with previous methods &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/patches_40_convex_12_concave_7_edges_max8convexcorners.db.zip" target="_blank" rel="noopener"> A database of learned patches &lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/H8K5CyQB_kc" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Extraction of the Quad Layout of a Triangle Mesh Guided by its Curve-Skeleton</title><link>http://vcg.isti.cnr.it/publication/2015/ULPTS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/ULPTS15/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/remeshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/ULPTS15/remeshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/loops.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/ULPTS15/loops.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/domains_combined.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/ULPTS15/domains_combined.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/01_teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/ULPTS15/01_teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2015/ULPTS15/mosaic.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/ULPTS15/mosaic.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://drive.google.com/open?id=0B6EEjMMaU7haUHhmQ0xWOGRjSVE" target="_blank" rel="noopener">Data Available Here.&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=5TzsT2BVVhA" target="_blank" rel="noopener">Video (youtube).&lt;/a>&lt;/p></description></item><item><title>Statics Aware Grid Shells</title><link>http://vcg.isti.cnr.it/publication/2015/PTPFSC15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PTPFSC15/</guid><description>&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/PTPFSC15/StaticAwareGridShell_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2015/PTPFSC15/static_aware_data.zip" target="_blank" rel="noopener"> Downloadable Data &lt;/a>&lt;/p></description></item><item><title>Frame fields: Anisotropic and non-orthogonal cross fields</title><link>http://vcg.isti.cnr.it/publication/2014/PPTS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/PPTS14/</guid><description>&lt;p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=5TzsT2BVVhA" target="_blank" rel="noopener">Video (youtube).&lt;/a>&lt;/p></description></item><item><title>Statics Aware Grid Shells</title><link>http://vcg.isti.cnr.it/publication/2015/PTPFSC15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PTPFSC15/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/PTPFSC15/StaticAwareGridShell_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/PTPFSC15/static_aware_data.zip" target="_blank" rel="noopener"> Downloadable Data &lt;/a>&lt;/p></description></item><item><title>Frame fields: Anisotropic and non-orthogonal cross fields</title><link>http://vcg.isti.cnr.it/publication/2014/PPTS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/PPTS14/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/PPTS14/fig1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
