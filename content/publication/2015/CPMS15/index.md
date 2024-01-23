@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*ERCIM News*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2015/CPMS15/MeshJoinery_ERCIM_fomatted.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2015/CPMS15/MeshJoinery_ERCIM_fomatted.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

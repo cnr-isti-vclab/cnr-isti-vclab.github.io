@@ -8,5 +8,5 @@ publication_types: ['1']
 publication: '*Uncommon Culture*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/SS18/70-81-UC 2017- 7-MAIN-Schweibenz Scopigno-f.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/SS18/70-81-UC 2017- 7-MAIN-Schweibenz Scopigno-f.pdf
 ---

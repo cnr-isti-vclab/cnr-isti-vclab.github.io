@@ -8,7 +8,7 @@ publication_types: ['1']
 publication: '**'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2017/SD17/chp18_ScopignoDellepiane.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2017/SD17/chp18_ScopignoDellepiane.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

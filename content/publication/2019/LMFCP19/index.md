@@ -11,7 +11,7 @@ publication_types: ['1']
 publication: '*Computer Graphics Forum*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2019/LMFCP19/GlassShells_preprint.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/LMFCP19/GlassShells_preprint.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

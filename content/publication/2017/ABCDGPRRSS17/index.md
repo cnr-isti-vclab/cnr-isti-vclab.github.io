@@ -21,7 +21,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2017/ABCDGPRRSS17/Nettuno_last.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2017/ABCDGPRRSS17/Nettuno_last.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2017/ABCDGPRRSS17/levels_selection.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2017/ABCDGPRRSS17/Search2.PNG" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2017/ABCDGPRRSS17/levels_selection.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2017/ABCDGPRRSS17/Search2.PNG" >}}

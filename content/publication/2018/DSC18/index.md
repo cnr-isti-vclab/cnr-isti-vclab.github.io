@@ -9,12 +9,12 @@ publication_types: ['1']
 publication: '*CAA2016: Oceans of Data Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/DSC18/derudas_etall.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/DSC18/derudas_etall.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2018/DSC18/figure_7_1.jpg" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2018/DSC18/figure_6_1.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2018/DSC18/figure_7_1.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2018/DSC18/figure_6_1.jpg" >}}

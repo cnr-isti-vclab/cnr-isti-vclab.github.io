@@ -9,7 +9,7 @@ publication_types: ['1']
 publication: '*Atti del XXIV Colloquio AISCOM*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2019/PSS19/abstract_aiano.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/PSS19/abstract_aiano.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

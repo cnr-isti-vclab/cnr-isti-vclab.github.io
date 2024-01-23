@@ -14,7 +14,7 @@ publication_types: ['1']
 publication: '*Workshop on Cultural Informatics Research and Applications, co-located with the International Conference on Digital Heritage, CIRA@EuroMed 2018*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/ RPCMPDV18/paper2.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/ RPCMPDV18/paper2.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

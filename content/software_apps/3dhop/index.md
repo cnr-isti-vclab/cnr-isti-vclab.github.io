@@ -4,8 +4,9 @@
 title: "3DHOP"
 summary: "3DHOP _(3D Heritage Online Presenter)_ is an open-source framework for the creation of interactive Web presentations of high-resolution 3D models, oriented to the Cultural Heritage field. 3DHOP target audience ranges from the museum curators with some IT experience to the experienced Web designers who want to embed 3D contents in their creations, from students in the CH field to small companies developing web applications for museum and CH institutions."
 authors: [Marco Callieri, Marco Potenziani]
-tags: ["Web"]
-categories: [web]
+tags:
+  - Digital Heritage
+  - Web Publising 
 show_date: false
 
 # Optional external URL for project (replaces project detail page).

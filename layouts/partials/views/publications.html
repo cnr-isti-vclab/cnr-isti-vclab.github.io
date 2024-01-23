@@ -62,6 +62,9 @@
       {{ else if not $show_authors_only }}
         {{ partial "publication_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
+      <div>
+      {{ partial "tags" $item }}
+      </div>
     </div>
 
     {{ if $has_attachments }}

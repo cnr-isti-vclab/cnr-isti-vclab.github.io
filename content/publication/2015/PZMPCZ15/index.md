@@ -18,14 +18,14 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/microstructures-final.pdf
-url_pdf: http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/microstructures-suppl-final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2015/PZMPCZ15/microstructures-final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2015/PZMPCZ15/microstructures-suppl-final.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/teaser.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2015/PZMPCZ15/0_thumb_elastic.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2015/PZMPCZ15/teaser.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2015/PZMPCZ15/0_thumb_elastic.png" >}}
 [ Some of the tested patterns ](http://www.thingiverse.com/groups/microstructures/things)
 
-[ Siggraph presentation ](http://vcg.isti.cnr.it/Publicstions/2015/PZMPCZ15/Elastic_Textures_Siggraph_Slides.pptx)
+[ Siggraph presentation ](https://vcgdata.isti.cnr.it/Publicstions/2015/PZMPCZ15/Elastic_Textures_Siggraph_Slides.pptx)
 
 <iframe width="580" height="435" src="https://www.youtube.com/embed/licLnknhiFU" frameborder="0" frameborder="0" allowfullscreen>
 

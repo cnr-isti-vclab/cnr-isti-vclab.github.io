@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Eurographics Workshop on Graphics for Digital Fabrication (2016)*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2016/MRPC16/star_functional.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2016/MRPC16/star_functional.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
