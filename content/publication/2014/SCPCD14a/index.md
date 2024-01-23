@@ -11,7 +11,7 @@ publication_types: ['1']
 publication: '*12th Eurographics Workshops on Graphics and Cultural Heritage (EG GCH 2014)*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2014/SCPCD14a/STAR-Fabrication-final_c.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/SCPCD14a/STAR-Fabrication-final_c.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

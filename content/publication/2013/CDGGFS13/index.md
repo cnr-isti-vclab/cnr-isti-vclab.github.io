@@ -17,9 +17,9 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/CDGGFS13/globreg_preprint.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/globreg_preprint.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/CDGGFS13/tortoise-result.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/CDGGFS13/photo_rendering_comparison.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/CDGGFS13/rendering-combined-fountain.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/CDGGFS13/tortoise-photos.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/tortoise-result.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/photo_rendering_comparison.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/rendering-combined-fountain.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/tortoise-photos.png" >}}

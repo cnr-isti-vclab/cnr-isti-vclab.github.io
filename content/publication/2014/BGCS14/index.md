@@ -15,7 +15,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2014/BGCS14/paper1006_1.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/BGCS14/paper1006_1.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2014/BGCS14/sterobrowsing1.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2014/BGCS14/sterobrowsing2.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/BGCS14/sterobrowsing1.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/BGCS14/sterobrowsing2.png" >}}

@@ -18,5 +18,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2014/BBPGLAB14/vasco.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/BBPGLAB14/vasco.pdf
 ---

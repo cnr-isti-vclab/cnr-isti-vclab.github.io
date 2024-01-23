@@ -17,6 +17,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/DDCLLL13/Archaeology_in_the_Digital_Era_CAA_Last-libre.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/DDCLLL13/Archaeology_in_the_Digital_Era_CAA_Last-libre.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DDCLLL13/pompeii2.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/DDCLLL13/pompeii2.png" >}}

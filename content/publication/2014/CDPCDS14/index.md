@@ -12,11 +12,11 @@ publication_types: ['1']
 publication: '*18 Conferenza Nazionale ASITA 2014*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2014/CDPCDS14/54.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/CDPCDS14/54.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2014/CDPCDS14/Asita1.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/CDPCDS14/Asita1.png" >}}

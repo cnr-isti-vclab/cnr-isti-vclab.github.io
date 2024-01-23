@@ -13,5 +13,5 @@ publication_types: ['1']
 publication: '**'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2014/DPMCDCS14/EuroMed2012_di benedetto et al.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/DPMCDCS14/EuroMed2012_di benedetto et al.pdf
 ---

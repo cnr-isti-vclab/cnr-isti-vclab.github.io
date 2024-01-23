@@ -18,7 +18,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/BCDDPSS12/eBook_CHNT17_Dellepiane.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/BCDDPSS12/eBook_CHNT17_Dellepiane.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/BCDDPSS12/Fig9.jpg" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2012/BCDDPSS12/elm_snap_mod.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/BCDDPSS12/Fig9.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2012/BCDDPSS12/elm_snap_mod.png" >}}

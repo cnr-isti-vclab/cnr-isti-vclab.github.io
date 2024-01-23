@@ -14,7 +14,7 @@ publication: '*Computer Graphics Forum*'
 featured: false
 
 abstract: 'Triangle meshes have been nearly ubiquitous in computer graphics, and a large body of data structures and geometry processing algorithms based on them has been developed in the literature. At the same time, quadrilateral meshes, especially semi-regular ones, have advantages for many applications, and significant progress was made in quadrilateral mesh generation and processing during the last several years. In this survey we discuss the advantages and problems of techniques operating on quadrilateral meshes, including surface analysis and mesh quality, simplification, adaptive refinement, alignment with features, parametrisation and remeshing.'
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/BLPPSTZ13a/QuadMeshingSurveyCGF.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/BLPPSTZ13a/QuadMeshingSurveyCGF.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

@@ -15,6 +15,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/DCCS13/Assisted_3D.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/DCCS13/Assisted_3D.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/DCCS13/assist2.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/DCCS13/assist2.png" >}}

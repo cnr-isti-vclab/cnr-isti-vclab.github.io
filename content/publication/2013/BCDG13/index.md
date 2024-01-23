@@ -15,5 +15,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/BCDG13/ICIAP2013_ptmedgedetection_cameraready.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/BCDG13/ICIAP2013_ptmedgedetection_cameraready.pdf
 ---

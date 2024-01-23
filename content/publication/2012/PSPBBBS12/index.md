@@ -13,5 +13,5 @@ publication_types: ['1']
 publication: '*CAA 2012 Conference Proceeding*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2012/PSPBBBS12/caa_2012.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2012/PSPBBBS12/caa_2012.pdf
 ---
