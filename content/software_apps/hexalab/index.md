@@ -5,8 +5,8 @@ title: "HexaLab"
 subtitle: "An online viewer for hexahedral meshes"
 summary: "HexaLab is a WebGL application for real time visualization, exploration and assessment of hexahedral meshes. This visualization tool targets both users and scholars. Practitioners who employ hexmeshes for Finite Element Analysis, can readily check mesh quality and assess its usability for simulation. Researchers involved in mesh generation may use HexaLab to perform a detailed analysis of the mesh structure, isolating weak points and testing new solutions to improve on the state of the art and generate high quality images. The system also offers immediate access to a repository containing all the publicly available meshes produced with the most recent techniques for hex mesh generation."
 authors: [Matteo Bracci, Marco Tarini, Nico Pietroni, Marco Livesu, Paolo Cignoni]
-tags: ["Web"]
-categories: [web]
+tags:
+  - Web Publising
 show_date: false
 publications: ["conference-paper"]
 Publication: conference-paper
