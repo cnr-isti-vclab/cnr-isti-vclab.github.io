@@ -2,6 +2,10 @@
 # Display name
 title: Marco Potenziani
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "marco-potenziani"
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,7 +18,7 @@ organizations:
     url: 'https://www.isti.cnr.it/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher at the Visual Computing Lab
+bio: Digital Technologies for Cultural Heritage
 
 interests:
   - Computer Graphics
