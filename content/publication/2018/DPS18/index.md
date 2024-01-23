@@ -9,5 +9,5 @@ publication_types: ['1']
 publication: '*Archeologia e Calcolatori*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/DPS18/Cenobium_Dercks_et_al.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/DPS18/Cenobium_Dercks_et_al.pdf
 ---

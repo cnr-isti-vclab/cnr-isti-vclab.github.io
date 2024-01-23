@@ -14,5 +14,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/PCS18/Web3D-2018.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/PCS18/Web3D-2018.pdf
 ---

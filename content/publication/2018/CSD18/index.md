@@ -9,7 +9,7 @@ publication_types: ['1']
 publication: '**'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/CSD18/GRIFONE_v1.1.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/CSD18/GRIFONE_v1.1.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
