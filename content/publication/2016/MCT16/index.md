@@ -14,7 +14,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2016/MCT16/Anisotropic MatCap Final_1200dpi.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2016/MCT16/Anisotropic MatCap Final_1200dpi.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2016/MCT16/image79.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2016/MCT16/camicia4.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2016/MCT16/image79.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2016/MCT16/camicia4.png" >}}

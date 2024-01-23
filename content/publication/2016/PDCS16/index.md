@@ -15,6 +15,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2016/PDCS16/Pavoni_VideoFrames.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2016/PDCS16/Pavoni_VideoFrames.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2016/PDCS16/Recons_SSil1.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2016/PDCS16/Recons_SSil1.png" >}}

@@ -13,6 +13,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2015/PD15/Ponchio_Compressed.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2015/PD15/Ponchio_Compressed.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2015/PD15/Progress.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2015/PD15/Progress.png" >}}

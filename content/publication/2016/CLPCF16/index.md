@@ -11,7 +11,7 @@ publication_types: ['1']
 publication: '*International Journal of Computational Methods and Experimental Measurements, WIT Press*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2016/CLPCF16/corio-MARAS 2016.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2016/CLPCF16/corio-MARAS 2016.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

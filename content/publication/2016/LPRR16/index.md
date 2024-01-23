@@ -10,7 +10,7 @@ publication_types: ['1']
 publication: '*Proceedings of the Second EAGLE International Conference.*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2016/LPRR16/Lame et al. Teaching digital epigraphy.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2016/LPRR16/Lame et al. Teaching digital epigraphy.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

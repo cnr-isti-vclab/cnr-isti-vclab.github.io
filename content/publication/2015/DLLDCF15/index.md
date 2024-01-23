@@ -18,4 +18,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2015/DLLDCF15/3DGIS_2.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2015/DLLDCF15/3DGIS_2.png" >}}

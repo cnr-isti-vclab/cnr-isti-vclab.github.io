@@ -13,7 +13,7 @@ publication_types: ['1']
 publication: '*Signal Processing: Image Communication*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2016/BASLBCB16/main_personal.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2016/BASLBCB16/main_personal.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
