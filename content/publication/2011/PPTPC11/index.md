@@ -17,9 +17,9 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2011/PPTPC11/TVCG2010-PanPupTaretall.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2011/PPTPC11/TVCG2010-PanPupTaretall.pdf
 ---
-[ Talk Slides ](http://vcg.isti.cnr.it/Publicstions/2011/PPTPC11/fitmap.ppt)
+[ Talk Slides ](https://vcgdata.isti.cnr.it/Publicstions/2011/PPTPC11/fitmap.ppt)
 
 <iframe width="580" height="435" src="http://www.youtube.com/embed/a0wYWC8JX34" frameborder="0" frameborder="0" allowfullscreen>
 

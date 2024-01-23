@@ -9,11 +9,11 @@ publication_types: ['1']
 publication: '*International Journal of Computer Vision*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2011/DVS11/Dellepiane_et_al_ImageGuided.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2011/DVS11/Dellepiane_et_al_ImageGuided.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2011/DVS11/test2.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2011/DVS11/test2.png" >}}

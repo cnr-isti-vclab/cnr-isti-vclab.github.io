@@ -14,6 +14,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2011/LDS11/Larue_etAl_Improving.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2011/LDS11/Larue_etAl_Improving.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2011/LDS11/comparison3.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2011/LDS11/comparison3.png" >}}

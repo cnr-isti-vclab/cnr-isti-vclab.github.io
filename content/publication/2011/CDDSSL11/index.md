@@ -17,6 +17,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2011/CDDSSL11/Callieri_etAl_Documenting.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2011/CDDSSL11/Callieri_etAl_Documenting.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2011/CDDSSL11/Photo_pattern.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2011/CDDSSL11/Photo_pattern.png" >}}

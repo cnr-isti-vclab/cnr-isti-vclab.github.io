@@ -10,5 +10,5 @@ publication_types: ['1']
 publication: '*Digital Imaging for Cultural Heritage Preservation: Analysis, Restoration and Reconstruction of Ancient Artworks*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2011/CDCS11/callieri_main_finale.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2011/CDCS11/callieri_main_finale.pdf
 ---
