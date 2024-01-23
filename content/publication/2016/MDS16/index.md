@@ -9,7 +9,7 @@ publication_types: ['1']
 publication: '*IEEE Transaction on Visualization and Computer Graphics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2016/MDS16/final.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2016/MDS16/final.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

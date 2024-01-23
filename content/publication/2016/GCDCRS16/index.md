@@ -18,4 +18,4 @@ image:
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2016/GCDCRS16/Gale1.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2016/GCDCRS16/Gale1.jpg" >}}
