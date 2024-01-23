@@ -14,7 +14,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2014/PCS14/ERCIMNEWS2014 (Paper) - 3DHOP A Novel Technological Solution for the Development of Online Virtual Museums.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/PCS14/ERCIMNEWS2014 (Paper) - 3DHOP A Novel Technological Solution for the Development of Online Virtual Museums.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2014/PCS14/Figure2.jpg" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2014/PCS14/Figure1.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/PCS14/Figure2.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/PCS14/Figure1.jpg" >}}

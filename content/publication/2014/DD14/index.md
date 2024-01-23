@@ -13,7 +13,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2014/DD14/Love.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/DD14/Love.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2014/DD14/foto1_b.PNG" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2014/DD14/totsquare.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/DD14/foto1_b.PNG" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/DD14/totsquare.png" >}}
