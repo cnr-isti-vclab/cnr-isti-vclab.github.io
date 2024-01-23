@@ -4,7 +4,7 @@ headless: true
 weight: 20
 
 title: 
-subtitle: Recent Papers on Geometry Processing
+subtitle: Recent Papers on Digital Heritage
 
 content:
   count: 0
@@ -13,7 +13,7 @@ content:
     category: ''
     exclude_featured: false
     publication_type: ''
-    tag: 'Geometry Processing'
+    tag: 'Digital Heritage'
   offset: 0
   order: desc
   page_type: 
