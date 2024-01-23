@@ -9,7 +9,7 @@ publication_types: ['1']
 publication: '*ENGINEERING STRUCTURES*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2019/FGL19a/19893.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/FGL19a/19893.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

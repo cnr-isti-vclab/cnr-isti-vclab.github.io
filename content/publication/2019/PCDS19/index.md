@@ -15,5 +15,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2019/PCDS19/Effective Annotations preprint.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/PCDS19/Effective Annotations preprint.pdf
 ---

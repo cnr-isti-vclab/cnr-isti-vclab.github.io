@@ -7,7 +7,7 @@ publication_types: ['1']
 publication: '*Journal of Cultural Heritage*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2019/Sio19/abstract.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/Sio19/abstract.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
