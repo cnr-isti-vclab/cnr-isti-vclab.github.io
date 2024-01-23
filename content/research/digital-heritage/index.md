@@ -5,4 +5,4 @@ title: "Digital Heritage"
 authors: ["marco-callieri"]
 show_date: false
 ---
-high level 2 lines description high level 2 lines description high level 2 lines description high level 2 lines description high level 2 lines description high level 2 lines description high level 2 lines description high level 2 lines description high level 2 lines description high level 2 lines description 
+Computer Graphcis for supporting the study, documentation, management, restoration, and promotion of Cultural Heritage. On-field digitization campaigns. Open Source software tools for the CH field.
