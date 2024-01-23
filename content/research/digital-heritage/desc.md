@@ -18,4 +18,3 @@ We have participated to numerous digitization and survey campaigns in museums, a
 The activities of this track have been part of various research project at EU and national level, such as: XXX YYY ZZZ 
 
 The Visual Computing Lab develops and maintains open source software tools widely used in the CH community: MeshLab, 3DHOP, and, lately, TagLab.
-
