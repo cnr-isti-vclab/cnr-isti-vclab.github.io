@@ -16,7 +16,7 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/LCDRO13/DreamAndTheCross.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/LCDRO13/DreamAndTheCross.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/LCDRO13/rune_word.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/LCDRO13/parole.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/LCDRO13/rune_word.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/LCDRO13/parole.png" >}}

@@ -10,11 +10,11 @@ publication_types: ['1']
 publication: '*ACM WEB3D - 18th International Conference on 3D Web Technology*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/CLDS13/web3D_cross.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/CLDS13/web3D_cross.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2013/CLDS13/Screenshot_presenter.PNG" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2013/CLDS13/Screenshot_presenter.PNG" >}}

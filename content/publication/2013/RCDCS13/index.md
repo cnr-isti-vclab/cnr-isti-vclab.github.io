@@ -16,5 +16,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/RCDCS13/MeshLab_Color.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/RCDCS13/MeshLab_Color.pdf
 ---

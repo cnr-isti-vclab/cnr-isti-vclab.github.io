@@ -16,5 +16,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2013/BCDCS13/VISAPP_2013_147_CR.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/BCDCS13/VISAPP_2013_147_CR.pdf
 ---
