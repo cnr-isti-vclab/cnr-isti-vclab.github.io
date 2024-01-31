@@ -1,14 +1,21 @@
 ---
-title: 'A Web-based system for data integration and visualization of the ancient colour '
+title: 'A Web-based system for data integration and visualization of the ancient colour'
 authors:
-  - Eliana Siotto
-  - Gianpaolo Palma
-  - Marco Potenziani
+  - eliana-siotto
+  - gianpaolo-palma
+  - marco-potenziani
   - Roberto Scopigno
-date: '2018-01-01T00:00:00Z'
+date: '2018-10-01'
 publication_types: ['1']
 publication: '*Proceedings of the 7th Round Table on Polychromy in Ancient Sculpture and Architecture*'
-featured: false
+
+tags:
+  - Digital Heritage
+featured: true
+
+links:
+  - name: Link
+    url: https://www.sillabe.it/en/monographs/711-polychromy-in-ancient-sculpture-and-architecture-9788883479977.html
 
 image:
 #    caption: 'Image'

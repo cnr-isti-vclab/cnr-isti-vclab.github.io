@@ -4,10 +4,10 @@ authors:
   - Fauzia Albertin
   - Chiara Ruberto
   - Costanza Cucci
-  - Marco Callieri
-  - Marco Potenziani
-  - Eliana Siotto
-  - Paolo Pingi
+  - marco-callieri
+  - marco-potenziani
+  - eliana-siotto
+  - paolo-pingi
   - Roberto Scopigno
   - Matteo Bettuzzi
   - Rosa Brancaccio

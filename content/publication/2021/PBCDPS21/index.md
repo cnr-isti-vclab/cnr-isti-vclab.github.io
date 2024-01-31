@@ -1,11 +1,11 @@
 ---
 title: 'Virtual clones for Cultural Heritage applications'
 authors:
-  - Marco Potenziani
-  - Francesco Banterle
-  - Marco Callieri
+  - marco-potenziani
+  - francesco-banterle
+  - marco-callieri
   - Matteo Dellepiane
-  - Federico Ponchio
+  - federico-ponchio
   - Roberto Scopigno
 
 date: '2021-01-01'
@@ -19,7 +19,7 @@ tags:
 featured: true
 
 links:
-  - name: Permalink
+  - name: Link
     url: http://digital.casalini.it/4805894
 
 url_pdf: http://vcgdata.isti.cnr.it/Publications/2021/PBCDPS21/clones.pdf

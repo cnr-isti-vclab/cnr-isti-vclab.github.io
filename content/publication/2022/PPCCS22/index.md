@@ -1,10 +1,10 @@
 ---
 title: 'Cultural Heritage 3D Data on the Web: Issues and Perspectives'
 authors:
-  - Marco Potenziani
-  - Federico Ponchio
-  - Marco Callieri
-  - Paolo Cignoni
+  - marco-potenziani
+  - federico-ponchio
+  - marco-callieri
+  - paolo-cignoni
   - Roberto Scopigno
 date: '2022-03-01'
 publication_types: ['1']
@@ -16,6 +16,9 @@ tags:
   - Digital Heritage
 featured: true
 
+links:
+  - name: Link
+    url: https://www.heritageresearch-hub.eu/app/uploads/2022/09/BD-actes_du_colloque2022.pdf
 
 url_pdf: http://vcgdata.isti.cnr.it/Publications/2022/PPCCS22/378-383.pdf
 ---

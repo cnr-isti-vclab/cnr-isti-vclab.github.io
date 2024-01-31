@@ -1,16 +1,23 @@
 ---
 title: 'Rilievo 3D di Alchimia, ed uso dei modelli 3D per studio e divulgazione'
 authors:
-  - Marco Potenziani
-  - Paolo Pingi
+  - marco-potenziani
+  - paolo-pingi
   - Gaia Pavoni
   - Aurelia Lureau
   - Matteo Dellepiane
-  - Marco Callieri
+  - marco-callieri
   - Roberto Scopigno
-date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
-publication: '**'
+  
+date: '2019-06-01'
+publication_types: ['6']
+publication: '*Rilievo 3D di Alchimia, ed uso dei modelli 3D per studio e divulgazione*'
+
+tags:
+  - Digital Heritage
 featured: false
 
+links:
+  - name: Link
+    url: https://edifir.it/prodotto/alchimia-di-jackson-pollock/
 ---

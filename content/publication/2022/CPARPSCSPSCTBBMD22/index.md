@@ -2,14 +2,14 @@
 title: 'Leafing through the painting “Ecce Homo” by Antonello da Messina: multimodal imaging techniques and data-fusion'
 authors:
   - Costanza Cucci
-  - Marco Potenziani
+  - marco-potenziani
   - Fauzia Albertin
   - Chiara Ruberto
   - Marcello Picollo
   - Lorenzo Stefani
-  - Marco Callieri
-  - Eliana Siotto
-  - Paolo Pingi
+  - marco-callieri
+  - eliana-siotto
+  - paolo-pingi
   - Roberto Scopigno
   - Lisa Castelli
   - Francesco Taccetti
