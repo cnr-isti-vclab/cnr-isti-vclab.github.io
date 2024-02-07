@@ -6,18 +6,18 @@
 
 title: 'Digitalizzazione 3D dei frammenti della statua di Atena e del fregio monumentale dell’Athenaion di Castro'
 authors:
-- Marco Callieri
-- Marco Potenziani
-- Eliana Siotto
+- marco-callieri
+- marco-potenziani
+- eliana-siotto
 
-date: '2023-06-18T00:00:00Z'
-#doi: 'https://doi.org/10.5281/zenodo.10067103'
+date: '2023-06-18'
+doi: 'http://dx.doi.org/10.4475/0369'
 
 
 publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: '*ATHENAION TARANTINI, MESSAPI E ALTRI NEL SANTUARIO DI ATENA A CASTRO*'
+publication: '*ATHENAION - Tarantini, Messapi e altri nel Santuario di Atena a Castro*'
 
 abstract: 'Nell’ottobre 2021, diversi frammenti della statua di Athena e del fregio monumentale 
 dell’Athenaion di Castro sono stati digitalizzati in modelli 3D a cura del Visual Computing Lab 

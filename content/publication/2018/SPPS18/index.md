@@ -7,7 +7,7 @@ authors:
   - Roberto Scopigno
 date: '2018-10-01'
 publication_types: ['1']
-publication: '*Proceedings of the 7th Round Table on Polychromy in Ancient Sculpture and Architecture*'
+publication: '*7th Round Table on Polychromy in Ancient Sculpture and Architecture*'
 
 tags:
   - Digital Heritage
