@@ -10,16 +10,19 @@ publication_types: ['1']
 publication: '*Museums and the Web 2014*'
 featured: false
 
-abstract: 'Online publication  	 	 Online kiosk'
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
+url_pdf: https://mwf2014.museumsandtheweb.com/paper/storytelling-of-a-coin-collection-by-means-of-rti-images-the-case-of-the-simoneschi-collection-in-palazzo-blu/
+url_project: https://vcg.isti.cnr.it/PalazzoBlu/
 ---
-{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/kiosk.jpg" >}}
-{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/viewer_hotspot.jpg" >}}
-{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/viewer_light.jpg" >}}
-{{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/a_home.jpg" >}}
-<iframe width="580" height="435" src="//www.youtube.com/embed/0A3bzSk7VHw" frameborder="0" frameborder="0" allowfullscreen>
+{{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/kiosk.jpg" >}}
+{{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/coin.jpg" >}}
+{{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/viewer_hotspot.jpg" >}}
+{{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/viewer_light.jpg" >}}
+
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/0A3bzSk7VHw' frameborder='0' allowfullscreen></iframe></div>
+
 

@@ -6,8 +6,8 @@ authors:
   - Gianpaolo Palma
   - Roberto Scopigno
 date: '2021-01-01T00:00:00Z'
-publication_types: ['1']
-publication: '**'
+publication_types: ['6']
+publication: '*The restoration of Leonardo da Vinci s Adoration of the Magi Rediscovering a masterpiece*'
 featured: false
 
 image:

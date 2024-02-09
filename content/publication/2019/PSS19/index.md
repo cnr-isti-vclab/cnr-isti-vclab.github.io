@@ -1,9 +1,9 @@
 ---
 title: 'Analisi dei frammenti di sectilia vitrei dalla villa romana di Aiano-Torraccia di Chiusi (SI) e studio della tecnica di esecuzione'
 authors:
-  - Roberto Scopigno
-  - Eliana Siotto
   - Gianpaolo Palma
+  - Eliana Siotto
+  - Roberto Scopigno
 date: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 publication: '*Atti del XXIV Colloquio AISCOM*'
