@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Gianpaolo Palma
-
+weight: 1600
 # Is this the primary user of the site?
 superuser: false
 

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Fabio Ganovelli
-
+weight: 0700
 # Is this the primary user of the site?
 superuser: false
 

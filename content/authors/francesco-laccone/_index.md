@@ -1,7 +1,9 @@
 ---
 # Display name
 title: Francesco Laccone
-
+first_name: Francesco
+last_name: Laccone
+weight: 1200
 # delete the following three lines if you want that your page appears:
 #_build:
 #  render: always

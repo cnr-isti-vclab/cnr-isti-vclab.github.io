@@ -1,6 +1,10 @@
 ---
 # Display name
 title: "Paolo Cignoni"
+# Full Name (for SEO)
+first_name: Paolo
+last_name: Cignoni
+weight: 0309
 
 # Username (this should match the folder name and the name on publications)
 authors:

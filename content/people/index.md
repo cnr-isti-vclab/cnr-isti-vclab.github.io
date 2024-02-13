@@ -14,9 +14,11 @@ sections:
         - Administration
         - Honorary
         - Former Members
-      sort_by: Params.last_name
-      sort_ascending: true
+      # sort_by: Params.last_name
+      sort_by: Weight
+      # sort_ascending: true
     design:
+      view: card
       show_interests: false
       show_role: true
       show_social: true

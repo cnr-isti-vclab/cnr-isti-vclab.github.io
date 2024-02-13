@@ -1,7 +1,10 @@
 ---
 # Display name
 title: Daniela Giorgi
-
+# Full Name (for SEO)
+first_name: Daniela
+last_name: Giorgi
+weight: 700
 
 # Is this the primary user of the site?
 superuser: false

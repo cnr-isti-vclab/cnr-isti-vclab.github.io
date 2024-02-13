@@ -1,7 +1,8 @@
 ---
 # Display name
 title: Andrea Favilli
-
+first_name: Andrea
+last_name: Favilli
 # delete the following three lines if you want that your page appears:
 # _build:
 #   render: always

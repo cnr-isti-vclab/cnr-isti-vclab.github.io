@@ -1,7 +1,10 @@
 ---
 # Display name
 title: Davide Pellis
-
+# Full Name (for SEO)
+first_name: Davide
+last_name: Pellis
+weight: 1605
 # delete the following three lines if you want that your page appears:
 #_build:
 #  render: always

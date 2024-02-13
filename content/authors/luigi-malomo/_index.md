@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luigi Malomo
-
+weight: 1300
 # Is this the primary user of the site?
 superuser: false
 
