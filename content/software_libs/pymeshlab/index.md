@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PyMeshLab"
-summary: ""
+summary: "PyMeshLab is an open source python library that expose the many filtering operation of MeshLab, as python functions"
 authors: ['alessandro-muntoni', 'paolo-cignoni']
 tags: ['software', 'libraries']
 categories: []

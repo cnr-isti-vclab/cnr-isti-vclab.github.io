@@ -36,8 +36,7 @@ url_code: "https://github.com/cnr-isti-vclab/HexaLab#hexalabnet-an-online-viewer
 # url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0010448518304238?via%3Dihub"
 url_slides: ""
 url_video: ""
-url_pdf: Publication/conference-paper
-
+url_pdf: publication/2019/BTPLC19/
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
