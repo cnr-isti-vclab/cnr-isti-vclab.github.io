@@ -3,13 +3,13 @@
 
 title: "SUN-XR"
 summary: ""
-authors: []
+authors: [daniela-giorgi, marco-callieri, paolo-cignoni, gianpaolo-palma]
 tags: []
 categories: []
 date: 2023-01-20T10:39:08+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://evocation.eu/"
+external_link: "https://www.sun-xr-project.eu/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

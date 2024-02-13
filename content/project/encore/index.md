@@ -1,20 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Evocation"
-summary: "Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication"
-authors:
-  - Andrea Favilli
-  - Francesco Laccone 
-  - Paolo Cignoni 
-  - Luigi Malomo 
-  - Daniela Giorgi
+title: "Encore"
+summary: "ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context"
+authors: [paolo-cignoni]
 tags: 
 - digital fabrication 
 - geometry processing
 categories: []
 date: 2023-01-20T10:39:08+01:00
-project_reference: "2018-2022 H2020-MSCA-ITN-2018 Innovative Training Networks (ITN)"
+
 # Optional external URL for project (replaces project detail page).
 external_link: "https://evocation.eu/"
 projects_class: Active
@@ -46,5 +41,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-2018-2022 H2020-MSCA-ITN-2018 Innovative Training Networks (ITN)
+ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context
+
+2018-2021 EC H2020-NMBP-EEB-2018
+
 
