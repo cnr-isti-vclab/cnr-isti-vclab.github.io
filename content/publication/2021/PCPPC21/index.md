@@ -11,11 +11,11 @@ publication_types: ['paper-conference']
 publication: '*Applied Geomatics*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2021/PCPPC21/ChallengesSemanticSegmentationBenthic-preprint.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2021/PCPPC21/ChallengesSemanticSegmentationBenthic-preprint.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PCPPC21/RESULT_IM.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2021/PCPPC21/RESULT_IM.png" >}}

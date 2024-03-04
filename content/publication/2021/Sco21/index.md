@@ -7,5 +7,5 @@ publication_types: ['paper-conference']
 publication: '*Digital Transformation of Museums and Heritage Sites*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2021/Sco21/2021_Book_EmergingTechnologiesAndTheDigi_Scopigno.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2021/Sco21/2021_Book_EmergingTechnologiesAndTheDigi_Scopigno.pdf
 ---

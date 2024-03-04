@@ -16,7 +16,7 @@ tags:
 - Visual AI
 - Environmental Monitoring
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2021/PCPEPSC21/rob.22049.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2021/PCPEPSC21/rob.22049.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

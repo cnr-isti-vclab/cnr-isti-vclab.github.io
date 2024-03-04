@@ -17,6 +17,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2021/ECDBMD21/10.1515_opar-2020-0139.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2021/ECDBMD21/10.1515_opar-2020-0139.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2021/ECDBMD21/graphic_j_opar-2020-0139_fig_003.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2021/ECDBMD21/graphic_j_opar-2020-0139_fig_003.jpg" >}}

@@ -19,17 +19,17 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2021/PNACT21/ReliableQuad.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/ReliableQuad.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/example01.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/example00.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/example02.png" >}}
 [ 10.1145/3450626.3459941](https://doi.org/10.1145/3450626.3459941)
 
 [ www.quadmesh.cloud](https://www.quadmesh.cloud/Thingi10K)
 
-[ Download the slides! (.pttx)](http://vcg.isti.cnr.it/Publicstions/2021/PNACT21/reliable-quadremesh-siggraph2021.pptx)
+[ Download the slides! (.pttx)](https://vcgdata.isti.cnr.it/Publicstions/2021/PNACT21/reliable-quadremesh-siggraph2021.pptx)
 
 <iframe width="580" height="435" src="https://www.youtube.com/embed/mUzYFH7DrN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>
 
