@@ -5,7 +5,7 @@ authors:
   - Andrea Giachetti
   - Fabio Ganovelli
 date: '2005-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Workshop On Virtual Reality Interaction and Physical Simulation*'
 featured: false
 

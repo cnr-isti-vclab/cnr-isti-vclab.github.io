@@ -6,7 +6,7 @@ authors:
   - Federico Ponchio
   - Paolo Cignoni
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*STAG: Smart Tools and Apps for Graphics*'
 featured: false
 

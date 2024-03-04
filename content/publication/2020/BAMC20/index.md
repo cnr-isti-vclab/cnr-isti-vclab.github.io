@@ -6,7 +6,7 @@ authors:
   - Alejandro Moreo
   - Fabio Carrara
 date: '2020-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IEEE International Conference on Image Processing (ICIP)*'
 featured: false
 

@@ -6,7 +6,7 @@ authors:
   - Luigi Malomo
   - Paolo Cignoni
 date: '2022-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Inspiring the Next Generation, p.3590; International Conference on Spatial Structures 2020/21, 7*'
 featured: false
 

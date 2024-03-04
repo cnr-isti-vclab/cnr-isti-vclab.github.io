@@ -6,7 +6,7 @@ authors:
   - Luigi Malomo
   - Nico Pietroni
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Computer Graphics Forum*'
 featured: false
 

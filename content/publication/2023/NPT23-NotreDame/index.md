@@ -24,7 +24,7 @@ date: '2023-11-10T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.culher.2023.09.016'
 
 
-publication_types: ['2']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Journal of Cultural Heritage*'

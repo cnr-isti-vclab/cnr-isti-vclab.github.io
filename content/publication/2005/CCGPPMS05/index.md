@@ -9,7 +9,7 @@ authors:
   - Claudio Montani
   - Roberto Scopigno
 date: '2005-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*SPIE International Symposium on Optical Metrology, 13-17 June 2005, Munich, Germany*'
 featured: false
 

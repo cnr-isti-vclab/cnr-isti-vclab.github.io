@@ -5,7 +5,7 @@ authors:
   - Gianpaolo Palma
   - Roberto Scopigno
 date: '2017-01-01T00:00:00Z'
-publication_types: ['6']
+publication_types: ['chapter']
 publication: '*Colours of the prosperity: Fruits from the old and new world*'
 featured: false
 

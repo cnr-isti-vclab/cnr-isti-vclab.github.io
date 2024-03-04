@@ -6,7 +6,7 @@ authors:
   - Fabio Ganovelli
   - Paolo Cignoni
 date: '2018-06-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*ISPRS Journal of Photogrammetry and Remote Sensing*'
 featured: false
 doi: '10.1016/j.isprsjprs.2018.06.012'

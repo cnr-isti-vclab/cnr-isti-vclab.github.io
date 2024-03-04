@@ -8,7 +8,7 @@ authors:
   - federico-ponchio
   - Roberto Scopigno
 date: '2015-11-01'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Computers & Graphics*'
 doi: 'https://doi.org/10.1016/j.cag.2015.07.001'
 

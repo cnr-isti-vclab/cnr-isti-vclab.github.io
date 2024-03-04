@@ -8,7 +8,7 @@ authors:
   - Paolo Cignoni
   - Thomas Franken
 date: '2005-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*3D Digital Imaging and Modeling: Applications of Heritage, Industry, Medicine and Land, Workshop Italy-Canada*'
 featured: false
 

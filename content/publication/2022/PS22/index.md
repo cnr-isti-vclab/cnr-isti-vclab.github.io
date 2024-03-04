@@ -6,7 +6,7 @@ authors:
   - Paolo Pingi
   - Eliana Siotto
 date: '2022-01-01T00:00:00Z'
-publication_types: ['6']
+publication_types: ['chapter']
 #publication: '**'
 
 tags:

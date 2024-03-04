@@ -6,7 +6,7 @@ authors:
   - Marco Sodano
   - Maurizio Froli
 date: '2021-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*The Structural Design of Tall and Special Buildings*'
 featured: false
 

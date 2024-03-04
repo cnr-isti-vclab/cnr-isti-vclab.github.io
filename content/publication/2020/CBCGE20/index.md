@@ -7,7 +7,7 @@ authors:
   - Fabio Ganovelli
   - Ugo Erra
 date: '2020-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IEEE Computer Graphics & Applications*'
 featured: false
 

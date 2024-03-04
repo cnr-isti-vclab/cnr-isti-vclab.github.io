@@ -9,7 +9,7 @@ authors:
   - Alchiede Simonato
   - Marco Callieri
 date: '2021-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*The Journal of Sexual Medicine*'
 featured: false
 

@@ -6,7 +6,7 @@ authors:
   - Denis Kovacs
   - Denis Zorin
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Transactions on Graphics, Proceedings of SIGGRAPH 2010*'
 featured: false
 

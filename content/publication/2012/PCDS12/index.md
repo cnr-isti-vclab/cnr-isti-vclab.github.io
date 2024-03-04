@@ -6,7 +6,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2012-07-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Computer Graphics Forum (Issue of Eurographics Symposium on Rendering 2012)*'
 featured: false
 doi: '10.1111/j.1467-8659.2012.03145.x'

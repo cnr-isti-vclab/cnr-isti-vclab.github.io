@@ -14,7 +14,7 @@ date: '2023-06-18'
 doi: 'http://dx.doi.org/10.4475/0369'
 
 
-publication_types: ['6']
+publication_types: ['chapter']
 
 # Publication name and optional abbreviated publication name.
 publication: '*ATHENAION - Tarantini, Messapi e altri nel Santuario di Atena a Castro*'

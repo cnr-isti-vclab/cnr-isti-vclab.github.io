@@ -7,7 +7,7 @@ authors:
   - Paolo Cignoni
   - Maurizio Froli
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*International Journal of Computational Methods and Experimental Measurements, WIT Press*'
 featured: false
 

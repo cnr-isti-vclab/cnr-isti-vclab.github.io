@@ -14,7 +14,7 @@ authors:
   - Giuseppe Mignemi
   - Federico Ponchio
 date: '2022-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*GCH 22 - Eurographics Workshop on Graphics and Cultural Heritage*'
 
 tags:

@@ -9,7 +9,7 @@ authors:
   - Nachum Dershowitz
   - Roberto Scopigno
 date: '2017-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*The 14th IAPR International Conference on Document Analysis and Recognition (ICDAR2017)*'
 featured: false
 

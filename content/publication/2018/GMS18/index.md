@@ -5,7 +5,7 @@ authors:
   - Luigi Malomo
   - Roberto Scopigno
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proc. IVCNZ Image and Vision Conference New Zealand*'
 featured: false
 

@@ -5,7 +5,7 @@ authors:
   - Luca Benedetti
   - Roberto Scopigno
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*The 10th International Symposium on VAST International Symposium on Virtual Reality, Archaeology and Cultural Heritage*'
 featured: false
 

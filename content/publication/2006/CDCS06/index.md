@@ -6,7 +6,7 @@ authors:
   - Marco Callieri
   - Roberto Scopigno
 date: '2006-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*British Archeological Reports - 2nd International Conference on Remote Sensing Archaeology*'
 featured: false
 

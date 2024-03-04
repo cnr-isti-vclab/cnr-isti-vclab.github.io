@@ -9,7 +9,7 @@ authors:
   - Ubaldo Pantaleo
   - Roberto Scopigno
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ISPRS - The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*'
 featured: false
 

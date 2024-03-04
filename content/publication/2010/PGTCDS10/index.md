@@ -8,7 +8,7 @@ authors:
   - Davide Portelli
   - Roberto Scopigno
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of WSCG, the 18th Int. Conference on Computer Graphics, Visualization and Computer Vision*'
 featured: false
 

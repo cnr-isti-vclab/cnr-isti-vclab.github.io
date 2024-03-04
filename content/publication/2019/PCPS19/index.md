@@ -6,7 +6,7 @@ authors:
   - Massimiliano Corsini
   - Gaia Pavoni
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Eurographics 2019 - Short papers*'
 featured: false
 

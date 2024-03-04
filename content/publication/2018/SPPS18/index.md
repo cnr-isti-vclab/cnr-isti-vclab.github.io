@@ -6,7 +6,7 @@ authors:
   - marco-potenziani
   - Roberto Scopigno
 date: '2018-10-01'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*7th Round Table on Polychromy in Ancient Sculpture and Architecture*'
 
 tags:

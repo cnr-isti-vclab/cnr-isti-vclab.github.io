@@ -6,7 +6,7 @@ authors:
   - Paolo Cignoni
   - Roberto Scopigno
 date: '2012-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*EG 2012 - Posters*'
 featured: false
 

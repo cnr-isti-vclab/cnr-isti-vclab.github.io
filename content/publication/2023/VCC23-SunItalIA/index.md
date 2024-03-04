@@ -19,7 +19,7 @@ authors:
 
 date: '2023-05-29T00:00:00Z'
 
-publication_types: ['1']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Italia Intelligenza Artificiale - Thematic Workshops*'

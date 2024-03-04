@@ -7,11 +7,24 @@ authors:
   - Roberto Scopigno
   - Enrico Gobbetti
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Computational Visual Media*'
 featured: false
 
-abstract: 'abstract 	 	 	     Abstract We present a novel approach to automatically recover, from a small set of partially overlapping spherical images, an indoor structure representation in terms of a 3D floor plan registered with a set of 3D environment maps.  % We introduce several improvements over previous approaches based on color/spatial reasoning exploiting \emph{Manhattan World} priors. In particular, we introduce a new method for geometric context extraction based on a 3D facets representation, which combines color distribution analysis of individual images with sparse multi-view clues. Moreover, we introduce an efficient method to combine the facets from different points of view in a single consistent model, considering the reliability of the facets contribution. The resulting capture and reconstruction pipeline automatically generates 3D multi-room environments where most of the other previous approaches fail, such as in presence of hidden corners and large clutter, even without involving additional dense 3D data or tools.   % We demonstrate the effectiveness and performance of our approach on different real-world indoor scenes. Our test data will be released to allow for further studies and comparisons.'
+abstract: 'abstract
+ 	
+ 	
+ 	
+ 
+ 
+ 
+ 
+ Abstract
+ We present a novel approach to automatically recover, from a small set of partially overlapping spherical images, an indoor structure representation in terms of a 3D floor plan registered with a set of 3D environment maps. 
+ %
+ We introduce several improvements over previous approaches based on color/spatial reasoning exploiting \emph{Manhattan World} priors. In particular, we introduce a new method for geometric context extraction based on a 3D facets representation, which combines color distribution analysis of individual images with sparse multi-view clues. Moreover, we introduce an efficient method to combine the facets from different points of view in a single consistent model, considering the reliability of the facets contribution. The resulting capture and reconstruction pipeline automatically generates 3D multi-room environments where most of the other previous approaches fail, such as in presence of hidden corners and large clutter, even without involving additional dense 3D data or tools.  
+ %
+ We demonstrate the effectiveness and performance of our approach on different real-world indoor scenes. Our test data will be released to allow for further studies and comparisons.'
 image:
 #    caption: 'Image'
     focal_point: ''

@@ -5,7 +5,7 @@ authors:
   - Matteo Dellepiane
   - Francesco Banterle
 date: '2011-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Annex to the Conference Proceedings: Areas Papers on HDR*'
 featured: false
 

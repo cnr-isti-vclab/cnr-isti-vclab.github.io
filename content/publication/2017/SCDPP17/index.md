@@ -7,7 +7,7 @@ authors:
   - federico-ponchio
   - marco-potenziani
 date: '2017-07-01'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Virtual Archaeology Review*'
 doi: 'https://doi.org/10.4995/var.2017.6405'
 

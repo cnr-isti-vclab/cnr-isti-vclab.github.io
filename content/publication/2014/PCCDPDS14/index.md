@@ -9,7 +9,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2014-05-01'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Museums and the Web*'
 
 tags:

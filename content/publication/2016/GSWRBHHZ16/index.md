@@ -10,7 +10,7 @@ authors:
   - Miguel Angel Hervas
   - Massimo Zallocco
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*EUROGRAPHICS Workshop on Graphics and Cultural Heritage (2016)*'
 featured: false
 

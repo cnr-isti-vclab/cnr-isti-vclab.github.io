@@ -5,7 +5,7 @@ authors:
   - Maria Carla Sgarella
   - Marco Callieri
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*CAA2016: Oceans of Data Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology*'
 featured: false
 

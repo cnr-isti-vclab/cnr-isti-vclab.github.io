@@ -4,7 +4,7 @@ authors:
   - Maurizio Froli
   - Francesco Laccone
 date: '2020-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Glass Structures & Engineering*'
 featured: false
 

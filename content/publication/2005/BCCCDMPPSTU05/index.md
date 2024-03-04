@@ -13,7 +13,7 @@ authors:
   - Marco Callieri
   - Marcello Balzani
 date: '2005-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Int. Workshop 3D-ARCH''2005 - 3D Virtual Reconstruction and Visualization of Complex Architectures, August 22-24, 2005, Mestre-Venice, Italy*'
 featured: false
 

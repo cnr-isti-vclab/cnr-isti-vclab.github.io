@@ -5,7 +5,7 @@ authors:
   - marco-callieri
   - Roberto Scopigno
 date: '2018-11-01'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*16th Eurographics Workshop on Graphics and Cultural Heritage*'
 doi: 'https://doi.org/10.2312/gch.20181356'
 

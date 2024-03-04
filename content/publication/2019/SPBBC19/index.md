@@ -7,7 +7,7 @@ authors:
   - Tamy Boubekeur
   - Paolo Cignoni
 date: '2019-11-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Computer Graphics Forum*'
 featured: false
 doi: '10.1111/cgf.13857'

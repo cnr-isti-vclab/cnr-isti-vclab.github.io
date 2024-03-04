@@ -6,7 +6,7 @@ authors:
   - Claudio Montani
   - Roberto Scopigno
 date: '2006-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Fourth Eurographics Italian Chapter 2006*'
 featured: false
 

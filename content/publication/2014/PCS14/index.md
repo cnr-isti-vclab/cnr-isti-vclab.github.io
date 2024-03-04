@@ -5,7 +5,7 @@ authors:
   - marco-callieri
   - Roberto Scopigno
 date: '2014-04-01'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*ERCIM News*'
 
 abstract: 'The interactive visualization of 3D content on the Web has gained momentum in recent years, thanks to the release of ad-hoc technology as part of HTML5. However, so far, few products fully exploit this opportunity for the easy and quick embedding of high-resolution 3D models in a Web page. 3DHOP (3D Heritage Online Presenter) is an advanced solution for easy publishing of 3D content on the Web.'

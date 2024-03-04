@@ -4,7 +4,7 @@ authors:
   - Federico Ponchio
   - Matteo Dellepiane
 date: '2015-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Web3D 2015. Proceedings of the 20th International Conference on 3D Web Technology *'
 featured: false
 

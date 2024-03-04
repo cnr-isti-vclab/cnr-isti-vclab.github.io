@@ -7,7 +7,7 @@ authors:
   - Ahmet Oguz Akyuz
   - Roberto Scopigno
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*The 13th European Conference on Visual Media Production (CVMP)*'
 featured: false
 

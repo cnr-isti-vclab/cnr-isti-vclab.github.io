@@ -10,7 +10,7 @@ authors:
   - Denise La Monica
   - Andrea Ferrara
 date: '2014-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*CHNT 18 - 18th International Conference on Cultural Heritage and New Technologies*'
 featured: false
 

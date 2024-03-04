@@ -8,7 +8,7 @@ authors:
   - Holger Graf
   - Arjan Kujiper
 date: '2014-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proc. of 3rd Int. Conference on Design, User Experience, and Usability (Part II). Part of HCI International 2014*'
 featured: false
 

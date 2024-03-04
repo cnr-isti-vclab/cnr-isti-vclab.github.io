@@ -6,7 +6,7 @@ authors:
   - Nico Pietroni
   - Paolo Cignoni
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Eurographics Workshop on Graphics for Digital Fabrication (2016)*'
 featured: false
 

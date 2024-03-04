@@ -5,7 +5,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2015-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ISPRS Archives, Proceedings of 3D-ARCH Conference*'
 featured: false
 

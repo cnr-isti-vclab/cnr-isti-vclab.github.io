@@ -18,7 +18,7 @@ authors:
   - Lorenzo Stefani
   - Francesca De Vita
 date: '2021-08-01'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Scientific Reports*'
 doi: 'https://doi.org/10.1038/s41598-021-95212-2'
 

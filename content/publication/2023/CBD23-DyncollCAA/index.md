@@ -18,7 +18,7 @@ date: '2023-11-02T00:00:00Z'
 doi: 'https://doi.org/10.5281/zenodo.10067103'
 
 
-publication_types: ['1']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: '*International Conference on Computer Applications & Quantitative Methods in Archaeology 2023'

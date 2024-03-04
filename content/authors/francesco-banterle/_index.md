@@ -2,6 +2,8 @@
 # Display name
 title: Francesco Banterle
 
+weight: 0200
+
 # delete the following three lines if you want that your page appears:
 #_build:
 #  render: always

@@ -6,7 +6,7 @@ authors:
   - Fabio Ganovelli
   - Marco Fratarcangeli
 date: '2007-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Symposium on Virtual Reality Software and Technology*'
 featured: false
 

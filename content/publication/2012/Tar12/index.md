@@ -3,7 +3,7 @@ title: 'Cylindrical and Toroidal Parameterizations Without Vertex Seams'
 authors:
   - Marco Tarini
 date: '2012-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Journal of Graphics Tools*'
 featured: false
 

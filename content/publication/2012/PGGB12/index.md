@@ -6,7 +6,7 @@ authors:
   - Fabio Ganovelli
   - Paolo Brivio
 date: '2012-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Web3D 2012. 17th Conference on 3D Web technology*'
 featured: false
 

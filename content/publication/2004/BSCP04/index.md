@@ -6,7 +6,7 @@ authors:
   - Paolo Cignoni
   - Valerio Pascucci
 date: '2004-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*VDA 2004, IST/SPIE International Symposium on Electronic Imaging Conf. Proc.*'
 featured: false
 

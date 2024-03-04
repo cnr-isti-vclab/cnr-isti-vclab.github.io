@@ -12,7 +12,7 @@ authors:
   - Roberto Scopigno
   - Gerhard Wolf
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*BAR International Series *'
 featured: false
 

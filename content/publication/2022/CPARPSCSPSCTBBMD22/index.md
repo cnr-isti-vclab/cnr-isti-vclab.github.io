@@ -18,7 +18,7 @@ authors:
   - Maria Pia Morigi
   - Francesca De Vita
 date: '2022-09-01'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*3rd Conference on the Use of Macroscopic XRF Scanning in Conservation, Art and Archaeology*'
 
 tags:

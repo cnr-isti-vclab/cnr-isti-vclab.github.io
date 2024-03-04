@@ -17,7 +17,7 @@ date: '2023-07-17T00:00:00Z'
 doi: 'https://doi.org/10.3390/s23146456'
 
 
-publication_types: ['2']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Sensors, 23*(14)'

@@ -22,7 +22,7 @@ authors:
   - Francesco Banterle
   - Francesca Anichini
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Internet Archeology*'
 featured: false
 

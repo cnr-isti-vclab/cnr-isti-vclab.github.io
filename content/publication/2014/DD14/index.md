@@ -4,7 +4,7 @@ authors:
   - Mara De Matteis
   - Matteo Dellepiane
 date: '2014-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*12th Eurographics Workshops on Graphics and Cultural Heritage (EG GCH 2014)*'
 featured: false
 

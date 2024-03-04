@@ -7,7 +7,7 @@ authors:
   - Marco Agus
   - Enrico Gobbetti
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*In Proc. IEEE Winter Conference on Applications of Computer Vision (WACV)*'
 featured: false
 

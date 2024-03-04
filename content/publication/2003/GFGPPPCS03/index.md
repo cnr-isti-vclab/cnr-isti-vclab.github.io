@@ -10,7 +10,7 @@ authors:
   - Paolo Cignoni
   - Roberto Scopigno
 date: '2003-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Lacona V – 5th International Conference on Lasers in the Conservation of Artworks*'
 featured: false
 

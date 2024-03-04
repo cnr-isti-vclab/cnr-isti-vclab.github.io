@@ -7,7 +7,7 @@ authors:
   - Fabio Ganovelli
   - Stefano Marras
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*GRAPP - International Conference in Computer Graphics Theory and Applications*'
 featured: false
 

@@ -5,7 +5,7 @@ authors:
   - Christian Louter
   - Maurizio Froli
 date: '2020-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Journal of Architectural Engineering*'
 featured: false
 

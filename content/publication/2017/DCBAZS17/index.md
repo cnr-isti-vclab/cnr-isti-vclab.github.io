@@ -8,7 +8,7 @@ authors:
   - Massimo Zallocco
   - Roberto Scopigno
 date: '2017-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*15th Eurographics Workshops on Graphics and Cultural Heritage (EG GCH 2017)*'
 featured: false
 

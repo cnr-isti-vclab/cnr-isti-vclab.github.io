@@ -6,7 +6,7 @@ authors:
   - Roberto Scopigno
   - Bruce Robertson
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IEEE MNLP 2018 - Machine Learning and Natural Language Processing*'
 featured: false
 

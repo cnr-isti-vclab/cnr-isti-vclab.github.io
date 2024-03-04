@@ -13,7 +13,7 @@ authors:
   - Roberto Sigismondi
   - Gerhard Wolf
 date: '2007-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of Electronic imaging & the visual arts, EVA 2007 Florence,*'
 featured: false
 

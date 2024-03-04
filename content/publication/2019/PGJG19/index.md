@@ -6,7 +6,7 @@ authors:
   - Alberto Jaspe Villanueva
   - Enrico Gobbetti
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Computer Graphics Forum (proceeding of Pacifig Graphics 2019)*'
 featured: false
 

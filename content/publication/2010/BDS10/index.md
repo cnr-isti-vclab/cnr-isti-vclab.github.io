@@ -5,7 +5,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of Eurographics Conference 2010 - Short Papers*'
 featured: false
 

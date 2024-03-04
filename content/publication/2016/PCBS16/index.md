@@ -6,7 +6,7 @@ authors:
   - Tamy Boubekeur
   - Roberto Scopigno
 date: '2016-09-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Computer Graphics Forum (Presented at Eurographics 2016)*'
 featured: false
 doi: '10.1111/cgf.12730'

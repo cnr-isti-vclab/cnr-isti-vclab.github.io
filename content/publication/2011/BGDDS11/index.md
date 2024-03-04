@@ -7,7 +7,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2011-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*˜ 2011 INTERNATIONAL CONFERENCE ON INDOOR POSITIONING AND INDOOR NAVIGATION (IPIN), 21-23 SEPTEMBER 2011, GUIMARAES, PORTUGAL*'
 featured: false
 

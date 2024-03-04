@@ -6,7 +6,7 @@ authors:
   - Giuseppe Megali
   - Andrea Pietrabissa
 date: '2007-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*6th International Conference on the Management of Healthcare & Medical Technology HTCM 2007*'
 featured: false
 

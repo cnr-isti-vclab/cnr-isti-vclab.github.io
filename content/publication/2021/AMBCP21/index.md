@@ -7,7 +7,7 @@ authors:
   - Paolo Cignoni
   - Nico Pietroni
 date: '2021-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Trans. on Graphics*'
 featured: false
 url_slides: http://vcg.isti.cnr.it/Publications/2021/AMBCP21/SA21_rigidmolds_presentation.pptx

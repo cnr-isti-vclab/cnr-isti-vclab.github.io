@@ -5,7 +5,7 @@ authors:
   - Sara Perry
   - Paolo Cignoni
 date: '2021-06-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Remote Sensing*'
 featured: false
 doi: '10.3390/rs13112186'

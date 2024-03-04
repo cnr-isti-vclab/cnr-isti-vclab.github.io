@@ -1,17 +1,8 @@
 {{- define "main" -}}
-{{ $pub_types := partial "functions/get_pub_types" $ }}
-{{ $pub_type_param := .Params.publication_types | default (slice 0) }}
 
-{{/* Convert string in form `"0"` to int (`0`) */}}
-{{ $pub_type := (int (index $pub_type_param 0)) | default 0 }}
+{{ $featured := partial "blox-core/functions/get_featured_image.html" .}}
 
-{{/* Validate Pub Type if defined */}}
-{{ if gt $pub_type (sub (len $pub_types) 1) }}
-  {{ warnf "Unknown publication type in %s" .File.Path }}
-  {{ $pub_type = 0 }}
-{{ end }}
-
-{{ $featured := partial "functions/get_featured_image.html" .}}
+<!-- Here is missing the publication type! see https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-bootstrap/layouts/publication/single.html -->
 
 {{ $anchor := .Params.image.focal_point | default "Smart" }}
 

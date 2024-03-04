@@ -6,7 +6,7 @@ authors:
   - Massimiliano Corsini
   - Paolo Cignoni
 date: '2018-02-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Computer Graphics Forum (presented at Eurographics 2018)*'
 featured: false
 doi: '10.1111/cgf.13239'

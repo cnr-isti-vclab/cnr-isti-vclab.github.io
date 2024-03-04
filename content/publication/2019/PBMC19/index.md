@@ -6,7 +6,7 @@ authors:
   - Luigi Malomo
   - Paolo Cignoni
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM SIGGRAPH ASIA 2019 Courses*'
 featured: false
 

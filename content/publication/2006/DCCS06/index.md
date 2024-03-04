@@ -6,7 +6,7 @@ authors:
   - Massimiliano Corsini
   - Matteo Dellepiane
 date: '2006-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*The 7th International Symposium on VAST International Symposium on Virtual Reality, Archaeology and Cultural Heritage*'
 featured: false
 

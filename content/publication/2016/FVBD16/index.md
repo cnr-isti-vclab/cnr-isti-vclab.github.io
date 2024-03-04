@@ -6,7 +6,7 @@ authors:
   - Francesco Banterle
   - Frederic Dufaux 
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Image Processing (ICIP), 2016 IEEE International Conference on*'
 featured: false
 

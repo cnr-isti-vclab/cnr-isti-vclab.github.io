@@ -5,7 +5,7 @@ authors:
   - Fabio Ganovelli
   - Paolo Cignoni
 date: '2023-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*GISTAM 2023: 9th International Conference on Geographical Information Systems Theory, Applications and Management*'
 featured: false
 

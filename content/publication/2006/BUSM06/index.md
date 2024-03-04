@@ -6,7 +6,7 @@ authors:
   - Roberto Scopigno
   - Claudio Montani
 date: '2006-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Restauro 2006: Salone dell''Arte del Restauro e della Conservazione dei Beni Culturali e Ambientali*'
 featured: false
 

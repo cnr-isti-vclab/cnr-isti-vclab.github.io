@@ -9,7 +9,7 @@ authors:
   - Aurelia Lureau
   - Roberto Scopigno
 date: '2015-10-01'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Digital Heritage International Congress'
 doi: 'https://doi.org/10.1109/DigitalHeritage.2015.7413875'
 

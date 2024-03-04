@@ -4,7 +4,7 @@ authors:
   - Fabio Ganovelli
   - Massimiliano Corsini
 date: '2008-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of Eurographics Conference 2008 - Educational Papers*'
 featured: false
 

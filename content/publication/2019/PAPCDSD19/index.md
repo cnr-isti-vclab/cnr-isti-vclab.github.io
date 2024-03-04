@@ -9,7 +9,7 @@ authors:
   - Roberto Scopigno
   - Livio de Luca
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*8th International Workshop 3D-ARCH (3D-ARCH 2019), Bergamo, Italy*'
 featured: false
 

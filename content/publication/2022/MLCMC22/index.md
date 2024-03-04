@@ -7,7 +7,7 @@ authors:
   - Luigi Malomo
   - Paolo Cignoni
 date: '2022-01-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Computers & Graphics*'
 featured: false
 

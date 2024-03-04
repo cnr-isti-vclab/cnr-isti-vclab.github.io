@@ -6,7 +6,7 @@ authors:
   - Federico Ponchio
   - Paolo Cignoni
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*European Workshop on Visual Information Processing (EUVIP)*'
 featured: false
 

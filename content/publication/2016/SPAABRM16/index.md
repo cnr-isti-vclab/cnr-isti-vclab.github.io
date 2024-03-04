@@ -9,7 +9,7 @@ authors:
   - Erik Reinhard
   - Zeynep Mazlumoglu
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IEEE Computer Graphics and Applications*'
 featured: false
 

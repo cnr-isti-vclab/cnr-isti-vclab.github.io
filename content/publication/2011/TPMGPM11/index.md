@@ -8,7 +8,7 @@ authors:
   - Nico Pietroni
   - Giuseppe Turini
 date: '2011-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*International Journal of Biomedical Engineering and Technology  (IJBET)*'
 featured: false
 

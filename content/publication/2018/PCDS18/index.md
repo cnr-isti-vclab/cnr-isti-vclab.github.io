@@ -6,7 +6,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2018-12-01'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Publishing and Consuming 3D Content on the Web, A Survey*'
 doi: 'https://doi.org/10.1561/0600000083'
 

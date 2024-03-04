@@ -8,7 +8,7 @@ authors:
   - Julian Richards
   - Roberto Scopigno
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Journal of Archaeological Science: Reports*'
 featured: false
 

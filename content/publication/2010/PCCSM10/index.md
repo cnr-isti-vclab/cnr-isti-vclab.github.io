@@ -7,7 +7,7 @@ authors:
   - Roberto Scopigno
   - Mark Mudge
 date: '2010-01-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*ACM Journ. on Computers and Cultural heritag*'
 featured: false
 doi: '10.1145/1841317.1841321'

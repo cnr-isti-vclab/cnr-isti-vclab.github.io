@@ -6,7 +6,7 @@ authors:
   - Francesco Banterle
   - Frederic Dufaux 
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Elsevier Signal Processing*'
 featured: false
 

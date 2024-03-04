@@ -5,7 +5,7 @@ authors:
   - Andrea Venturi
   - Roberto Scopigno
 date: '2009-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IEEE Workshop on eHeritage and Digital Art Preservation*'
 featured: false
 

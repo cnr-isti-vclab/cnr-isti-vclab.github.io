@@ -9,7 +9,7 @@ authors:
   - George Kokkinis
   - Giovanni Pintore
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*In Proc. of ISCRAM 2016*'
 featured: false
 

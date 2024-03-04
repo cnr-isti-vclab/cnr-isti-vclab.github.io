@@ -6,7 +6,7 @@ authors:
   - Paolo Francesco Banterle
   - Roberto Scopigno
 date: '2014-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*EUSIPCO 2014: 22nd European Signal Processing Conference*'
 featured: false
 

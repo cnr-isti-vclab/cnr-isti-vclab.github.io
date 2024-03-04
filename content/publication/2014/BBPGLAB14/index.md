@@ -9,7 +9,7 @@ authors:
   - Alexandre  Ahmad
   - Olivier Balet
 date: '2014-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*10th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)*'
 featured: false
 

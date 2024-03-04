@@ -8,7 +8,7 @@ authors:
   - Paolo Pingi
   - Roberto Scopigno
 date: '2012-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*proceedings of the 3rd International Conference on Heritage and Sustainable Development*'
 featured: false
 

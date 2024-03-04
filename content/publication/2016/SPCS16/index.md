@@ -6,7 +6,7 @@ authors:
   - Paolo Cignoni
   - Roberto Scopigno
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*14th Eurographics Workshops on Graphics and Cultural Heritage (EG GCH 2016)*'
 featured: false
 doi: '10.2312/gch.20161379'

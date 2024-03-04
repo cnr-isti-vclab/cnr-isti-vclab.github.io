@@ -7,7 +7,7 @@ authors:
   - Paolo Cignoni
   - Michael Goesele
 date: '2018-07-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Eurographics Symposium on Rendering - Experimental Ideas & Implementations*'
 featured: false
 doi: '10.2312/sre.20181176'

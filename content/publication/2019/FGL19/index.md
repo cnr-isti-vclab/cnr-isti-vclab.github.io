@@ -5,7 +5,7 @@ authors:
   - Linda Giresini
   - Francesco Laccone
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*COMPDYN 2019 7th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering*'
 featured: false
 

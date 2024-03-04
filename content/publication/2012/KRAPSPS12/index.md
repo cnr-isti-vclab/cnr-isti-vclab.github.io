@@ -9,7 +9,7 @@ authors:
   - Marc  Proesmans
   - James Stevenson
 date: '2012-11-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*VAST: International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage*'
 doi: '10.2312/VAST/VAST12/081-088'
 featured: false

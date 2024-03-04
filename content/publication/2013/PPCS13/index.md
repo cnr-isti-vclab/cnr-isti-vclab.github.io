@@ -6,7 +6,7 @@ authors:
   - Paolo Cignoni
   - Roberto Scopigno
 date: '2013-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proc. of Digital Heritage 2013 International Congress*'
 featured: false
 

@@ -4,7 +4,7 @@ authors:
   - Claudio Rocchini
   - Claudio Montani
 date: '2005-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IX Conferenza Nazionale ASITA, 15-18 Nov. 2005, Catania*'
 featured: false
 

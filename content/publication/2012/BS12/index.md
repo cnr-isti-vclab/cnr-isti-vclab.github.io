@@ -4,7 +4,7 @@ authors:
   - Francesco Banterle
   - Roberto Scopigno
 date: '2012-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of SPIE Volume 8499: Applications of Digital Image Processing XXXV*'
 featured: false
 

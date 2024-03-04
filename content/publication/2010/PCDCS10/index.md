@@ -7,7 +7,7 @@ authors:
   - Massimiliano Corsini
   - Roberto Scopigno
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*15th International Workshop on Vision, Modeling and Visualization*'
 featured: false
 doi: '10.2312/PE/VMV/VMV10/107-114'

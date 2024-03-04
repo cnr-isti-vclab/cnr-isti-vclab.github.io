@@ -10,7 +10,7 @@ authors:
   - Roberto Scopigno
   
 date: '2019-06-01'
-publication_types: ['6']
+publication_types: ['chapter']
 publication: '*Rilievo 3D di Alchimia, ed uso dei modelli 3D per studio e divulgazione*'
 
 tags:

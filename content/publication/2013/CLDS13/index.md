@@ -6,7 +6,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2013-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM WEB3D - 18th International Conference on 3D Web Technology*'
 featured: false
 

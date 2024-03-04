@@ -8,7 +8,7 @@ authors:
   - Bengt Soderberg
   - Lars Larsson
 date: '2011-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*VAST: The 11th International Symposium on Virtual Reality, Archaeology and Cultural Heritage*'
 featured: false
 

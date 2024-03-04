@@ -8,7 +8,7 @@ authors:
   - Enrico Gobbetti
   - Roberto Scopigno
 date: '2014-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Computer Graphics Forum, 33(2), 2014. Proc. Eurographics 2014, To appear*'
 featured: false
 

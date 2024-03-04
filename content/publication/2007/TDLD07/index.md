@@ -6,7 +6,7 @@ authors:
   - Silvain Lefebvre
   - Matteo Dellepiane
 date: '2007-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of Eurographics Symposium on Rendering*'
 featured: false
 

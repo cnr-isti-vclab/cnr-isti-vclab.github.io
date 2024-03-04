@@ -7,7 +7,7 @@ authors:
   - Daniele Panozzo
   - Enrico Puppo
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Computer Graphics Forum (Special Issue of Eurographics 2010 Conference)*'
 featured: false
 

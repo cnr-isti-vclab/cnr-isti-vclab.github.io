@@ -4,7 +4,7 @@ authors:
   - Roberto Scopigno
   - Paolo Cignoni
 date: '2005-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*International Workshop on Recording, Modeling and Visualization of Cultural Heritage, 22 - 27 May 2005, Centro Stefano Franscini, Monte Verità, Ascona, Switzerland*'
 featured: false
 

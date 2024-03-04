@@ -6,7 +6,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of Archeofoss: Free, libre and open source software e open format nei processi di ricerca archeologica*'
 featured: false
 

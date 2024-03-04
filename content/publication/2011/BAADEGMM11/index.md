@@ -10,7 +10,7 @@ authors:
   - Francesco Banterle
   - Karol Myszkowski
 date: '2011-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Siggraph ASIA 2011 Courses*'
 featured: false
 

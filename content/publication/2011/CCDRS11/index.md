@@ -7,7 +7,7 @@ authors:
   - Guido Ranzuglia
   - Roberto Scopigno
 date: '2011-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proc. of 3D-ARCH 2011 - 4th Int. Workshop on 3D Virtual Reconstruction and Visualization of Complex Architectures (Trento, 2-5 March 2011)*'
 featured: false
 

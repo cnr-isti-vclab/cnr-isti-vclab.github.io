@@ -8,7 +8,7 @@ authors:
   - Gabriele Guidi
   - Roberto Scopigno
 date: '2019-07-01T00:00:00Z'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Journal of Cultural Heritage*'
 featured: false
 doi: '10.1016/j.culher.2018.11.001'

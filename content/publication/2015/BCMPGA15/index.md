@@ -8,7 +8,7 @@ authors:
   - Francesco Gabellone
   - Giuseppe Amato
 date: '2015-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Digital Presentation and Preservation of Cultural and Scientific Heritage — DiPP2015*'
 featured: false
 

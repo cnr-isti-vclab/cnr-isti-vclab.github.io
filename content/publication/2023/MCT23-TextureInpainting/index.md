@@ -5,7 +5,7 @@ authors:
   - Paolo Cignoni
   - Marco Tarini
 date: '2023-02-28'
-publication_types: ['2']
+publication_types: ['article-journal']
 publication: '*Computer Graphics Forum*'
 featured: false
 doi: ' https://doi.org/10.1111/cgf.14735'

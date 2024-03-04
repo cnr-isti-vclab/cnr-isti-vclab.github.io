@@ -5,7 +5,7 @@ authors:
   - Massimiliano Corsini
   - Gaia Pavoni
 date: '2020-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ERCIM news*'
 featured: false
 

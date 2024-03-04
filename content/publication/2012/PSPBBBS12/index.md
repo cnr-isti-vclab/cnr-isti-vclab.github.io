@@ -9,7 +9,7 @@ authors:
   - Sabrina Batino
   - Roberto Scopigno
 date: '2012-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*CAA 2012 Conference Proceeding*'
 featured: false
 doi: '10.1515/9789048519590-019'

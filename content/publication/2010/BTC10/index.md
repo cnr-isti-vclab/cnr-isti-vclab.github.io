@@ -5,7 +5,7 @@ authors:
   - Marco Tarini
   - Paolo Cignoni
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IEEE Transaction on Visualization and Computer Graphics (Proceedings of Visualization 2010)*'
 featured: false
 

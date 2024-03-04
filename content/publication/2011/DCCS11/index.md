@@ -6,7 +6,7 @@ authors:
   - Massimiliano Corsini
   - Roberto Scopigno
 date: '2011-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Digital Imaging for Cultural Heritage Preservation: Analysis, Restoration and Reconstruction of Ancient Artworks*'
 featured: false
 

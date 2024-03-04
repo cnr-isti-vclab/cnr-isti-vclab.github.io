@@ -18,7 +18,7 @@ date: '2023-10-19T00:00:00Z'
 doi: 'http://dx.doi.org/10.21014/tc4-ARC-2023.150'
 
 
-publication_types: ['1']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: '*2023 IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage*'

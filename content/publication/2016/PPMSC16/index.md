@@ -7,7 +7,7 @@ authors:
   - Roberto Scopigno
   - Paolo Cignoni
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Computer Graphics Forum (special Issue of Pacific Graphics)*'
 featured: false
 

@@ -6,7 +6,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2010-11-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Eurographics Italian Chapter Conference 2010*'
 featured: false
 doi: '10.2312/LocalChapterEvents/ItalChap/ItalianChapConf2010/089-094'

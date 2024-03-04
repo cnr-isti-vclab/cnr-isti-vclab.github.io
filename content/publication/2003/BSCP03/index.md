@@ -6,7 +6,7 @@ authors:
   - Paolo Cignoni
   - Valerio Pascucci
 date: '2003-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Second Annual Conference of Eurographics Italian Chapter*'
 featured: false
 

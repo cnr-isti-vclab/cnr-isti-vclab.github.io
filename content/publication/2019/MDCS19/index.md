@@ -6,7 +6,7 @@ authors:
   - Paolo Cignoni
   - Roberto Scopigno
 date: '2019-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Journ. on Computing and Cultural heritage*'
 featured: false
 

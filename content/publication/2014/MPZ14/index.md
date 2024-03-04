@@ -5,7 +5,7 @@ authors:
   - Nico Pietroni
   - Ashish Myles
 date: '2014-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Trans. on Graphics - Siggraph 2014*'
 featured: false
 

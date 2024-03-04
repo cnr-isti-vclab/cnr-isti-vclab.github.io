@@ -6,7 +6,7 @@ authors:
   - Matteo Dellepiane
   - Roberto Scopigno
 date: '2016-10-01'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*3rd Eurographics Italian Chapter Conference on Smart Tools and Apps for Graphics*'
 doi: 'https://doi.org/10.2312/stag.20161369'
 

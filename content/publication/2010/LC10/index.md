@@ -4,7 +4,7 @@ authors:
   - Guillaume Lavoué
   - Massimiliano Corsini
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*IEEE Transaction on Multimedia*'
 featured: false
 

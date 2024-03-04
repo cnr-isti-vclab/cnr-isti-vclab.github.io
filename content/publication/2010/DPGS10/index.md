@@ -6,7 +6,7 @@ authors:
   - Fabio Ganovelli
   - Roberto Scopigno
 date: '2010-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Web3D 2010. 15th Conference on 3D Web technology*'
 featured: false
 

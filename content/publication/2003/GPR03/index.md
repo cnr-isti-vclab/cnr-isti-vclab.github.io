@@ -5,7 +5,7 @@ authors:
   - Federico Ponchio
   - Claudio Rocchini
 date: '2003-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*ACM Journal of Graphic Tools*'
 featured: false
 

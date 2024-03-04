@@ -6,7 +6,7 @@ authors:
   - Ivan Radman-Livaja
   - Bruce Robertson
 date: '2016-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Proceedings of the Second EAGLE International Conference.*'
 featured: false
 

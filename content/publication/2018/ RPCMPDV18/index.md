@@ -10,7 +10,7 @@ authors:
   - George Drettakis
   - Sebastien Vizcay
 date: '2018-01-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 publication: '*Workshop on Cultural Informatics Research and Applications, co-located with the International Conference on Digital Heritage, CIRA@EuroMed 2018*'
 featured: false
 
