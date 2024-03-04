@@ -30,5 +30,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2018/PGPSG18a/CVMJ_3D_floor_plan_recovery_from_overlapping_spherical_images.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2018/PGPSG18a/CVMJ_3D_floor_plan_recovery_from_overlapping_spherical_images.pdf
 ---
