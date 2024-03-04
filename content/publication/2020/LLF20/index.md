@@ -9,7 +9,7 @@ publication_types: ['paper-conference']
 publication: '*Journal of Architectural Engineering*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/LLF20/(ASCE)AE.1943-5568.0000374_compressed.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/LLF20/(ASCE)AE.1943-5568.0000374_compressed.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

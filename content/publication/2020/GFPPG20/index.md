@@ -16,5 +16,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/GFPPG20/neural_rti.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/GFPPG20/neural_rti.pdf
 ---

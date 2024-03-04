@@ -11,5 +11,5 @@ publication_types: ['paper-conference']
 publication: '*IEEE Computer Graphics & Applications*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/CBCGE20/main.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/CBCGE20/main.pdf
 ---

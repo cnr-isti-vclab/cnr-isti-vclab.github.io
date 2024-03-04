@@ -18,13 +18,13 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/LPPSC20/LPPSC20.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/LPPSC20/LPPSC20.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/organic_hexa.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/cad_hexa.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/0_LPPSC20.jpg" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/teaser.png" >}}
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/cad_non_hexa.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/LPPSC20/organic_hexa.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/LPPSC20/cad_hexa.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/LPPSC20/0_LPPSC20.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/LPPSC20/teaser.png" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/LPPSC20/cad_non_hexa.png" >}}
 [GitHub Code](https://github.com/mlivesu/LoopyCuts)
 
 <iframe width="580" height="435" src="https://www.youtube.com/embed/n-rWtLi3LSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>

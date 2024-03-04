@@ -13,7 +13,7 @@ publication_types: ['paper-conference']
 publication: '*SN Applied Sciences*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/LMPPPBC20/Laccone2020_ABending-activeTwisted-archPly.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/LMPPPBC20/Laccone2020_ABending-activeTwisted-archPly.pdf
 image:
 #    caption: 'Image'
     focal_point: ''

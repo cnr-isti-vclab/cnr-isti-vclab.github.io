@@ -9,11 +9,11 @@ publication_types: ['paper-conference']
 publication: '*ERCIM news*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/PCC20/underwater-monitoring-ercim.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/PCC20/underwater-monitoring-ercim.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/PCC20/coral-bleaching.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/PCC20/coral-bleaching.jpg" >}}

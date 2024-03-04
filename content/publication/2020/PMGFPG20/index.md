@@ -17,5 +17,5 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/PMGFPG20/sig2020-tutorial-indoor-course-notes.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/PMGFPG20/sig2020-tutorial-indoor-course-notes.pdf
 ---

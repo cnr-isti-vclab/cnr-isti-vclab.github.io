@@ -15,11 +15,11 @@ publication_types: ['paper-conference']
 publication: '*ACM Trans. on Graphics - Siggraph Asia 2020*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/YAVFRPLCS20/DHFSlicer_AuthorVersion.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/YAVFRPLCS20/DHFSlicer_AuthorVersion.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
     preview_only: false
     share: false
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/YAVFRPLCS20/DHFSlicer_Teaser.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/YAVFRPLCS20/DHFSlicer_Teaser.jpg" >}}

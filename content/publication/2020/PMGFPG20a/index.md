@@ -17,6 +17,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2020/PMGFPG20a/eg2020-star-indoor.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2020/PMGFPG20a/eg2020-star-indoor.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2020/PMGFPG20a/mapping_results_3D_part.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/PMGFPG20a/mapping_results_3D_part.jpg" >}}
