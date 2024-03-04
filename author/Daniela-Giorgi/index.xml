@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniela Giorgi | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Daniela-Giorgi/</link><atom:link href="http://vcg.isti.cnr.it/author/Daniela-Giorgi/index.xml" rel="self" type="application/rss+xml"/><description>Daniela Giorgi</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/author/Daniela-Giorgi/avatar_hu1459b7b1253585132b9bd6472ad87a26_91883_270x270_fill_q75_lanczos_center.jpg</url><title>Daniela Giorgi</title><link>http://vcg.isti.cnr.it/author/Daniela-Giorgi/</link></image><item><title>Geometric deep learning for statics-aware grid shells</title><link>http://vcg.isti.cnr.it/publication/2024/FLCMG24-GeometricLearningxShells/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2024/FLCMG24-GeometricLearningxShells/</guid><description/></item><item><title>Computational Design of Fabricable Geometric Patterns</title><link>http://vcg.isti.cnr.it/publication/2023/SLMCCG-Patterns/</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/SLMCCG-Patterns/</guid><description>&lt;!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --></description></item><item><title>Social and hUman ceNtered XR</title><link>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</guid><description/></item><item><title>Evocation</title><link>http://vcg.isti.cnr.it/project/evocation/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/evocation/</guid><description>&lt;p>2018-2022 H2020-MSCA-ITN-2018 Innovative Training Networks (ITN)&lt;/p></description></item><item><title>SUN-XR</title><link>http://vcg.isti.cnr.it/project/sun/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/sun/</guid><description/></item><item><title>Computational design, fabrication and evaluation of rubber protein models</title><link>http://vcg.isti.cnr.it/publication/2021/AGMCZ21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/AGMCZ21/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/all_pieces.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/AGMCZ21/all_pieces.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/histone_mold5.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/AGMCZ21/histone_mold5.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/actin_mold2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/AGMCZ21/actin_mold2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing</title><link>http://vcg.isti.cnr.it/publication/2020/FAGMCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/FAGMCC20/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_lucy_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/FAGMCC20/img_lucy_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_bunny_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/FAGMCC20/img_bunny_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_armadillo_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/FAGMCC20/img_armadillo_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/0_representative.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/FAGMCC20/0_representative.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_dragon_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/FAGMCC20/img_dragon_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>ReviewerNet: A visualization platform for the selection of academic reviewers</title><link>http://vcg.isti.cnr.it/publication/2020/SGPC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/SGPC20/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/SGPC20/timeline_cropped.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/SGPC20/timeline_cropped.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/SGPC20/teaser_colormap1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/SGPC20/teaser_colormap1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://reviewernet.org" target="_blank" rel="noopener">Reviewernet.org&lt;/a>&lt;/p></description></item><item><title>Topological Classification of Vittorio Giorgini’s Sculptures</title><link>http://vcg.isti.cnr.it/publication/2020/GDFC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/GDFC20/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura6.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/figura6.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/figura3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/figura1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/figura4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/figura2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura5.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/figura5.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;a href="http://vcg.isti.cnr.it/Publicstions/2020/GDFC20/Bridges2020.pptx" target="_blank" rel="noopener">Bridges 2020 presentation (.pptx)&lt;/a>&lt;/p>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2020/GDFC20/Bridges2020.pptx" target="_blank" rel="noopener">Bridges 2020 presentation (.pptx)&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/Y0CHnZGwvCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>ViDA 3D: Towards a View-based Dataset for Aesthetic prediction on 3D models</title><link>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/views.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/AFBCPCG20/views.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/creatures.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/AFBCPCG20/creatures.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/cultherit.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/AFBCPCG20/cultherit.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/architecture.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/AFBCPCG20/architecture.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>A visualization tool for scholarly data</title><link>http://vcg.isti.cnr.it/publication/2019/SGPC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/SGPC19/</guid><description/></item><item><title>Computational fabrication of macromolecules to enhance perception and understanding of biological mechanisms</title><link>http://vcg.isti.cnr.it/publication/2019/AGMCZ19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/AGMCZ19/</guid><description/></item><item><title>Towards a topological–geometrical theory of group equivariant non-expansive operators for data analysis and machine learning</title><link>http://vcg.isti.cnr.it/publication/2019/BFGQ19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/BFGQ19/</guid><description/></item><item><title>Volume-Aware Design of Composite Molds</title><link>http://vcg.isti.cnr.it/publication/2019/AMGBCP19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/AMGBCP19/</guid><description>&lt;p>
 &lt;figure >

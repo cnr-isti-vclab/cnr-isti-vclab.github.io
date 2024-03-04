@@ -5,65 +5,65 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/84WPrEVuve4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Reliable feature-line driven quad-remeshing</title><link>http://vcg.isti.cnr.it/publication/2021/PNACT21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PNACT21/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/example01.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/example00.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/example02.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1145/3450626.3459941" target="_blank" rel="noopener"> 10.1145/3450626.3459941&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.quadmesh.cloud/Thingi10K" target="_blank" rel="noopener"> www.quadmesh.cloud&lt;/a>&lt;/p>
-&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2021/PNACT21/reliable-quadremesh-siggraph2021.pptx" target="_blank" rel="noopener"> Download the slides! (.pttx)&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2021/PNACT21/reliable-quadremesh-siggraph2021.pptx" target="_blank" rel="noopener"> Download the slides! (.pttx)&lt;/a>&lt;/p>
 &lt;iframe width="580" height="435" src="https://www.youtube.com/embed/mUzYFH7DrN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Texture Defragmentation for Photo-Reconstructed 3D Models</title><link>http://vcg.isti.cnr.it/publication/2021/MCT21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/MCT21/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_6.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/MCT21/texture_defrag_6.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/MCT21/texture_defrag_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/MCT21/texture_defrag_4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_5.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/MCT21/texture_defrag_5.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/MCT21/texture_defrag_3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/MCT21/texture_defrag_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;a href="https://doi.org/10.1111/cgf.142615" target="_blank" rel="noopener">https://doi.org/10.1111/cgf.142615&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://github.com/maggio-a/texture-defrag" target="_blank" rel="noopener">https://github.com/maggio-a/texture-defrag&lt;/a>&lt;/p></description></item><item><title>Real-World Textured Things: a Repository of Textured Models Generated with Modern Photo-Reconstruction Tools</title><link>http://vcg.isti.cnr.it/publication/2020/MPCT20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/MPCT20/</guid><description>&lt;p>
