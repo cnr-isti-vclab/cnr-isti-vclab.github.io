@@ -10,5 +10,5 @@ publication_types: ['paper-conference']
 publication: '*The Stata Journal*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2022/CGLP22/gini_zonotopes.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2022/CGLP22/gini_zonotopes.pdf
 ---

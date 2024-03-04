@@ -26,6 +26,6 @@ image:
     focal_point: ''
     preview_only: false
     share: false
-url_pdf: http://vcg.isti.cnr.it/Publications/2022/AABCCCGLLMMP22/gch2022-nivola.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2022/AABCCCGLLMMP22/gch2022-nivola.pdf
 ---
-{{< figure src="http://vcg.isti.cnr.it/Publications/2022/AABCCCGLLMMP22/fabricated.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2022/AABCCCGLLMMP22/fabricated.jpg" >}}

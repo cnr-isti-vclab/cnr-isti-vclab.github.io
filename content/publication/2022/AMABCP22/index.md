@@ -12,7 +12,7 @@ publication_types: ['article-journal']
 publication: '*Computer Graphics Forum*'
 featured: false
 
-url_pdf: http://vcg.isti.cnr.it/Publications/2022/AMABCP22/star_molding_submitted.pdf
+url_pdf: https://vcgdata.isti.cnr.it/Publications/2022/AMABCP22/star_molding_submitted.pdf
 image:
 #    caption: 'Image'
     focal_point: ''
