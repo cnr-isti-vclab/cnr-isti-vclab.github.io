@@ -1,5 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Massimiliano Corsini | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Massimiliano-Corsini/</link><atom:link href="http://vcg.isti.cnr.it/author/Massimiliano-Corsini/index.xml" rel="self" type="application/rss+xml"/><description>Massimiliano Corsini</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/author/Massimiliano-Corsini/avatar_hu37b7c957d32056484806515ec5c1c696_38296_270x270_fill_q75_lanczos_center.jpg</url><title>Massimiliano Corsini</title><link>http://vcg.isti.cnr.it/author/Massimiliano-Corsini/</link></image><item><title>Charity</title><link>http://vcg.isti.cnr.it/project/charity/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/charity/</guid><description>&lt;p>ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context&lt;/p>
-&lt;p>2018-2021 EC H2020-NMBP-EEB-2018&lt;/p></description></item><item><title>3DHOP: 3D Heritage Online Presenter</title><link>http://vcg.isti.cnr.it/publication/2015/PCDCPS15/</link><pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PCDCPS15/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Massimiliano Corsini | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Massimiliano-Corsini/</link><atom:link href="http://vcg.isti.cnr.it/author/Massimiliano-Corsini/index.xml" rel="self" type="application/rss+xml"/><description>Massimiliano Corsini</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/author/Massimiliano-Corsini/avatar_hu37b7c957d32056484806515ec5c1c696_38296_270x270_fill_q75_lanczos_center.jpg</url><title>Massimiliano Corsini</title><link>http://vcg.isti.cnr.it/author/Massimiliano-Corsini/</link></image><item><title>MoReLab: A Software for User-Assisted 3D Reconstruction</title><link>http://vcg.isti.cnr.it/publication/2023/SBC23-MoReLab/</link><pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/SBC23-MoReLab/</guid><description>&lt;p>The source code for MoReLab can be found on our &lt;a href="https://github.com/cnr-isti-vclab/MoReLab" target="_blank" rel="noopener">Github repository&lt;/a>.&lt;/p></description></item><item><title>Charity</title><link>http://vcg.isti.cnr.it/project/charity/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/charity/</guid><description>&lt;p>ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context&lt;/p>
+&lt;p>2018-2021 EC H2020-NMBP-EEB-2018&lt;/p></description></item><item><title>On assisting and automatizing the semantic segmentation of masonry walls</title><link>http://vcg.isti.cnr.it/publication/2022/PGDCPCC22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/PGDCPCC22/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/PGDCPCC22/jocch1502-22-f12.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Challenges in the deep learning-based semantic segmentation of benthic communities from Ortho-images</title><link>http://vcg.isti.cnr.it/publication/2021/PCPPC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PCPPC21/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PCPPC21/RESULT_IM.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Evaluating Deep Learning Methods for Low Resolution Point Cloud Registration in Outdoor Scenarios</title><link>http://vcg.isti.cnr.it/publication/2021/SCGC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/SCGC21/</guid><description/></item><item><title>Multimodal attention networks for low-level vision-and-language navigation</title><link>http://vcg.isti.cnr.it/publication/2021/LCBCC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/LCBCC21/</guid><description/></item><item><title>TagLab: AI-assisted annotation for the fast and accurate semantic segmentation of coral reef orthoimages</title><link>http://vcg.isti.cnr.it/publication/2021/PCPEPSC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PCPEPSC21/</guid><description/></item><item><title>A State of the Art Technology in Large Scale Underwater Monitoring</title><link>http://vcg.isti.cnr.it/publication/2020/PCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PCC20/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PCC20/coral-bleaching.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Another Brick in the Wall: Improving the Assisted Semantic Segmentation of Masonry Walls</title><link>http://vcg.isti.cnr.it/publication/2020/PGDCPCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PGDCPCC20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/demo2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/VVpredictions.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/demo1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>On Improving the Training of Models for the Semantic Segmentation of Benthic Communities from Orthographic Imagery</title><link>http://vcg.isti.cnr.it/publication/2020/PCCEC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PCCEC20/</guid><description/></item><item><title>ViDA 3D: Towards a View-based Dataset for Aesthetic prediction on 3D models</title><link>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/views.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/creatures.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/cultherit.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/architecture.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>A complete framework toward Spatially-Oriented RTI for CH documentation and analysis</title><link>http://vcg.isti.cnr.it/publication/2019/PAPCDSD19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/PAPCDSD19/</guid><description/></item><item><title>A Validation Tool For Improving Semantic Segmentation of Complex Natural Structures</title><link>http://vcg.isti.cnr.it/publication/2019/PCPS19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/PCPS19/</guid><description/></item><item><title>Image Sets Compression via Patch Redundancy</title><link>http://vcg.isti.cnr.it/publication/2019/CBPC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/CBPC19/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8-woreg.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/CBPC19/example-dataset.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://doi.org/10.1109/EUVIP47703.2019.8946237" target="_blank" rel="noopener">link to the paper&lt;/a>&lt;/p></description></item><item><title>Semantic Segmentation of Benthic Communities from Ortho-Mosaic Maps</title><link>http://vcg.isti.cnr.it/publication/2019/PCCPS19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/PCCPS19/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/PCCPS19/random-vs-biological.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/PCCPS19/result.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/PCCPS19/annotatedortho.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Enhanced Visualization of Detected 3D Geometric Differences</title><link>http://vcg.isti.cnr.it/publication/2018/PSCC18/</link><pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/PSCC18/</guid><description>&lt;div class='embed-container'>&lt;iframe src='https://www.youtube.com/embed/i_2oiK4sXIE' frameborder='0' allowfullscreen>&lt;/iframe>&lt;/div></description></item><item><title>A Compact Representation of Relightable Images for the Web</title><link>http://vcg.isti.cnr.it/publication/2018/PCS18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/PCS18/</guid><description/></item><item><title>Practical-HDR: A Simple and Effective Method for Merging High Dynamic Range Videos</title><link>http://vcg.isti.cnr.it/publication/2016/ABCAS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/ABCAS16/</guid><description/></item><item><title>Presentation of 3D Scenes through Video Example</title><link>http://vcg.isti.cnr.it/publication/2016/BGCS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/BGCS16/</guid><description>&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/9Ltg1DAJhHI" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>3DHOP: 3D Heritage Online Presenter</title><link>http://vcg.isti.cnr.it/publication/2015/PCDCPS15/</link><pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PCDCPS15/</guid><description>&lt;!--
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/PCDCPS15/gargo.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
@@ -32,7 +100,7 @@
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/PCDCPS15/comparison_wide&amp;#43;.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
---></description></item><item><title>An Advanced Solution for Publishing 3D Content on the Web</title><link>http://vcg.isti.cnr.it/publication/2014/PCCDPDS14/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/PCCDPDS14/</guid><description>&lt;!--
+--></description></item><item><title>3D Reconstruction for Featurless Scenes with Curvature Hints</title><link>http://vcg.isti.cnr.it/publication/2015/BBGCS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/BBGCS15/</guid><description>&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/PrUVo3potl4" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Fast and Simple Automatic Alignment of Large Sets of Range Maps</title><link>http://vcg.isti.cnr.it/publication/2015/PCGS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PCGS15/</guid><description/></item><item><title>An Advanced Solution for Publishing 3D Content on the Web</title><link>http://vcg.isti.cnr.it/publication/2014/PCCDPDS14/</link><pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/PCCDPDS14/</guid><description>&lt;!--
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/PCCDPDS14/Capsella_Samagher_300dpi.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
@@ -45,4 +113,154 @@
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/PCCDPDS14/MuSA_300dpi.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
---></description></item></channel></rss>
+--></description></item><item><title>Introduction to Computer Graphics: a Practical Learning Approach</title><link>http://vcg.isti.cnr.it/publication/2014/GCPD14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/GCPD14/</guid><description>&lt;iframe width="580" height="435" src="//www.youtube.com/embed/t0bvzHW-e5I" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Painting with Bob: Assisted Creativity for Novices</title><link>http://vcg.isti.cnr.it/publication/2014/BWCS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/BWCS14/</guid><description/></item><item><title>Stereo-browsing from Calibrated Cameras</title><link>http://vcg.isti.cnr.it/publication/2014/BGCS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/BGCS14/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/BGCS14/sterobrowsing1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/BGCS14/sterobrowsing2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>The Common Implementation Framework as Service – Towards Novel Applications for Streamlined Presentation of 3D Content on the Web</title><link>http://vcg.isti.cnr.it/publication/2014/AWCJGK14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/AWCJGK14/</guid><description/></item><item><title>Edge Detection on Polynomial Texture Maps</title><link>http://vcg.isti.cnr.it/publication/2013/BCDG13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BCDG13/</guid><description/></item><item><title>EnvyDepth: An Interface for Recovering Local Natural Illumination from Environment Maps</title><link>http://vcg.isti.cnr.it/publication/2013/BCDCPS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BCDCPS13/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2013/BCDCPS13/envy_depth.zip" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://piccantelib.net" target="_blank" rel="noopener"> Piccante&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/UtOsYqlvLfE" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Fully Automatic Registration of Image Sets on Approximate Geometry</title><link>http://vcg.isti.cnr.it/publication/2013/CDGGFS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/CDGGFS13/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/tortoise-result.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/photo_rendering_comparison.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/rendering-combined-fountain.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2013/CDGGFS13/tortoise-photos.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>GAIL: Geometry-aware Automatic Image Localization</title><link>http://vcg.isti.cnr.it/publication/2013/BCDCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BCDCS13/</guid><description/></item><item><title>Perceptual Metrics for Static and Dynamic Triangle Meshes</title><link>http://vcg.isti.cnr.it/publication/2013/CLLPVW13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/CLLPVW13/</guid><description/></item><item><title>A Low-Memory, Straightforward and Fast Bilateral Filter Through Subsampling in Spatial Domain</title><link>http://vcg.isti.cnr.it/publication/2012/BCCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BCCS12/</guid><description>&lt;p>&lt;a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2011.02078.x/abstract" target="_blank" rel="noopener">link to the official journal&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2012/BCCS12/www.piccantelib.net" target="_blank" rel="noopener">Piccante&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2012/BCCS12/shaders_data.zip" target="_blank" rel="noopener">OpenGL ES 2.0 shaders source code and data&lt;/a>&lt;/p></description></item><item><title>Color to gray conversions in the context of stereo matching algorithms</title><link>http://vcg.isti.cnr.it/publication/2012/BCCCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BCCCS12/</guid><description/></item><item><title>Efficient and Flexible Sampling with Blue Noise Properties of Triangular Meshes</title><link>http://vcg.isti.cnr.it/publication/2012/CCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/CCS12/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/CCS12/bunny_poisson.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/CCS12/dragonSnap02.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/CCS12/fandiskSampling0crop.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>3D models for Cultural Heritage: beyond plain visualization</title><link>http://vcg.isti.cnr.it/publication/2011/SCCCDPR11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/SCCCDPR11/</guid><description/></item><item><title>An interactive local flattening operator to support digital investigations on artwork surfaces</title><link>http://vcg.isti.cnr.it/publication/2011/PCCS11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/PCCS11/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/~pietroni/local_flattening/ProjectWeb/flattening.html" target="_blank" rel="noopener"> Project Page &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2011/PCCS11/LocalFlat.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="http://www.youtube.com/embed/uDDKSqcsePI" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Digital Acquisition and Structural Analysis of the "Rognosa" Tower in San Gimignano</title><link>http://vcg.isti.cnr.it/publication/2011/GPCC11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/GPCC11/</guid><description/></item><item><title>Multiscale acquisition and presentation of very large artifacts: The case of Portalada</title><link>http://vcg.isti.cnr.it/publication/2011/CCDBCMRSB11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/CCDBCMRSB11/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/CCDBCMRSB11/ColorPorta.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>SpiderGL: A Graphics Library for 3D Web Applications</title><link>http://vcg.isti.cnr.it/publication/2011/DCS11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/DCS11/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/DCS11/ptm.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Using digital 3D models for study and restoration of Cultural Heritage artifacts</title><link>http://vcg.isti.cnr.it/publication/2011/DCCS11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/DCCS11/</guid><description/></item><item><title>Improving 2D-3D registration by mutual information using gradient maps</title><link>http://vcg.isti.cnr.it/publication/2010/PCDS10/</link><pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCDS10/</guid><description/></item><item><title>A Comparison of Perceptually-Based Metrics for Objective Evaluation of Geometry Processing</title><link>http://vcg.isti.cnr.it/publication/2010/LC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/LC10/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/LC10/fig1maskingeffect.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>CENOBIUM - Putting together the Romanesque Cloister Capitals of the Mediterranean Region</title><link>http://vcg.isti.cnr.it/publication/2010/CDDPCKMSSW10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/CDDPCKMSSW10/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/CDDPCKMSSW10/cenobium_fig4.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Documenting and Monitoring Small Fractures on Michelangelo’s David</title><link>http://vcg.isti.cnr.it/publication/2010/BBCCDDSS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BBCCDDSS10/</guid><description/></item><item><title>Dynamic Shading Enhancement for Reflectance Transformation Imaging</title><link>http://vcg.isti.cnr.it/publication/2010/PCCSM10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCCSM10/</guid><description/></item><item><title>Geometry-Aware Video Registration</title><link>http://vcg.isti.cnr.it/publication/2010/PCDCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCDCS10/</guid><description/></item><item><title>Improved Color Acquisition and Mapping on 3D Models via Flash-Based Photography</title><link>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/DCCCS10/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>The Rognosa Tower in San Gimignano: Digital Acquisition and Structural Analysis</title><link>http://vcg.isti.cnr.it/publication/2010/CCGPPPS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/CCGPPPS10/</guid><description/></item><item><title>Artifacts removal for color projection on 3D models using flash light</title><link>http://vcg.isti.cnr.it/publication/2009/DCCCS09a/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCCCS09a/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/DCCCS09a/Pasto_shad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>eNVyMyCar: a multi-player car racing game for teaching Computer Graphics</title><link>http://vcg.isti.cnr.it/publication/2009/GC09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/GC09/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client_lan.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/GC09/client2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Flash Lighting Space Sampling</title><link>http://vcg.isti.cnr.it/publication/2009/DCCCS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCCCS09/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/DCCCS09/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Image-to-Geometry Registration: a Mutual Information Method exploiting Illumination-related Geometric Properties</title><link>http://vcg.isti.cnr.it/publication/2009/CDPS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/CDPS09/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/CDPS09/capitellocol_comb.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Scanner 3D con hardware low cost e strumenti free/open source</title><link>http://vcg.isti.cnr.it/publication/2009/CCRC09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/CCRC09/</guid><description/></item><item><title>eNVyMyCar: a multi-player car racing game for teaching Computer Graphics</title><link>http://vcg.isti.cnr.it/publication/2008/GC08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/GC08/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/GC08/twoplayers2view.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Masked Photo Blending: mapping dense photographic dataset on high-resolution 3D models</title><link>http://vcg.isti.cnr.it/publication/2008/CCCS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCCS08/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCCS08/capitellob.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>MeshLab: an Open-Source 3D Mesh Processing System</title><link>http://vcg.isti.cnr.it/publication/2008/CCR08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCR08/</guid><description/></item><item><title>MeshLab: an Open-Source Mesh Processing Tool</title><link>http://vcg.isti.cnr.it/publication/2008/CCCDGR08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCCDGR08/</guid><description/></item><item><title>Portalada: A Virtual Reconstruction of the Entrance of the Ripoll Monastery</title><link>http://vcg.isti.cnr.it/publication/2008/BBCCCDMMRS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/BBCCCDMMRS08/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/BBCCCDMMRS08/Scheme.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/BBCCCDMMRS08/ColorPorta.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Stereo Light Probe</title><link>http://vcg.isti.cnr.it/publication/2008/CCC08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCC08/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/david_relight.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/laurana_orig.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/david_orig.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/acquisition.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>CENOBIUM Cultural Electronic Network Online: Binding Up Interoperably Usable Multimedia</title><link>http://vcg.isti.cnr.it/publication/2007/BCCDDKMSSSW07/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2007/BCCDDKMSSSW07/</guid><description/></item><item><title>Watermarked 3D Mesh Quality Assessment</title><link>http://vcg.isti.cnr.it/publication/2007/CDEB07/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2007/CDEB07/</guid><description/></item><item><title>High Quality PTM Acquisition: Reflection Transformation Imaging for Large Objects</title><link>http://vcg.isti.cnr.it/publication/2006/DCCS06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/DCCS06/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2006/DCCS06/tombdetail1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2006/DCCS06/tomb2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2006/DCCS06/tombdetail2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2006/DCCS06/system.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2006/DCCS06/groundtruth.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Reflection Transformation Imaging on Larger Objects: an Alternative Method for Virtual Representation</title><link>http://vcg.isti.cnr.it/publication/2006/CDCS06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/CDCS06/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2006/CDCS06/system.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Starting the CENOBIUM Project: The cloister of Monreale (Sicily) Revealed</title><link>http://vcg.isti.cnr.it/publication/2006/BCCDDKMSSSW06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/BCCDDKMSSSW06/</guid><description/></item><item><title>Enviromental Monitoring</title><link>http://vcg.isti.cnr.it/research/environment-monitoring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/research/environment-monitoring/</guid><description>&lt;p>This line of research is focused on the development of algorithms and tools based on AI and geometry processing of 3D data
+aimed at protecting biodiversity and support underwater biological and ecological analysis of visual data.&lt;/p></description></item></channel></rss>

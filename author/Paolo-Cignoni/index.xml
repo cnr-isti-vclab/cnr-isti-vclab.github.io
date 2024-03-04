@@ -1,2 +1,788 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Cignoni | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Paolo-Cignoni/</link><atom:link href="http://vcg.isti.cnr.it/author/Paolo-Cignoni/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Cignoni</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/author/Paolo-Cignoni/avatar_hu0e2f4595d8119771d74856739d667e82_351152_270x270_fill_q75_lanczos_center.jpg</url><title>Paolo Cignoni</title><link>http://vcg.isti.cnr.it/author/Paolo-Cignoni/</link></image><item><title>Encore</title><link>http://vcg.isti.cnr.it/project/encore/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/encore/</guid><description>&lt;p>ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context&lt;/p>
-&lt;p>2018-2021 EC H2020-NMBP-EEB-2018&lt;/p></description></item><item><title>SUN-XR</title><link>http://vcg.isti.cnr.it/project/sun/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/sun/</guid><description/></item><item><title>Cultural Heritage 3D Data on the Web: Issues and Perspectives</title><link>http://vcg.isti.cnr.it/publication/2022/PPCCS22/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/PPCCS22/</guid><description/></item><item><title>3D GEOMETRIC MODELING &amp; PROCESSING 2021/2022</title><link>http://vcg.isti.cnr.it/courses/geometry/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/courses/geometry/</guid><description>&lt;p>lorem ipsum&lt;/p></description></item><item><title>Geometry Processing</title><link>http://vcg.isti.cnr.it/research/geometry-processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/research/geometry-processing/</guid><description>&lt;p>Research on the foundational themes of Computer graphis like quad meshing, texture parametrization, Hexahedral Meshing, etc. has been always one of the basic line of our lab.&lt;/p></description></item><item><title>PyMeshLab</title><link>http://vcg.isti.cnr.it/software_libs/pymeshlab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/software_libs/pymeshlab/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paolo Cignoni | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/author/Paolo-Cignoni/</link><atom:link href="http://vcg.isti.cnr.it/author/Paolo-Cignoni/index.xml" rel="self" type="application/rss+xml"/><description>Paolo Cignoni</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/author/Paolo-Cignoni/avatar_hu0e2f4595d8119771d74856739d667e82_351152_270x270_fill_q75_lanczos_center.jpg</url><title>Paolo Cignoni</title><link>http://vcg.isti.cnr.it/author/Paolo-Cignoni/</link></image><item><title>Geometric deep learning for statics-aware grid shells</title><link>http://vcg.isti.cnr.it/publication/2024/FLCMG24-GeometricLearningxShells/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2024/FLCMG24-GeometricLearningxShells/</guid><description/></item><item><title>Bending-Reinforced Grid Shells for Free-form Architectural Surfaces</title><link>http://vcg.isti.cnr.it/publication/2023/LPCM23-Bending/</link><pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/LPCM23-Bending/</guid><description>&lt;!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --></description></item><item><title>Computational Design of Fabricable Geometric Patterns</title><link>http://vcg.isti.cnr.it/publication/2023/SLMCCG-Patterns/</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/SLMCCG-Patterns/</guid><description>&lt;!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --></description></item><item><title>FreeGrid: a benchmark on design and optimisation of free-edge gridshells</title><link>http://vcg.isti.cnr.it/publication/2023/BCGGILMMRTV23-freeGrid/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/BCGGILMMRTV23-freeGrid/</guid><description>&lt;!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --></description></item><item><title>MoReLab: A Software for User-Assisted 3D Reconstruction</title><link>http://vcg.isti.cnr.it/publication/2023/SBC23-MoReLab/</link><pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/SBC23-MoReLab/</guid><description>&lt;p>The source code for MoReLab can be found on our &lt;a href="https://github.com/cnr-isti-vclab/MoReLab" target="_blank" rel="noopener">Github repository&lt;/a>.&lt;/p></description></item><item><title>Social and hUman ceNtered XR</title><link>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</guid><description/></item><item><title>Texture Inpainting for Photogrammetric Models</title><link>http://vcg.isti.cnr.it/publication/2023/MCT23-TextureInpainting/</link><pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/MCT23-TextureInpainting/</guid><description/></item><item><title>Encore</title><link>http://vcg.isti.cnr.it/project/encore/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/encore/</guid><description>&lt;p>ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context&lt;/p>
+&lt;p>2018-2021 EC H2020-NMBP-EEB-2018&lt;/p></description></item><item><title>Evocation</title><link>http://vcg.isti.cnr.it/project/evocation/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/evocation/</guid><description>&lt;p>2018-2022 H2020-MSCA-ITN-2018 Innovative Training Networks (ITN)&lt;/p></description></item><item><title>SUN-XR</title><link>http://vcg.isti.cnr.it/project/sun/</link><pubDate>Fri, 20 Jan 2023 10:39:08 +0100</pubDate><guid>http://vcg.isti.cnr.it/project/sun/</guid><description/></item><item><title>On-the-fly Acquisition and Rendering with Low Cost Lidar and RGB Cameras for Marine Navigation</title><link>http://vcg.isti.cnr.it/publication/2023/DGC23-NausicaaSystem/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/DGC23-NausicaaSystem/</guid><description/></item><item><title>Cultural Heritage 3D Data on the Web: Issues and Perspectives</title><link>http://vcg.isti.cnr.it/publication/2022/PPCCS22/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/PPCCS22/</guid><description/></item><item><title>Automated generation of flat tileable patterns and 3D reduced model simulation</title><link>http://vcg.isti.cnr.it/publication/2022/MLCMC22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/MLCMC22/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/MLCMC22/3PatternReducedPairs.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Design and construction of a bending-active plywood structure: the Flexmaps Pavilion</title><link>http://vcg.isti.cnr.it/publication/2022/LMCAMPPC22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/LMCAMPPC22/</guid><description>&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/OdrGo4Lk86s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Ebb &amp; Flow: Uncovering Costantino Nivola s Olivetti Sandcast through 3D Fabrication and Virtual Exploration</title><link>http://vcg.isti.cnr.it/publication/2022/AABCCCGLLMMP22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/AABCCCGLLMMP22/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/AABCCCGLLMMP22/fabricated.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Exploratory study on a segmented shell made of recycled-HDPE plastic</title><link>http://vcg.isti.cnr.it/publication/2022/LMMC22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/LMMC22/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/LMMC22/shapes.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>On assisting and automatizing the semantic segmentation of masonry walls</title><link>http://vcg.isti.cnr.it/publication/2022/PGDCPCC22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/PGDCPCC22/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/PGDCPCC22/jocch1502-22-f12.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>SkinMixer: Blending 3D Animated Models</title><link>http://vcg.isti.cnr.it/publication/2022/NPCST22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/NPCST22/</guid><description>&lt;p>testo a caso&lt;/p>
+&lt;p>altro testo&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/2_Meshing.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/84WPrEVuve4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>State of the Art in Computational Mould Design</title><link>http://vcg.isti.cnr.it/publication/2022/AMABCP22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/AMABCP22/</guid><description/></item><item><title>Vorogrid: A static-aware variable-density Voronoi mesh to design the tube structure tessellation of tall buildings</title><link>http://vcg.isti.cnr.it/publication/2022/LGMCF22/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2022/LGMCF22/</guid><description/></item><item><title>Augmented Virtuality Using Touch-Sensitive 3D-Printed Objects</title><link>http://vcg.isti.cnr.it/publication/2021/PPC21/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PPC21/</guid><description>&lt;p>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PPC21/system.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PPC21/horse2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PPC21/user1.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PPC21/female1.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PPC21/support.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class='embed-container'>&lt;iframe src='https://www.youtube.com/embed//92M5O9HF_xA' frameborder='0' allowfullscreen>&lt;/iframe>&lt;/div></description></item><item><title>A High Quality 3D Controller for Mobile and Desktop Web Applications</title><link>http://vcg.isti.cnr.it/publication/2021/FMC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/FMC21/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/FMC21/zoom.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/FMC21/zrotate.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/FMC21/rotate.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Challenges in the deep learning-based semantic segmentation of benthic communities from Ortho-images</title><link>http://vcg.isti.cnr.it/publication/2021/PCPPC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PCPPC21/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PCPPC21/RESULT_IM.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Computational design, fabrication and evaluation of rubber protein models</title><link>http://vcg.isti.cnr.it/publication/2021/AGMCZ21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/AGMCZ21/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/all_pieces.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/histone_mold5.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AGMCZ21/actin_mold2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Evaluating Deep Learning Methods for Low Resolution Point Cloud Registration in Outdoor Scenarios</title><link>http://vcg.isti.cnr.it/publication/2021/SCGC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/SCGC21/</guid><description/></item><item><title>Integrated computational framework for the design and fabrication of bending-active structures made from flat sheet material</title><link>http://vcg.isti.cnr.it/publication/2021/LMPCS21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/LMPCS21/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/LMPCS21/FM_UTS2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/LMPCS21/FM_UTS3.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://vcg.isti.cnr.it/activities/pavilion2/" target="_blank" rel="noopener">webpage&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://doi.org/10.1016/j.istruc.2021.08.004" target="_blank" rel="noopener">https://doi.org/10.1016/j.istruc.2021.08.004&lt;/a>&lt;/p></description></item><item><title>Reliable feature-line driven quad-remeshing</title><link>http://vcg.isti.cnr.it/publication/2021/PNACT21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PNACT21/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/00teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example01.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example00.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/PNACT21/example02.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://doi.org/10.1145/3450626.3459941" target="_blank" rel="noopener"> 10.1145/3450626.3459941&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.quadmesh.cloud/Thingi10K" target="_blank" rel="noopener"> www.quadmesh.cloud&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://vcg.isti.cnr.it/Publicstions/2021/PNACT21/reliable-quadremesh-siggraph2021.pptx" target="_blank" rel="noopener"> Download the slides! (.pttx)&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/mUzYFH7DrN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>TagLab: AI-assisted annotation for the fast and accurate semantic segmentation of coral reef orthoimages</title><link>http://vcg.isti.cnr.it/publication/2021/PCPEPSC21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PCPEPSC21/</guid><description/></item><item><title>Texture Defragmentation for Photo-Reconstructed 3D Models</title><link>http://vcg.isti.cnr.it/publication/2021/MCT21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/MCT21/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_6.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_5.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/MCT21/texture_defrag_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://doi.org/10.1111/cgf.142615" target="_blank" rel="noopener">https://doi.org/10.1111/cgf.142615&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/maggio-a/texture-defrag" target="_blank" rel="noopener">https://github.com/maggio-a/texture-defrag&lt;/a>&lt;/p></description></item><item><title>Volume decomposition for two-piece rigid casting</title><link>http://vcg.isti.cnr.it/publication/2021/AMBCP21/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/AMBCP21/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2021/AMBCP21/teaser.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/spjTRArOeNY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>A bending&amp;#8209;active twisted&amp;#8209;arch plywood structure: computational design and fabrication of the FlexMaps Pavilion</title><link>http://vcg.isti.cnr.it/publication/2020/LMPPPBC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/LMPPPBC20/</guid><description/></item><item><title>A State of the Art Technology in Large Scale Underwater Monitoring</title><link>http://vcg.isti.cnr.it/publication/2020/PCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PCC20/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PCC20/coral-bleaching.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Another Brick in the Wall: Improving the Assisted Semantic Segmentation of Masonry Walls</title><link>http://vcg.isti.cnr.it/publication/2020/PGDCPCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PGDCPCC20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/demo2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/VVpredictions.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/PGDCPCC20/demo1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Automated Design and Analysis of Reinforced and Post-Tensioned Glass Shells</title><link>http://vcg.isti.cnr.it/publication/2020/LMPFC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/LMPFC20/</guid><description/></item><item><title>DHFSlicer: double height-field slicing for milling fixed-height materials</title><link>http://vcg.isti.cnr.it/publication/2020/YAVFRPLCS20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/YAVFRPLCS20/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/YAVFRPLCS20/DHFSlicer_Teaser.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>LoopyCuts: Practical Feature-Preserving Block Decomposition</title><link>http://vcg.isti.cnr.it/publication/2020/LPPSC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/LPPSC20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/organic_hexa.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/cad_hexa.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/0_LPPSC20.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/LPPSC20/cad_non_hexa.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://github.com/mlivesu/LoopyCuts" target="_blank" rel="noopener">GitHub Code&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/n-rWtLi3LSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>On Improving the Training of Models for the Semantic Segmentation of Benthic Communities from Orthographic Imagery</title><link>http://vcg.isti.cnr.it/publication/2020/PCCEC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/PCCEC20/</guid><description/></item><item><title>Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing</title><link>http://vcg.isti.cnr.it/publication/2020/FAGMCC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/FAGMCC20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_lucy_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_bunny_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_armadillo_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/0_representative.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/FAGMCC20/img_dragon_results.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Real-World Textured Things: a Repository of Textured Models Generated with Modern Photo-Reconstruction Tools</title><link>http://vcg.isti.cnr.it/publication/2020/MPCT20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/MPCT20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/MPCT20/textured.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2020/MPCT20/Textured_fig3.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://texturedmesh.isti.cnr.it/" target="_blank" rel="noopener">Real-World Textured Things (RWTT)&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://texturedmesh.isti.cnr.it/" target="_blank" rel="noopener">RWTT&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://texturedmesh.isti.cnr.it/" target="_blank" rel="noopener">https://texturedmesh.isti.cnr.it/&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://doi.org/10.1016/j.cagd.2020.101943/" target="_blank" rel="noopener"> https://doi.org/10.1016/j.cagd.2020.101943/&lt;/a>&lt;/p></description></item><item><title>ReviewerNet: A visualization platform for the selection of academic reviewers</title><link>http://vcg.isti.cnr.it/publication/2020/SGPC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/SGPC20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/SGPC20/timeline_cropped.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/SGPC20/teaser_colormap1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://reviewernet.org" target="_blank" rel="noopener">Reviewernet.org&lt;/a>&lt;/p></description></item><item><title>Topological Classification of Vittorio Giorgini’s Sculptures</title><link>http://vcg.isti.cnr.it/publication/2020/GDFC20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/GDFC20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura6.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/GDFC20/figura5.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://vcg.isti.cnr.it/Publicstions/2020/GDFC20/Bridges2020.pptx" target="_blank" rel="noopener">Bridges 2020 presentation (.pptx)&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/Y0CHnZGwvCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Turning a Smartphone Selfie Into a Studio Portrait</title><link>http://vcg.isti.cnr.it/publication/2020/CBCGE20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/CBCGE20/</guid><description/></item><item><title>ViDA 3D: Towards a View-based Dataset for Aesthetic prediction on 3D models</title><link>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2020/AFBCPCG20/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/views.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/creatures.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/cultherit.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2020/AFBCPCG20/architecture.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>High Dynamic Range Point Clouds for Real-Time Relighting</title><link>http://vcg.isti.cnr.it/publication/2019/SPBBC19/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/SPBBC19/</guid><description>&lt;p>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/office.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/desk.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/atrium.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class='embed-container'>&lt;iframe src='https://www.youtube.com/embed/szBWhY1b4x8' frameborder='0' allowfullscreen>&lt;/iframe>&lt;/div></description></item><item><title>A visualization tool for scholarly data</title><link>http://vcg.isti.cnr.it/publication/2019/SGPC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/SGPC19/</guid><description/></item><item><title>Automatic Design of Cable-Tensioned Glass Shells</title><link>http://vcg.isti.cnr.it/publication/2019/LMFCP19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/LMFCP19/</guid><description/></item><item><title>Computational fabrication of macromolecules to enhance perception and understanding of biological mechanisms</title><link>http://vcg.isti.cnr.it/publication/2019/AGMCZ19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/AGMCZ19/</guid><description/></item><item><title>Concept and cable-tensioning optimization of post-tensioned shells made of structural glass</title><link>http://vcg.isti.cnr.it/publication/2019/LMFCP19a/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/LMFCP19a/</guid><description/></item><item><title>Deep Flash : Turning a Flash Selfie Into a Studio Portrait</title><link>http://vcg.isti.cnr.it/publication/2019/CBCGSE19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/CBCGSE19/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/CBCGSE19/results_ssim.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://doi.org/10.1016/j.image.2019.05.013" target="_blank" rel="noopener"> 10.1016/j.image.2019.05.013&lt;/a>&lt;/p></description></item><item><title>FlexMaps Pavilion: a twisted arc made of mesostructured flat flexible panels</title><link>http://vcg.isti.cnr.it/publication/2019/LMPPPBC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/LMPPPBC19/</guid><description/></item><item><title>HexaLab.net: An online viewer for hexahedral meshes</title><link>http://vcg.isti.cnr.it/publication/2019/BTPLC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/BTPLC19/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/BTPLC19/snapshot_osx_chrome.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/BTPLC19/digging_double_torus1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://www.hexalab.net" target="_blank" rel="noopener">www.hexalab.net&lt;/a>&lt;/p></description></item><item><title>Image Sets Compression via Patch Redundancy</title><link>http://vcg.isti.cnr.it/publication/2019/CBPC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/CBPC19/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8-woreg.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/CBPC19/vienna-IMG2323-idmap-D8.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/CBPC19/example-dataset.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://doi.org/10.1109/EUVIP47703.2019.8946237" target="_blank" rel="noopener">link to the paper&lt;/a>&lt;/p></description></item><item><title>QuadMixer: Layout Preserving Blending of Quadrilateral Meshes</title><link>http://vcg.isti.cnr.it/publication/2019/NHESCP19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/NHESCP19/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2019/NHESCP19/quadmixer.pptx" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/mOgC8lFE6tI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Semi-automated Cleaning of Laser Scanning Campaigns with Machine Learning</title><link>http://vcg.isti.cnr.it/publication/2019/MDCS19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/MDCS19/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/MDCS19/Bagni_08_cptx_input_labels.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/MDCS19/Bagni_19_cptx_classified-pp-08.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>State of the Art on Stylized Fabrication</title><link>http://vcg.isti.cnr.it/publication/2019/PBMC19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/PBMC19/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2019/PBMC19/StylizedFabricationSTAR_Personal.pdf" target="_blank" rel="noopener">Link to the State of the Art Document&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2019/PBMC19/StylizedSigAsia.pdf" target="_blank" rel="noopener">Link to the Presentation&lt;/a>&lt;/p></description></item><item><title>Volume-Aware Design of Composite Molds</title><link>http://vcg.isti.cnr.it/publication/2019/AMGBCP19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2019/AMGBCP19/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/AMGBCP19/IMG_4552.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2019/AMGBCP19/IMG_4550.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://www.thingiverse.com/thing:272848" target="_blank" rel="noopener"> Pentagonal Icositetrahedron &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.thingiverse.com/mathgrrl" target="_blank" rel="noopener">Laura Taalman&amp;gt;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2019/AMGBCP19/siggraph2019_CompositeMolds.pptx" target="_blank" rel="noopener">Presentation slides (.pptx)&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/SO349S8-x_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Soft Transparency for Point Cloud Rendering</title><link>http://vcg.isti.cnr.it/publication/2018/SPDCG18/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/SPDCG18/</guid><description>&lt;div class='embed-container'>&lt;iframe src='https://www.youtube.com/embed/hWz4ReLG36U' frameborder='0' allowfullscreen>&lt;/iframe>&lt;/div></description></item><item><title>Scalable non-rigid registration for multi-view stereo data</title><link>http://vcg.isti.cnr.it/publication/2018/PBGC18/</link><pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/PBGC18/</guid><description>&lt;div class='embed-container'>&lt;iframe src='https://www.youtube.com/embed/99Sq92JfKkM' frameborder='0' allowfullscreen>&lt;/iframe>&lt;/div></description></item><item><title>Enhanced Visualization of Detected 3D Geometric Differences</title><link>http://vcg.isti.cnr.it/publication/2018/PSCC18/</link><pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/PSCC18/</guid><description>&lt;div class='embed-container'>&lt;iframe src='https://www.youtube.com/embed/i_2oiK4sXIE' frameborder='0' allowfullscreen>&lt;/iframe>&lt;/div></description></item><item><title>FlexMaps: Computational Design of Flat Flexible Shells for Shaping 3D Objects</title><link>http://vcg.isti.cnr.it/publication/2018/MPIPMCB18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/MPIPMCB18/</guid><description>&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/73VvpKlrrQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></description></item><item><title>Metamolds: computational design of silicone molds</title><link>http://vcg.isti.cnr.it/publication/2018/AMGPBC18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/AMGPBC18/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/AMGPBC18/result_heptoroid.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/AMGPBC18/result_fertility.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/AMGPBC18/result_lucy.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/AMGPBC18/result_armadillo.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/AMGPBC18/result_horse.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/AMGPBC18/result_hammer.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2018/AMGPBC18/metamolds_slides.pptx" target="_blank" rel="noopener"> Slides &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/7M2TbQnRLNg" frameborder="0" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></description></item><item><title>State of the Art on Stylized Fabrication</title><link>http://vcg.isti.cnr.it/publication/2018/BCMP18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/BCMP18/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/BCMP18/FabricationTechniquesTable.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/BCMP18/Fabrication_with_paper.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/BCMP18/Fabricating_flat.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2018/BCMP18/Fabricating_Puzzles.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>The EMOTIVE Project - Emotive virtual cultural experiences through personalized storytelling</title><link>http://vcg.isti.cnr.it/publication/2018/RPCMPDV18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2018/RPCMPDV18/</guid><description/></item><item><title>Digital Fabrication Techniques for Cultural Heritage: A Survey</title><link>http://vcg.isti.cnr.it/publication/2017/SCPCD17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/SCPCD17/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/SCPCD17/Two_Arringatore.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/SCPCD17/pietranico_figure8.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/SCPCD17/twosmallbuddha.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/SCPCD17/AdditiveTechniques.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Position-Based Tensegrity Design</title><link>http://vcg.isti.cnr.it/publication/2017/PTVPC17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2017/PTVPC17/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/PTVPC17/knot.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/PTVPC17/sphere_7.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/PTVPC17/representative_tensegrity.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/PTVPC17/assembly.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2017/PTVPC17/arc_3_stand.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2017/PTVPC17/tensegritysigA16_9.pptx" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2017/PTVPC17/TensegrityData.zip" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/qgilDkW_Aps" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Detection of Geometric Temporal Changes in Point Clouds</title><link>http://vcg.isti.cnr.it/publication/2016/PCBS16/</link><pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/PCBS16/</guid><description/></item><item><title>Anisotropic MatCap: Easy Capture and Reproduction of Anisotropic Materials</title><link>http://vcg.isti.cnr.it/publication/2016/MCT16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/MCT16/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2016/MCT16/image79.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2016/MCT16/camicia4.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Conception and parametric design workflow for a timber large-spanned reversible grid shell to shelter the archaeological site of the Roman Shipwrecks in Pisa</title><link>http://vcg.isti.cnr.it/publication/2016/CLPCF16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/CLPCF16/</guid><description/></item><item><title>Design and Fabrication of Grid-shells Mockups</title><link>http://vcg.isti.cnr.it/publication/2016/TPCS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/TPCS16/</guid><description/></item><item><title>FlexMolds: Automatic Design of Flexible Shells for Molding</title><link>http://vcg.isti.cnr.it/publication/2016/MPBC16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/MPBC16/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2016/MPBC16/flexmolds.key" target="_blank" rel="noopener">Siggraph slides (.key)&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/coVXn6mc1Co" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Generalized Trackball for Surfing Over Surfaces</title><link>http://vcg.isti.cnr.it/publication/2016/MCS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/MCS16/</guid><description/></item><item><title>Harvesting Dynamic 3DWorlds from Commodity Sensor Clouds</title><link>http://vcg.isti.cnr.it/publication/2016/BCEGKRWW16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/BCEGKRWW16/</guid><description/></item><item><title>Multi-View Ambient Occlusion for Enhancing Visualization of Raw Scanning Data</title><link>http://vcg.isti.cnr.it/publication/2016/SPCS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/SPCS16/</guid><description/></item><item><title>Stability of Statics Aware Voronoi Grid-Shells</title><link>http://vcg.isti.cnr.it/publication/2016/TPPFCAS16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/TPPFCAS16/</guid><description/></item><item><title>State Of The Art on Functional Fabrication</title><link>http://vcg.isti.cnr.it/publication/2016/MRPC16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/MRPC16/</guid><description/></item><item><title>Tracing Field-Coherent Quad Layouts</title><link>http://vcg.isti.cnr.it/publication/2016/PPMSC16/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2016/PPMSC16/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2016/PPMSC16/talk_field_coherent16_9.pptx" target="_blank" rel="noopener"> Pacific Graphics 2016 Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2016/PPMSC16/data_field_coherent.zip" target="_blank" rel="noopener"> Data &lt;/a>&lt;/p></description></item><item><title>Compression and Querying of Arbitrary Geodesic Distances</title><link>http://vcg.isti.cnr.it/publication/2015/ABPMCS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/ABPMCS15/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/ABPMCS15/PresentationICIAP.pptx.zip" target="_blank" rel="noopener"> Iciap presentation &lt;/a>&lt;/p></description></item><item><title>Data-Driven Interactive Quadrangulation</title><link>http://vcg.isti.cnr.it/publication/2015/MTPPSPC15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/MTPPSPC15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/MTPPSPC15/oldman_our.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/MTPPSPC15/bunny_our.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/DDIQ.key.zip" target="_blank" rel="noopener"> Siggraph presentation &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://igl.ethz.ch/projects/sketch-retopo/sketch-retopo-license.html" target="_blank" rel="noopener"> Code (GUI for retopology - SketchRetopo) &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/DDIQ_code.zip" target="_blank" rel="noopener"> Code (learning patches) &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/data_driven_interactive_quad.zip" target="_blank" rel="noopener"> Some quadrangulated meshes &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/comparison.mp4" target="_blank" rel="noopener"> A video Showing comparison with previous methods &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/patches_40_convex_12_concave_7_edges_max8convexcorners.db.zip" target="_blank" rel="noopener"> A database of learned patches &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/H8K5CyQB_kc" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Elastic Textures for Additive Fabrication</title><link>http://vcg.isti.cnr.it/publication/2015/PZMPCZ15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PZMPCZ15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/PZMPCZ15/teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2015/PZMPCZ15/0_thumb_elastic.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://www.thingiverse.com/groups/microstructures/things" target="_blank" rel="noopener"> Some of the tested patterns &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/PZMPCZ15/Elastic_Textures_Siggraph_Slides.pptx" target="_blank" rel="noopener"> Siggraph presentation &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="https://www.youtube.com/embed/licLnknhiFU" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Mesh Joinery: A Method for Building Fabricable Structures</title><link>http://vcg.isti.cnr.it/publication/2015/CPMS15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/CPMS15/</guid><description/></item><item><title>Statics Aware Grid Shells</title><link>http://vcg.isti.cnr.it/publication/2015/PTPFSC15/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2015/PTPFSC15/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/PTPFSC15/StaticAwareGridShell_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2015/PTPFSC15/static_aware_data.zip" target="_blank" rel="noopener"> Downloadable Data &lt;/a>&lt;/p></description></item><item><title>Digital Fabrication Technologies for Cultural Heritage (STAR)</title><link>http://vcg.isti.cnr.it/publication/2014/SCPCD14a/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/SCPCD14a/</guid><description/></item><item><title>Field-Aligned Mesh Joinery</title><link>http://vcg.isti.cnr.it/publication/2014/CPMS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/CPMS14/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/CPMS14/hand0_e.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/CPMS14/human3.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/CPMS14/bimba0_e.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2014/CPMS14/Joinery_SigAsia.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="http://www.youtube.com/embed/5AIw5dhLP70" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Interlocking pieces for printing tangible Cultural Heritage replicas</title><link>http://vcg.isti.cnr.it/publication/2014/ACPPS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/ACPPS14/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2014/ACPPS14/tortile0.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2014/ACPPS14/interlockGCH.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>Web and mobile visualization for Cultural Heritage</title><link>http://vcg.isti.cnr.it/publication/2014/DPMCDCS14/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2014/DPMCDCS14/</guid><description/></item><item><title>A computer-assisted constraint-based system for assembling fragmented objects</title><link>http://vcg.isti.cnr.it/publication/2013/PPCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/PPCS13/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2013/PPCS13/solfontana.PNG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/~pietroni/reassembly/index.html" target="_blank" rel="noopener"> Project Page &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2013/PPCS13/Reassembly.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="http://www.youtube.com/embed/wn9_b9YZhU0" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Assisted Multi-view Stereo reconstruction</title><link>http://vcg.isti.cnr.it/publication/2013/DCCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/DCCS13/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2013/DCCS13/assist2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>GAIL: Geometry-aware Automatic Image Localization</title><link>http://vcg.isti.cnr.it/publication/2013/BCDCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BCDCS13/</guid><description/></item><item><title>MeshLab as a complete tool for the integration of photos and color with high resolution 3D geometry data</title><link>http://vcg.isti.cnr.it/publication/2013/RCDCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/RCDCS13/</guid><description/></item><item><title>PhotoCloud: interactive remote exploration of large 2D-3D datasets</title><link>http://vcg.isti.cnr.it/publication/2013/BBTPCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/BBTPCS13/</guid><description>&lt;p>&lt;a href="http://www.youtube.com/playlist?list=PLHJB2bhmgB7cmYD0ST9CEDMRv1JlX4xPH" target="_blank" rel="noopener">youTube videos&lt;/a>&lt;/p></description></item><item><title>Surface Light Field from Video Acquired in Uncontrolled Settings</title><link>http://vcg.isti.cnr.it/publication/2013/PDCS13/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2013/PDCS13/</guid><description/></item><item><title>A Low-Memory, Straightforward and Fast Bilateral Filter Through Subsampling in Spatial Domain</title><link>http://vcg.isti.cnr.it/publication/2012/BCCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BCCS12/</guid><description>&lt;p>&lt;a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2011.02078.x/abstract" target="_blank" rel="noopener">link to the official journal&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2012/BCCS12/www.piccantelib.net" target="_blank" rel="noopener">Piccante&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2012/BCCS12/shaders_data.zip" target="_blank" rel="noopener">OpenGL ES 2.0 shaders source code and data&lt;/a>&lt;/p></description></item><item><title>Color to gray conversions in the context of stereo matching algorithms</title><link>http://vcg.isti.cnr.it/publication/2012/BCCCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BCCCS12/</guid><description/></item><item><title>Efficient and Flexible Sampling with Blue Noise Properties of Triangular Meshes</title><link>http://vcg.isti.cnr.it/publication/2012/CCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/CCS12/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/CCS12/bunny_poisson.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/CCS12/dragonSnap02.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/CCS12/fandiskSampling0crop.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Flow-Based Local Optimization for Image-to-Geometry Projection</title><link>http://vcg.isti.cnr.it/publication/2012/DMCCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/DMCCS12/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/DMCCS12/Teschio_no2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Joint Interactive Visualization of 3D Models and Pictures in Walkable Scenes</title><link>http://vcg.isti.cnr.it/publication/2012/BTCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BTCS12/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_50.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_100_rot.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/50_0.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_100.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2012/BTCS12/100_0.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>PileBars: Scalable Dynamic Thumbnail Bars</title><link>http://vcg.isti.cnr.it/publication/2012/BTPCS12/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2012/BTPCS12/</guid><description/></item><item><title>3D models for Cultural Heritage: beyond plain visualization</title><link>http://vcg.isti.cnr.it/publication/2011/SCCCDPR11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/SCCCDPR11/</guid><description/></item><item><title>An interactive local flattening operator to support digital investigations on artwork surfaces</title><link>http://vcg.isti.cnr.it/publication/2011/PCCS11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/PCCS11/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/~pietroni/local_flattening/ProjectWeb/flattening.html" target="_blank" rel="noopener"> Project Page &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2011/PCCS11/LocalFlat.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="http://www.youtube.com/embed/uDDKSqcsePI" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Automatic Construction of Quad-Based Subdivision Surfaces using Fitmaps</title><link>http://vcg.isti.cnr.it/publication/2011/PPTPC11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/PPTPC11/</guid><description>&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2011/PPTPC11/fitmap.ppt" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="http://www.youtube.com/embed/a0wYWC8JX34" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Processing a Complex Architectural Sampling with MeshLab: the case of Piazza Della Signoria</title><link>http://vcg.isti.cnr.it/publication/2011/CCDRS11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/CCDRS11/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/CCDRS11/align_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/CCDRS11/cloud_palazzoSnap03_radiance.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/CCDRS11/loggia_Poisson_10Snap00.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Processing sampled 3D data: reconstruction and visualization technologies</title><link>http://vcg.isti.cnr.it/publication/2011/CDCS11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/CDCS11/</guid><description/></item><item><title>Simple Quad Domains for Field Aligned Mesh Parametrization</title><link>http://vcg.isti.cnr.it/publication/2011/TPPPC11/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2011/TPPPC11/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/TPPPC11/drill-smooth-pow2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/TPPPC11/bunny-smooth-match.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/TPPPC11/rocker-smooth-match-a.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2011/TPPPC11/kitten-smotth.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2011/TPPPC11/SimpleQuad.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p></description></item><item><title>A framework for User-Assisted Sketch-Based Fitting of Geometric Primitives</title><link>http://vcg.isti.cnr.it/publication/2010/PGTCDS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PGTCDS10/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGTCDS10/RisColonna.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGTCDS10/scalaSanGimignano.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Almost isometric mesh parameterization through abstract domains</title><link>http://vcg.isti.cnr.it/publication/2010/PTC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PTC10/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/total.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/omotondo.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PTC10/bunnyCompared.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://meshlab.sourceforge.net" target="_blank" rel="noopener">mesh processing&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/isoParam_talk.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://meshlab.sourceforge.net" target="_blank" rel="noopener">MeshLab &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/example_models.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/scanned_models.zip" target="_blank" rel="noopener"> Here some processed scanned model with color on texture &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/comparison/statistics.html" target="_blank" rel="noopener"> Here some comparison with other parametrization/remeshing methods&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/color_by_distorsion/distorsionComparison.html" target="_blank" rel="noopener"> Here some colored by considering isometry&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="http://www.youtube.com/v/t4RC3H3Ab0Y&amp;hl=en_US&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Browsing Large Image Datasets through Voronoi Diagrams</title><link>http://vcg.isti.cnr.it/publication/2010/BTC10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BTC10/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/BTC10/horizontal.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Controlled and Adaptive Mesh Zippering</title><link>http://vcg.isti.cnr.it/publication/2010/MGCSS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/MGCSS10/</guid><description/></item><item><title>Dynamic Shading Enhancement for Reflectance Transformation Imaging</title><link>http://vcg.isti.cnr.it/publication/2010/PCCSM10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCCSM10/</guid><description/></item><item><title>Improved Color Acquisition and Mapping on 3D Models via Flash-Based Photography</title><link>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/DCCCS10/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/DCCCS10/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Mutual Correspondences: an hybrid method for image-to-geometry registration</title><link>http://vcg.isti.cnr.it/publication/2010/SDCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/SDCS10/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/SDCS10/End_MI.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/SDCS10/Satiro_AlMC.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Practical quad mesh simplification</title><link>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/TPCPP10/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/diag_ambiguity2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/composed.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/Ateaser_quad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/quad_sempl.pptx" target="_blank" rel="noopener"> Talk Slides &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/quad_meshes.zip" target="_blank" rel="noopener"> Here some downloadable data for comparisons &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/comparison/Comparison.html" target="_blank" rel="noopener"> Here some comparison with other quad mesh simplification methods&lt;/a>&lt;/p>
+&lt;iframe width="580" height="435" src="http://www.youtube.com/v/CUuhwksq0jY&amp;hl=it_IT&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Real-time Single Scattering Inside Inhomogeneous Materials</title><link>http://vcg.isti.cnr.it/publication/2010/BGPCPS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/BGPCPS10/</guid><description>&lt;iframe width="580" height="435" src="http://www.youtube.com/v/1vdQBpIbA2Y&amp;hl=it_IT&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>Shape enhancement for rapid prototyping</title><link>http://vcg.isti.cnr.it/publication/2010/PGCS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PGCS10/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGCS10/col_vol_spot.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2010/PGCS10/buddha_roi_high.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Solid-Texture Synthesis: A Survey</title><link>http://vcg.isti.cnr.it/publication/2010/PCOS10/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2010/PCOS10/</guid><description>&lt;p>&lt;a href="http://www.computer.org/portal/web/csdl/doi/10.1109/MCG.2009.153" target="_blank" rel="noopener"> IEEE Computer Graphics and Applications &lt;/a>&lt;/p></description></item><item><title>Artifacts removal for color projection on 3D models using flash light</title><link>http://vcg.isti.cnr.it/publication/2009/DCCCS09a/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCCCS09a/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/DCCCS09a/Pasto_shad.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Flash Lighting Space Sampling</title><link>http://vcg.isti.cnr.it/publication/2009/DCCCS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCCCS09/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/DCCCS09/Nikonc11.JPG" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Interactive Remote Exploration of Massive Cityscapes</title><link>http://vcg.isti.cnr.it/publication/2009/DCGGMS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/DCGGMS09/</guid><description/></item><item><title>Pushing Time-of-Flight scanners to the limit</title><link>http://vcg.isti.cnr.it/publication/2009/CCDS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/CCDS09/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2009/CCDS09/final.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Scanner 3D con hardware low cost e strumenti free/open source</title><link>http://vcg.isti.cnr.it/publication/2009/CCRC09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/CCRC09/</guid><description/></item><item><title>Splitting Cubes a Fast and Robust technique for Virtual Cutting</title><link>http://vcg.isti.cnr.it/publication/2009/PGCS09/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2009/PGCS09/</guid><description>&lt;iframe width="580" height="435" src="http://www.youtube.com/v/Rmsnb6nBEws&amp;hl=en_US&amp;fs=1&amp;" frameborder="0" frameborder="0" allowfullscreen></description></item><item><title>3D enhanced model from multiple data sources for the analysis of the Cylinder seal of Ibni-Sharrum</title><link>http://vcg.isti.cnr.it/publication/2008/PCMA08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/PCMA08/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/PCMA08/Picture1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/PCMA08/Picture2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Color Enhancement for Rapid Prototyping</title><link>http://vcg.isti.cnr.it/publication/2008/CGPS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CGPS08/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CGPS08/gargoyle_right.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Integrazione di dati tridimensionali e campionamento del colore a fini di documentazione e visualizzazione interattiva</title><link>http://vcg.isti.cnr.it/publication/2008/CCGMPS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCGMPS08/</guid><description/></item><item><title>Masked Photo Blending: mapping dense photographic dataset on high-resolution 3D models</title><link>http://vcg.isti.cnr.it/publication/2008/CCCS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCCS08/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCCS08/capitellob.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>MeshLab: an Open-Source 3D Mesh Processing System</title><link>http://vcg.isti.cnr.it/publication/2008/CCR08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCR08/</guid><description/></item><item><title>MeshLab: an Open-Source Mesh Processing Tool</title><link>http://vcg.isti.cnr.it/publication/2008/CCCDGR08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCCDGR08/</guid><description/></item><item><title>Practical and robust MLS-based integration of scanned data</title><link>http://vcg.isti.cnr.it/publication/2008/FCS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/FCS08/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/FCS08/sofocle.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Sampled 3D models for CH applications: an enabling medium or a technological exercise?</title><link>http://vcg.isti.cnr.it/publication/2008/CS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CS08/</guid><description/></item><item><title>Stereo Light Probe</title><link>http://vcg.isti.cnr.it/publication/2008/CCC08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CCC08/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/david_relight.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/laurana_orig.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/david_orig.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CCC08/acquisition.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Virtual Inspector: a flexible visualizer for dense 3D scanned models</title><link>http://vcg.isti.cnr.it/publication/2008/CPCS08/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2008/CPCS08/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CPCS08/inspector_arrigo_crop.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2008/CPCS08/inspector_arrigo_testa.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>High quality digital acquisition and virtual presentation of three-dimensional models</title><link>http://vcg.isti.cnr.it/publication/2007/SCM07a/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2007/SCM07a/</guid><description/></item><item><title>Out-of-core MLS reconstruction</title><link>http://vcg.isti.cnr.it/publication/2007/FCS07/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2007/FCS07/</guid><description/></item><item><title>Ray-Casted BlockMaps for Large Urban Models Streaming and Visualization</title><link>http://vcg.isti.cnr.it/publication/2007/CDGGMS07/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2007/CDGGMS07/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2007/CDGGMS07/teaser.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>Using 3D scanning to analyze a proposal for the attribution of a bronze horse to Leonardo da Vinci</title><link>http://vcg.isti.cnr.it/publication/2007/DCFCS07/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2007/DCFCS07/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2007/DCFCS07/straight33.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2007/DCFCS07/straight_part2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2007/DCFCS07/Leonardo-NUMBERED_1.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2007/DCFCS07/Leonardo-NUMBERED.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2007/DCFCS07/rotatedpart.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Ambient occlusion and edge cueing to enhance real time molecular visualization</title><link>http://vcg.isti.cnr.it/publication/2006/TCM06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/TCM06/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/rendr_capping_crop.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/halo_w.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/halo_b.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/a_qutemol_splash.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/splash_thickborders.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/ballandsticks.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2006/TCM06/par_sma_2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;a href="http://qutemol.sourceforge.net" target="_blank" rel="noopener">QuteMol&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://qutemol.sourceforge.net" target="_blank" rel="noopener">qutemol.sourceforge.net&lt;/a>&lt;/p></description></item><item><title>Beyond manual drafting: a restoration-oriented system</title><link>http://vcg.isti.cnr.it/publication/2006/CCSGR06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/CCSGR06/</guid><description/></item><item><title>C-BDAM - Compressed Batched Dynamic Adaptive Meshes for Terrain Rendering</title><link>http://vcg.isti.cnr.it/publication/2006/GMCDG06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/GMCDG06/</guid><description/></item><item><title>Easy Access to Huge 3D Models of Works of Art</title><link>http://vcg.isti.cnr.it/publication/2006/CPCS06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/CPCS06/</guid><description/></item><item><title>Implementing Mesh-Based Approaches for deformable Objects on GPU</title><link>http://vcg.isti.cnr.it/publication/2006/RCGS06/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2006/RCGS06/</guid><description/></item><item><title>A Comparison of Systems and Tools for 3D Scanning</title><link>http://vcg.isti.cnr.it/publication/2005/TCMV05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/TCMV05/</guid><description/></item><item><title>A simple Normal Enhancement technique for Interactive Non-photorealistic Renderings</title><link>http://vcg.isti.cnr.it/publication/2005/CST05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/CST05/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2005/CST05/CAG_TopCitedArticle.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>A six-degrees-of-freedom planning algorithm for the acquisition of complex surfaces</title><link>http://vcg.isti.cnr.it/publication/2005/ICS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/ICS05/</guid><description/></item><item><title>Assisting the user in image to geometry alignment</title><link>http://vcg.isti.cnr.it/publication/2005/FCGDSM05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/FCGDSM05/</guid><description/></item><item><title>Batched Multi Triangulation</title><link>http://vcg.isti.cnr.it/publication/2005/CGGMPS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/CGGMPS05/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2005/CGGMPS05/david_Vpart_1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2005/CGGMPS05/snap2.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Enhancing processing and visualization efficiency of 3D scanned meshes</title><link>http://vcg.isti.cnr.it/publication/2005/CCFMPPS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/CCFMPPS05/</guid><description/></item><item><title>Exploiting the scanning sequence for automatic registration of large sets of range maps</title><link>http://vcg.isti.cnr.it/publication/2005/PFCMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/PFCMS05/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2005/PFCMS05/pic_arki.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2005/PFCMS05/pic_sepolcro2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="http://vcg.isti.cnr.it/Publications/2005/PFCMS05/pic_spyral_stripe_small2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Extracting Meta-Information From 3-Dimensional Shapes With Protégé</title><link>http://vcg.isti.cnr.it/publication/2005/BDCPS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/BDCPS05/</guid><description/></item><item><title>Fondamenti di Grafica Tridimensionale Interattiva</title><link>http://vcg.isti.cnr.it/publication/2005/SCMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/SCMS05/</guid><description/></item><item><title>Generating random points in a tetrahedron</title><link>http://vcg.isti.cnr.it/publication/2005/CR05a/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/CR05a/</guid><description/></item><item><title>Interactive visualization of artwork’s 3D digital reconstruction</title><link>http://vcg.isti.cnr.it/publication/2005/BBCCCFMNNPPS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/BBCCCFMNNPPS05/</guid><description/></item><item><title>Minimizing user intervention in registering 2D images to 3D models</title><link>http://vcg.isti.cnr.it/publication/2005/FDGCMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/FDGCMS05/</guid><description/></item><item><title>Pinchmaps: Textures with Customizable Discontinuities</title><link>http://vcg.isti.cnr.it/publication/2005/TC05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/TC05/</guid><description/></item><item><title>Processing huge scanned datasets: issues and solutions</title><link>http://vcg.isti.cnr.it/publication/2005/SC05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/SC05/</guid><description/></item><item><title>Tools for inverse mapping and visualization of multi-spectral image data on 3D scanned representations of drawings</title><link>http://vcg.isti.cnr.it/publication/2005/CCGPPMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/CCGPPMS05/</guid><description/></item><item><title>Triangulating Convex Polygons having T-Vertices</title><link>http://vcg.isti.cnr.it/publication/2005/CMS05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/CMS05/</guid><description/></item><item><title>Using multiple scanning technologies for the 3D acquisition of Torcello's basilica</title><link>http://vcg.isti.cnr.it/publication/2005/BCCCDMPPSTU05/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2005/BCCCDMPPSTU05/</guid><description/></item><item><title>Adaptive TetraPuzzles: Efficient Out-of-Core Construction and Visualization of Gigantic Multiresolution Polygonal Models</title><link>http://vcg.isti.cnr.it/publication/2004/CGGMPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CGGMPS04/</guid><description/></item><item><title>Closing Gaps by Clustering Unseen Directions</title><link>http://vcg.isti.cnr.it/publication/2004/CI04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CI04/</guid><description/></item><item><title>Digital reconstruction of the Arrigo VII funerary complex</title><link>http://vcg.isti.cnr.it/publication/2004/BBCCCFMNNPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/BBCCCFMNNPS04/</guid><description/></item><item><title>Integrazione di dati tridimensionali e campionamento del colore a fini di documentazione e visualizzazione interattiva</title><link>http://vcg.isti.cnr.it/publication/2004/CCGMPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CCGMPS04/</guid><description/></item><item><title>Making Profitable Use of the Digital 3D Model in the David Restoration</title><link>http://vcg.isti.cnr.it/publication/2004/CS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CS04/</guid><description/></item><item><title>Optimal Isosurface Extraction</title><link>http://vcg.isti.cnr.it/publication/2004/CMPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CMPS04/</guid><description/></item><item><title>PolyCube-Maps</title><link>http://vcg.isti.cnr.it/publication/2004/THCM04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/THCM04/</guid><description/></item><item><title>Protected Interactive 3D Graphics Via Remote Rendering</title><link>http://vcg.isti.cnr.it/publication/2004/KTLTCCS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/KTLTCCS04/</guid><description>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2004/KTLTCCS04/protected1.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure></description></item><item><title>PSP: A Progressive Subdivision Paradigm</title><link>http://vcg.isti.cnr.it/publication/2004/BSCP04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/BSCP04/</guid><description/></item><item><title>Restoring David using 3D</title><link>http://vcg.isti.cnr.it/publication/2004/CCGIMPPS04a/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CCGIMPPS04a/</guid><description/></item><item><title>RoboScan: An automatic system for accurate and unattended 3D scanning</title><link>http://vcg.isti.cnr.it/publication/2004/CFICSPB04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CFICSPB04/</guid><description/></item><item><title>Selective Refinement Queries for Volume Visualization of Unstructured Tetrahedral Meshes</title><link>http://vcg.isti.cnr.it/publication/2004/CMDPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CMDPS04/</guid><description/></item><item><title>Simplicial-based Multiresolution Volume Datasets Management: An Overview</title><link>http://vcg.isti.cnr.it/publication/2004/BCS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/BCS04/</guid><description/></item><item><title>The Marching Intersections Algorithm for Merging Range Images</title><link>http://vcg.isti.cnr.it/publication/2004/RCGMPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/RCGMPS04/</guid><description/></item><item><title>Visualization and 3D data processing in David’s restoration</title><link>http://vcg.isti.cnr.it/publication/2004/CCGIMPPS04/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2004/CCGIMPPS04/</guid><description/></item><item><title>Batching Meshes for High Performance Terrain Visualization</title><link>http://vcg.isti.cnr.it/publication/2003/CGGMPS03b/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/CGGMPS03b/</guid><description/></item><item><title>BDAM: Batched Dynamic Adaptive Meshes for High Performance Terrain Visualization</title><link>http://vcg.isti.cnr.it/publication/2003/CGGMPS03a/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/CGGMPS03a/</guid><description/></item><item><title>Derma: monitoring the evolution of skin lesions with a 3D system</title><link>http://vcg.isti.cnr.it/publication/2003/CCCPRS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/CCCPRS03/</guid><description/></item><item><title>Enhancing the 3D Laser Scanning Pipeline using Mirrors</title><link>http://vcg.isti.cnr.it/publication/2003/FCCS03a/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/FCCS03a/</guid><description/></item><item><title>Exploiting Mirrors for Laser Stripe 3D Scanning</title><link>http://vcg.isti.cnr.it/publication/2003/FCCS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/FCCS03/</guid><description/></item><item><title>External Memory Management and Simplification of Huge Meshes</title><link>http://vcg.isti.cnr.it/publication/2003/CRMS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/CRMS03/</guid><description/></item><item><title>Il modello digitale 3D del David e il suo uso nel progetto di restauro</title><link>http://vcg.isti.cnr.it/publication/2003/SCCGMP03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/SCCGMP03/</guid><description/></item><item><title>Planet-sized batched dynamic adaptive meshes (P-BDAM)</title><link>http://vcg.isti.cnr.it/publication/2003/CGGMPS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/CGGMPS03/</guid><description/></item><item><title>PSP: Progressive Subdivision Paradigm for Large Scale Visualization</title><link>http://vcg.isti.cnr.it/publication/2003/BSCP03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/BSCP03/</guid><description/></item><item><title>Supporting the restoration of the Minerva of Arezzo</title><link>http://vcg.isti.cnr.it/publication/2003/GFGPPPCS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/GFGPPPCS03/</guid><description/></item><item><title>Using optically scanned 3D data in the restoration of Michelangelo David</title><link>http://vcg.isti.cnr.it/publication/2003/SCCGIPP03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/SCCGIPP03/</guid><description/></item><item><title>VCLab Tools for 3D range data processing</title><link>http://vcg.isti.cnr.it/publication/2003/CCGMPS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/CCGMPS03/</guid><description/></item><item><title>Visibility based methods and assessment for detail-recovery</title><link>http://vcg.isti.cnr.it/publication/2003/TCS03/</link><pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2003/TCS03/</guid><description/></item><item><title>3D GEOMETRIC MODELING &amp; PROCESSING 2021/2022</title><link>http://vcg.isti.cnr.it/courses/geometry/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/courses/geometry/</guid><description>&lt;p>lorem ipsum&lt;/p></description></item><item><title>Geometry Processing</title><link>http://vcg.isti.cnr.it/research/geometry-processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/research/geometry-processing/</guid><description>&lt;p>Research on the foundational themes of Computer graphis like quad meshing, texture parametrization, Hexahedral Meshing, etc. has been always one of the basic line of our lab.&lt;/p></description></item><item><title>HexaLab</title><link>http://vcg.isti.cnr.it/software_apps/hexalab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/software_apps/hexalab/</guid><description/></item><item><title>PyMeshLab</title><link>http://vcg.isti.cnr.it/software_libs/pymeshlab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/software_libs/pymeshlab/</guid><description/></item></channel></rss>
