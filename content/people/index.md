@@ -36,10 +36,12 @@ sections:
         - Giuseppe Croccia - *Research Fellow*
         - Marco Di Benedetto - *Phd, Research Fellow*
         - Daniele Duranti - *Phd*
+        - Irene Filoscia - *Research Fellow*
         - Valeria Garro - *Research Fellow*
         - Gael Guennebaud - *Visiting*
         - Kai Hormann - *Visiting*
         - Frederic Larue - *Visiting*
+        - Iason Manolas - *Phd*
         - Giorgio Marcias - *Phd*
         - Stefano Marras - *Phd*
         - Ricardo Marroquim - *Visiting*
