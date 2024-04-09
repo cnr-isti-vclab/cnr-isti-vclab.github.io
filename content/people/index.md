@@ -25,9 +25,18 @@ sections:
 
   - block: markdown
     content:
+      title: Former Head of VC Lab
+      text: |
+        - [Roberto Scopigno](https://vcg.isti.cnr.it/~scopigno/) - *Research Director, currently director of ISTI*
+        - [Claudio Montani](https://vcg.isti.cnr.it/~montani/) - *Research Director, Retired*
+        
+
+  - block: markdown
+    content:
       title: Former Members
       text: |
-        - Thomas Alderighi - *Phd*
+        - Thomas Alderighi - _Phd & Research Fellow - Nov 2018 - Feb 2022 * (since 2023 ANSYS)_
+        - Andrea Maggiordomo - *Phd - (since 2023 NVIDIA)_
         - Andrea Baldacci - *Phd*
         - Luca Benedetti - *Phd*
         - Daniele Bernabei - *Phd*
