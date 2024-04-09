@@ -3,7 +3,7 @@
 
 title: "Alchemy in 3D"
 summary: "[2014-2015] Alchemy, By Jackson Pollock: A 3D digitization for a journey into matter"
-authors: [Marco Callieri, Paolo §Pingi, Marco Potenziani]
+authors: [Marco Callieri, Paolo Pingi, Marco Potenziani]
 tags: 
 - Digital Heritage
 show_date: false
