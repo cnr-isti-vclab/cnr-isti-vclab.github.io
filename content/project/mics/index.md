@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Charity"
-summary: "CHARITY aspires to leverage the benefits of intelligent, autonomous orchestration of cloud, edge, and network resources, to create a symbiotic relationship between low and high latency infrastructures that will facilitate the needs of emerging applications.  <br>
-Horizon 2020 research and innovation programme under grant agreement No 101016509  <br>
-_Start Date 2020-07-01 End Date 2024-06-30_"
-authors: [massimiliano-corsini]
+title: "PNNR MICS"
+summary: "MICS – __Made in Italy Circolare e Sostenibile__ is an Extended Partnership between Universities, Research Centers and Enterprises financed by MUR – Ministero dell’Università e della Ricerca thanks to funds made available by the European Union under the NextGenerationEU (PNRR) program. <br>
+Progetto n.: PE_00000004 - MADE IN ITALY CIRCOLARE E SOSTENIBILE - C.F. 97931690156 <br>
+_Start Date 2023-01-01 End Date 2025-12-31_"
+authors: [paolo-cignoni]
 tags: 
 - geometry processing
 - 3d reconstruction 
 categories: []
-date: 2023-01-20T10:39:08+01:00
+date: 2023-01-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.charity-project.eu/en"
+external_link: "https://www.mics.tech/"
 projects_class: Active
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
