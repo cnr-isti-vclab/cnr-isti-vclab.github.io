@@ -19,9 +19,6 @@ main:
   - name: Software
     url: software
     weight: 4
-  - name: Teaching
-    url: courses
-    weight: 5
   - name: Projects
     url: project
     weight: 6
