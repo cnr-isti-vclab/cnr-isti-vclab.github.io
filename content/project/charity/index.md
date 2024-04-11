@@ -43,6 +43,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context
 
 2018-2021 EC H2020-NMBP-EEB-2018
