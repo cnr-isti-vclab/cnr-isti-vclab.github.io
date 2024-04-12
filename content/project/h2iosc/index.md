@@ -7,8 +7,7 @@ NextGenerationEU & PNRR Italia Domani - Missione 4 - Componente 2 - Linea di Inv
 _Start Date 1/11/2022  2022-11-01 End Date 2025-10-2025_"
 authors: [paolo-cignoni]
 tags: 
-- cultural heritage
-- digital humanities 
+  - Digital Heritage 
 categories: []
 date: 2023-01-01
 
