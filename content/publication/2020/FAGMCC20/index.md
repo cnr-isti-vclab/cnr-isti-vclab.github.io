@@ -19,6 +19,8 @@ image:
     focal_point: ''
     preview_only: false
     share: false
+tags:
+- Digital Fabrication
 ---
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/FAGMCC20/img_lucy_results.png" >}}
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/FAGMCC20/img_bunny_results.png" >}}
