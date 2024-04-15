@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PNNR MICS"
-summary: "MICS – __Made in Italy Circolare e Sostenibile__ is an Extended Partnership between Universities, Research Centers and Enterprises financed by MUR – Ministero dell’Università e della Ricerca thanks to funds made available by the European Union under the NextGenerationEU (PNRR) program. <br>
-Progetto n.: PE_00000004 - MADE IN ITALY CIRCOLARE E SOSTENIBILE - C.F. 97931690156 <br>
+summary: "MICS – __Made in Italy Circolare e Sostenibile__ is an Extended Partnership between Universities, Research Centers and Enterprises financed by MUR – Ministero dell’Università e della Ricerca thanks to funds made available by the European Union under the NextGenerationEU (PNRR) program. <br><br>
+_Progetto n.: PE_00000004 - MADE IN ITALY CIRCOLARE E SOSTENIBILE - C.F. 97931690156_<br>
 _Start Date 2023-01-01 End Date 2025-12-31_"
 authors: [paolo-cignoni]
 tags: 

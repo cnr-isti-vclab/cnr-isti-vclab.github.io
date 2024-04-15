@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PNNR H2IOSC"
-summary: "H2IOSC - __Humanities and cultural Heritage Italian Open Science Cloud__.__ is a project that aims at creating a federated and inclusive cluster of RIs in the ESFRI domain of Social and Cultural Innovation to allow researchers from various disciplines in the Humanities, Language technologies and the Cultural Heritage sectors collaborate in data and compute intensive research. <br>
-NextGenerationEU & PNRR Italia Domani - Missione 4 - Componente 2 - Linea di Investimento 3.1 - Azione 3.1.1<br>
+summary: "H2IOSC - __Humanities and cultural Heritage Italian Open Science Cloud__.__ is a project that aims at creating a federated and inclusive cluster of RIs in the ESFRI domain of Social and Cultural Innovation to allow researchers from various disciplines in the Humanities, Language technologies and the Cultural Heritage sectors collaborate in data and compute intensive research. <br><br>
+_NextGenerationEU & PNRR Italia Domani - Missione 4 - Componente 2 - Linea di Investimento 3.1 - Azione 3.1.1_<br>
 _Start Date 1/11/2022  2022-11-01 End Date 2025-10-2025_"
 authors: [paolo-cignoni]
 tags: 

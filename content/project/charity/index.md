@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Charity"
-summary: "CHARITY aspires to leverage the benefits of intelligent, autonomous orchestration of cloud, edge, and network resources, to create a symbiotic relationship between low and high latency infrastructures that will facilitate the needs of emerging applications.  <br>
-Horizon 2020 research and innovation programme under grant agreement No 101016509  <br>
+summary: "CHARITY aspires to leverage the benefits of intelligent, autonomous orchestration of cloud, edge, and network resources, to create a symbiotic relationship between low and high latency infrastructures that will facilitate the needs of emerging applications.  <br><br>
+_Horizon 2020 research and innovation programme under grant agreement No 101016509_<br>
 _Start Date 2020-07-01 End Date 2024-06-30_"
 authors: [massimiliano-corsini]
 tags: 

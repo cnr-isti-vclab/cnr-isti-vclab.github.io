@@ -3,8 +3,8 @@
 
 title: "Reflex"
 summary: "REFLectance EXploration research project aims to improve the entire workflow stemming from multi-light image collections 
-(sets of photographs captured with a fixed camera but variable illumination) for surface characterization and analysis.  <br>
-PRIN 2022 2022E2ANE9<br>
+(sets of photographs captured with a fixed camera but variable illumination) for surface characterization and analysis.<br><br>
+_PRIN 2022 2022E2ANE9_<br>
 _Start Date 2023-08-28 End Date 2026-02-28_"
 authors: [federico-ponchio]
 tags: 

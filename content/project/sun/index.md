@@ -2,11 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SUN-XR"
-summary: ""
-authors: [daniela-giorgi, marco-callieri, paolo-cignoni, gianpaolo-palma]
+summary: "The Social and hUman ceNtered XR (SUN) project aims at investigating and developing extended reality (XR) solutions that integrate the physical and the virtual world in a convincing way, from a human and social perspective. The virtual world will be a means to augment the physical world with new opportunities for social and human interaction.</br></br>
+ _Horizon Europe Project Grant agreement ID: 101092612 DOI 10.3030/101092612_</br>
+_Start Date 2022_12_01 End Date 2025_11_30_"
+authors: [daniela-giorgi]
 tags: []
 categories: []
-date: 2023-01-20T10:39:08+01:00
+date: 2022-12-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.sun-xr-project.eu/"

@@ -3,8 +3,8 @@
 
 title: "PNRR CHANGES"
 summary: "CHANGES - <b>Cultural Heritage Active Innovation for Sustainable Society</b> - is an extended partnership (11 Universities, 4 Research Centers, 3 Schools of Advanced Studies, 6 Companies, and 1 Center of Excellence) providing instrumental and support activities to the historical-cultural heritage domain.
-It is a multi-technological and transdisciplinary ecosystem for teaching, training, scientific-technological research, and technological transfer, aimed at humanistic culture.<br>
-Project PE 0000020 CHANGES - NRP &ldquo;Italia Domani&rdquo; - Mission 4 - Component 2 - Investment 1.3 - Funded by the European Union - NextGenerationEU<br>
+It is a multi-technological and transdisciplinary ecosystem for teaching, training, scientific-technological research, and technological transfer, aimed at humanistic culture.<br><br>
+_Project PE 0000020 CHANGES - NRP &ldquo;Italia Domani&rdquo; - Mission 4 - Component 2 - Investment 1.3 - Funded by the European Union - NextGenerationEU_<br>
 _Start Date 2022-12-01 End Date 2025-11-30_"
 authors: [marco-potenziani]
 tags: 
