@@ -21,4 +21,6 @@ image:
     preview_only: false
     share: false
 url_video: https://vcgdata.isti.cnr.it/Publications/2016/SPCS16/MVAO_maschiAngioino.mp4
+tags:
+- Rendering and Advanced UI
 ---

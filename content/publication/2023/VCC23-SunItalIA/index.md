@@ -32,7 +32,7 @@ summary:
 
 tags:
   - Visual AI
-  - XR and Advanced UI
+  - Rendering and Advanced UI
 featured: false
 
 # links:
