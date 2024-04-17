@@ -1,41 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "The Neptune Fountain in Bologna"
-summary: "[2016] The Information System for the restoration of the Neptune fountain in Bologna"
+summary: "[2016] The Information System of the Restoration <p onclick='this.style.display=\"block\"; event.preventDefault();' style='overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;'>The Visual Computing Lab has developed, in collaboration with the Università di Bologna and the Comune di bologna, the Information System for the restoration of the Neptune Fountain, carried out by the Istituto Superiore per il Restauro e la Conservazione – MIBACT. The system heavily uses the high-resolution 3D models of the fountain, as all the annotation, analyses and observations are mapped on the 3D surface of the structure. The system is completely online, and the restorers can access and work on the 3D models directly from the field.</p>"
 authors: [Marco Callieri, Federico Ponchio]
 tags: 
-- Digital Heritage
+- 
+
 show_date: false
 
-# Optional external URL for project (replaces project detail page).
-external_link: "https://vcg.isti.cnr.it/activities/nettuno/"
+external_link: "http://vcg.isti.cnr.it/activities/nettuno"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 ---
+<p>The Visual Computing Lab has developed, in collaboration with the Università di Bologna and the Comune di bologna, the Information System for the restoration of the Neptune Fountain, carried out by the Istituto Superiore per il Restauro e la Conservazione – MIBACT. The system heavily uses the high-resolution 3D models of the fountain, as all the annotation, analyses and observations are mapped on the 3D surface of the structure. The system is completely online, and the restorers can access and work on the 3D models directly from the field.</p>
+<button onclick="console.log('a')">Show More</button>

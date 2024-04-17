@@ -1,41 +1,26 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Alchemy in 3D"
-summary: "[2014-2015] Alchemy, By Jackson Pollock: A 3D digitization for a journey into matter"
+summary: "[2014-2015] A 3D digitization for a journey into matter <p onclick='this.style.display=\"block\"; event.preventDefault();' style='overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;'>The Visual Computing Lab, in collaboration with the Opificio delle Pietre Dure and the Peggy Guggenheim Collection, worked the three-dimensional diagnostic analysis of the painting 'Alchemy' by Jackson Pollock. We created a high-res 3D of the geometry of the painting, usable as metric and scientific documentation, to measure, study and analyze the materic structure of the painting. The 3D models results have then been used to create an interactive kiosk and a physical reproduction of the painting for the exposition 'ALCHEMY BY JACKSON POLLOCK. Discovering the Artist at Work' (Peggy Guggenheim collection, Venice).</p>"
 authors: [Marco Callieri, Paolo Pingi, Marco Potenziani]
 tags: 
 - Digital Heritage
+- Alchemy
+
 show_date: false
 
-# Optional external URL for project (replaces project detail page).
-external_link: "https://vcg.isti.cnr.it/alchemy/"
+external_link: "http://vcg.isti.cnr.it/alchemy"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 ---
+<p>The Visual Computing Lab, in collaboration with the Opificio delle Pietre Dure and the Peggy Guggenheim Collection, worked the three-dimensional diagnostic analysis of the painting 'Alchemy' by Jackson Pollock. We created a high-res 3D of the geometry of the painting, usable as metric and scientific documentation, to measure, study and analyze the materic structure of the painting. The 3D models results have then been used to create an interactive kiosk and a physical reproduction of the painting for the exposition 'ALCHEMY BY JACKSON POLLOCK. Discovering the Artist at Work' (Peggy Guggenheim collection, Venice).</p>
+<button onclick="console.log('a')">Show More</button>
