@@ -1,0 +1,316 @@
+[
+
+ {
+	"id": "loggia",
+	"title":"A digital Loggia for Raffaello",
+	"subtitle": "Technology and Art in the time of COVID",
+	"authors": "",
+	"tags": "",
+	"img": "./images/loggia.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/loggia",
+	"years": "2020",
+	"body": "The Visual Computing Lab developed, in collaboration with the Accademia Nazionale dei Lincei, the Interactive Digital System of the Loggia of Cupid and Psyche by Raffaello and his assistants within the celebrations for the fifth centenary of Raphael's death. The system is the response of the two Institutions to making this artistic masterpiece available during Covid-19. The system allows access to the ‘digital Loggia’ and permits the visitor to navigate freely through the high-resolution panoramic image of the painted ceiling, admire it from a closer point of view, and consult the historical, botanical and zoological researches, and the result of the scientific analyses performed. The system is available online and with an interactive kiosk in the Farnesina building."
+ },
+
+ {
+	"id": "flexmaps",
+	"title":"FlexMaps 2.0",
+	"subtitle": "New architectural challenges",
+	"authors": "",
+	"tags": "",
+	"img": "./images/pavilion2.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/pavilion2",
+	"years": "2020",
+	"body": "The FlexMaps 2.0 is an interdisciplinary research project that builds on the previous experience, the FlexMaps Pavilion (link: http://vcg.isti.cnr.it/activities/pavilion/), in which the concept of FlexMaps has been successfully applied on architectural shapes. The FlexMaps 2.0 is a wooden structure, whose shape has been selected among a set of possible shapes to challenge the realization of a complex topology within a restricted indoor space. The selected anticlastic design geometry is a non-developable vaulted surface with three outer arch profiles and a central hole. The structure exploits the strengths of the FlexMaps systems of using mesostructured spiral geometry. Thus, it is possilbe to produce bespoke panels with variable stiffness by only modifying the geometrical parameters of the spiral without changing the material."
+ },
+ 
+ {
+	"id": "pavillion",
+	"title":"FlexMap Pavilion",
+	"subtitle": "Award winning wooden pavilion",
+	"authors": "",
+	"tags": "",
+	"img": "./images/pavilion.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/pavilion",
+	"years": "2019",
+	"body": "The FlexMaps Pavilion is 4x4 meters of CNC-milled plywood structure, carved with a computationally designed spiraling pattern. This pattern aims at controlling the flexibility of each panel so that, once all pieces are individually bent and assembled, the structure reaches the designed target shape."
+ },
+
+ {
+	"id": "armenia",
+	"title":"Three Armenian Manuscripts from Tuscany",
+	"subtitle": "An interactive Kiosk for a temporary exhibition",
+	"authors": "",
+	"tags": "",
+	"img": "./images/armenia.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/armenia",
+	"years": "2019",
+	"body": "The VC Lab created an iteractive kiosk for the temporary exhibition 'Three Armenian Manuscripts from Tuscany', taking palce at the Matenadaran Museum (Jerevan, Armenia) from June 9th 2019 to January 9 2020. The kiosk, designed to the general audience of museum visitors, presents the libraries that have preserved the three codices (using photos and 360° panoramas) and explore the three books with high-resolution images and RTIs. The kiosk is available at the exhibition on a touchscreen PC but also online."
+ },
+
+ {
+	"id": "eccehomo",
+	"title":"The ECCEHOMO project",
+	"subtitle": "3D Digitalisation for Data Integration",
+	"authors": "",
+	"tags": "",
+	"img": "./images/eccehomo.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/eccehomo",
+	"years": "2018-2019",
+	"body": "The VC Lab participated at the diagnostic activity of the 'Ecce Homo' by Antonello da Messina within the IperionCH.it - E-RISH.it project. A complete 3D digitization of the artwork was performed to sample morphology of the pictorial surface at very high-resolution and to support further cross-correlation and analysis of the other data sampled. All the scientific data obtained are being integrated by mapping all the data on the 3D/2D space of the digital representation of the artwork. The aim is to make it easy to consult and view all the data on the Web through an Interactive System, both for scientific and dissemination purposes."
+ },
+ 
+ {
+	"id": "leonardo",
+	"title":"The 'Adoration of the Magi' by Leonardo",
+	"subtitle": "3D Model for Diagnostic and Monitoring",
+	"authors": "",
+	"tags": "",
+	"img": "./images/leonardo.png",
+	"url": "http://vcg.isti.cnr.it/activities/leonardo",
+	"years": "2018",
+	"body": "The VC Lab participated at the diagnostic activity of the 'Adoration of the Magi' by Leonardo da Vinci, providing technical support to the Opificio delle Pietre Dure in Florence. The total surface of the famous unfinished artwork by Leonardo was acquired producing a single high-resolution 3D model. It was used to evaluate the conservation status of the painting and to measure the deformations of the ten wooden support. Furthermore, a previous 3D model created in 2002 was also integrated in the study developing a new approach to quantify the panel deformation along time by comparing the two 3D models. These results were presented for the first time at the International Art and Restoration Fair 2018 in Florence."
+ },
+ 
+ {
+	"id": "montagnola",
+	"title":"La Tomba della Montagnola",
+	"subtitle": "A virtual tour for exploring a hidden structure",
+	"authors": "",
+	"tags": "",
+	"img": "./images/montagnola.png",
+	"url": "http://vcg.isti.cnr.it/activities/montagnola",
+	"years": "2018-2019",
+	"body": "The Montagnola Tomb, in Sesto Fiorentino, is one of the most relevant funerary monument in the northern part of the Etruria region, but is only partially accessible. The VC Lab developed an interactive, web-based kiosk for a virtual visit of the structure. The interactive system allows the user to experience the monument from two points of view: from outside, to appreciate the structure of the mound and of the architectural elements; and from inside, to explore in first person the inner burial chambers. The web-based kiosk uses high-resolution 3D models to give a detailed representation of the monument, enriched by annotations and hot-spots."
+ },
+
+ {
+	"id": "tensegrity",
+	"title":"Position-based tensegrity design",
+	"subtitle": "Automatic generation of stiff tensegrity structures",
+	"authors": "",
+	"tags": "",
+	"img": "./images/tensegrity.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/tensegrity",
+	"years": "2017",
+	"body": "This work addresses the design of tensegrity structures, which are lightweight load-bearing assemblies entirely composed by only two types of elements: struts and cables. The form-finding of these structures is well known to be a complex problem, so that most of the existing design methods are based on the repetition of templated modules and are limited to simple shapes. Conversely, the present method creates free-form stable tensegrity configurations that satisfy both fabrication and geometric constraints."
+ },
+
+ {
+	"id": "grid-shell",
+	"title":"Reciprocal-framed grid shell",
+	"subtitle": "Reusable, Adaptable and Rapidly-Assembled Structures",
+	"authors": "",
+	"tags": "",
+	"img": "./images/grid-shell.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/grid-shell",
+	"years": "2017",
+	"body": "This project proposes a parametric workflow for the design of reusable, adaptable, reciprocal-framed grid shell, which can be used to cover large spaces, such as archaeological sites, temporary accommodation or services etc. This workflow has been applied for the case study of the Ancient Ships Archaeological Site free-form shelter in Pisa (88x48 meters)."
+ },
+
+ {
+	"id": "farnesina",
+	"title":"The Loggia of Cupid and Psyche",
+	"subtitle": "The Interactive System for the Loggia Enhancement",
+	"authors": "",
+	"tags": "",
+	"img": "./images/farnesina.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/farnesina",
+	"years": "2017",
+	"body": "The VC Lab has developed, in collaboration with the Accademia Nazionale dei Lincei, the Interactive Digital System of the Loggia of Cupid and Psyche within the exhibition 'The Loggia of Cupid and Psyche – Raffaello and Giovanni da Udine – Colours of Prosperity: Fruits from the Old and New World' Villa Farnesina, Rome April 20 – July 20 2017. The system allows access to the ‘digital Loggia’ and permits the visitor to navigate freely through the high-resolution panoramic image of the painted ceiling, to admire it from a closer point of view and to consult the results of historical, botanical and scientific analyses performed on the selected species. The system is available online and with an interactive kiosk in the Farnesina building."
+ },
+
+ { 
+	"id": "cenobium",
+	"title":"CENOBIUM",
+	"subtitle": "Romanesque Cloister Capitals in the Mediterranean Region",
+	"authors": "",
+	"tags": "",
+	"img": "images/cenobium.jpg",
+	"url": "http://cenobium.isti.cnr.it",
+	"years": "2006-2017",
+	"body": "CENOBIUM (Cultural Electronic Network Online: Binding up Interoperably Usable Multimedia) is a multimedia presentation of Romanesque cloister capitals from the Mediterranean region. High-resolution digital photographs, 3-D models, and panoramas will virtually link the capitals to their original surroundings, thus representing them within their original architectural and conceptual contexts. A project in collaboration with the Kunsthistorisches Institut in Florenz Max-Planck-Institut."
+ },
+
+ {
+	"id": "visionarycross",
+	"title":"The Visionary Cross project",
+	"subtitle": "3D scanning and web publication of Anglo-Saxon stone crosses",
+	"authors": "",
+	"tags": "",
+	"img": "./images/visionarycross.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/visionarycross",
+	"years": "2012-2017",
+	"body": "The Visual Computing Lab has been involved since 2012 in the activities of the Visionary Cross project, a multidisciplinary research project whose principle objective is the development of a new kind of digital archive and edition of texts and objects associated with the Visionary Cross tradition in Anglo-Saxon England. VC Lab supported the project in the 3D acquisition and web publication of high quality 3D representation of two major stone crosses in the United Kingdom. A strong research effort is currently focusing in the creation of a digital edition of the crosses, integrating 3D models with textual information and images."
+ },
+
+ {
+	"id": "nettuno",
+	"title":"The Neptune Fountain in Bologna",
+	"subtitle": "The Information System of the Restoration",
+	"authors": "Marco Callieri, Federico Ponchio",
+	"tags": "",
+	"img": "./images/nettuno.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/nettuno",
+	"years": "2016",
+	"body": "The Visual Computing Lab has developed, in collaboration with the Università di Bologna and the Comune di bologna, the Information System for the restoration of the Neptune Fountain, carried out by the Istituto Superiore per il Restauro e la Conservazione – MIBACT. The system heavily uses the high-resolution 3D models of the fountain, as all the annotation, analyses and observations are mapped on the 3D surface of the structure. The system is completely online, and the restorers can access and work on the 3D models directly from the field."
+ },
+
+ {
+	"id": "natural_lighting",
+	"title":"Acquisition of Natural Lighting",
+	"subtitle": "Bringing light from the Real-World to the Virtual Domain",
+	"authors": "",
+	"tags": "",
+	"img": "./images/natural_lighting_teaserWeb.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/natural_lighting",
+	"years": "2015-2016",
+	"body": "The Visual Computing Lab has been collaborating with Linköping University since 2012 to acquire high-quality real-world illumination using HDR videocameras, panoramic cameras, 3D scanners, etc. Furthermore, these two laboratories have spent a huge effort in disseminating this technology that is key for many applications such as visual effects in cinema, video-games, advertising, virtual reality, augmented reality, etc."
+ },
+
+ {
+	"id": "hdri_analysis",
+	"title":"Analysis of High Dynamic Range Images",
+	"subtitle": "A Focus on Inverse Tone Mapping Content",
+	"authors": "",
+	"tags": "",
+	"img": "./images/hdri_analysis_teaserWeb.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/hdri_analysis",
+	"years": "2014-2016",
+	"body": "Since 2014, the Visual Computing Lab has investigated with the CNRS (Paris, France) the quality and detectability of Low Dynamic Range (LDR) or Standard Dynamic Range (SDR) content after being expaded using Inverse Tone Mapping Operators (ITMOs). This work highlights limitations of content expansion and how to detect it."
+ },
+
+ {
+	"id": "static-aware",
+	"title":"Statics Aware Grid Shells",
+	"subtitle": "Polygonal architectural meshes with a stress-field-driven optimizations",
+	"authors": "",
+	"tags": "",
+	"img": "./images/static-aware.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/static-aware",
+	"years": "2015",
+	"body": "This research proposes a framework for designing grid shells with an optimized polygonal tessellation. In contrast to most of the methods in this field that provide for shape alterations while preserving the mesh topology, this method preserves the initial continuous shape as a given input by the designer and alters the tessellation to improve the statics of the structure."
+ },
+
+ {
+	"id": "alchemy",
+	"title":"Alchemy in 3D",
+	"subtitle": "A 3D digitization for a journey into matter",
+	"authors": "Marco Callieri, Paolo Pingi, Marco Potenziani",
+	"tags": "Digital Heritage, Alchemy",
+	"img": "./images/alchemy.jpg",
+	"url": "http://vcg.isti.cnr.it/alchemy",
+	"years": "2014-2015",
+	"body": "The Visual Computing Lab, in collaboration with the Opificio delle Pietre Dure and the Peggy Guggenheim Collection, worked the three-dimensional diagnostic analysis of the painting 'Alchemy' by Jackson Pollock. We created a high-res 3D of the geometry of the painting, usable as metric and scientific documentation, to measure, study and analyze the materic structure of the painting. The 3D models results have then been used to create an interactive kiosk and a physical reproduction of the painting for the exposition 'ALCHEMY BY JACKSON POLLOCK. Discovering the Artist at Work' (Peggy Guggenheim collection, Venice)."
+ },
+ 
+ { 
+	"id": "virtualtour",
+	"title": "VirtualTour",
+	"subtitle": "Virtual navigation on mobile platforms",
+	"authors": "",
+	"tags": "",
+	"img": "images/virtualtour.jpg",
+	"url": "http://vcg.isti.cnr.it/virtualtour/",
+	"years": "2014-15", 
+	"body":"VirtualTour is a virtual reality app for iOS 8 supporting the easy and natural exploration of cultural heritage sites captured with 3D scanning technologies or modeled by artists. Either walking in real-world or slider interaction trigger the navigation on a path in the virtual site. The view is rotated according to device's rotation. Funded by PON 'DICET', Regione Puglia, Italia"
+ },
+
+ { 
+	"id": "leccear",
+	"title": "LecceAR",
+	"subtitle": "Augmented reality on mobile.",
+	"authors": "",
+	"tags": "",
+	"img": "images/leccear.jpg",
+	"url": "http://vcg.isti.cnr.it/LecceAR/",
+	"years": "2014-15", 
+	"body":"LecceAR is an augmented reality app for iOS 8. This allows adding to a real-world scene, seen from a mobile device's camera, with 3D models of cultural heritage sites as they looked in the past. 3D models are displayed when the user points the device's camera towards a planar target which can be a photograph or an image. The rendered 3D model is anchored to this target in a coherent and smooth way according to user's movements. Funded by PON 'DICET', Regione Puglia, Italia"
+ },
+
+ { 
+	"id": "badia",
+	"title":"The Badia Camaldolese in Volterra",
+	"subtitle": "Digitization for study and virtual reconstruction of the church",
+	"authors": "",
+	"tags": "",
+	"img": "images/badia.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/badia",
+	"years": "2013-2014",
+	"body": "This activity was carried out in the framework of the ArTeSalVa project, financed in the line POR-FSE 2007-2013 of Regione Toscana, involving the LARTTE laboratory of Scuola Normale Superiore of Pisa and the Visual Computing Lab of ISTI-CNR. In this project, focused on the analysis and study of historical buildings in an endangered state, we worked on the old Badia Camaldolese in Volterra (Pisa). The work was mostly focused on the church of the Saints Giusto and Clemente, now devoid of the roof and much of the structure. To better understand the history of the building and the events that led to its collapse, in this study, starting from a three-dimensional survey of the current state of the church, we created a virtual reconstruction of pre-collapse of the church."
+ },
+
+ {
+	"id": "griffin",
+	"title":"Pisa Griffin",
+	"subtitle": "A comparative study of three Islamic artworks",
+	"authors": "",
+	"tags": "",
+	"img": "images/griffin.jpg",
+	"url": "http://vcg.isti.cnr.it/griffin",
+	"years": "2011-2014",
+	"body": "The aim of this project is to perform a comparative study of three artworks (bronze casts of Islamic provenance), to discover evidence of similarities and to get new insight on their origin. Probably produced within the Islamic Mediterranean in the eleventh century, the Griffin was brought to Pisa after raids in Majorca. For centuries it was a guardian figure on top of the roof of Pisa Cathedral. The present project is focused on the Griffin but also includes alongside it other bronze animal sculptures such as the Mari-Cha Lion and the Lucca Falcon. Funded by Opera Primaziale Pisana."
+ },
+
+ { 
+	"id": "sposi",
+	"title":"Il Sarcofago degli Sposi",
+	"subtitle": "Online 3D presentation of an Etruscan Sarcophagus",
+	"authors": "",
+	"tags": "",
+	"img": "images/sposi.jpg",
+	"url": "http://vcg.isti.cnr.it/sposi",
+	"years": "2013-2014",
+	"body": "The Visual Computing Lab has carried out the digitization of this Aetruscan masterpiece, conserved at the National Archeological Museum of Villa Giulia, Rome. The 3D model was used in the setup of a temporary exhibition about the Aetruscans and the afterlife."
+ },
+
+ {
+	"id": "swedishpompeii",
+	"title":"The Swedish Pompeii Project",
+	"subtitle": "Supporting the digital documentation and study of Insula V.1 in Pompeii",
+	"authors": "",
+	"tags": "",
+	"img": "./images/swedishpompeii.jpg",
+	"url": "http://vcg.isti.cnr.it/activities/swedishpompeii",
+	"years": "2010-2014",
+	"body": "The Swedish Pompei Project is a research initiative by the Swedish Archeological School. One of the goals of the project is the digital documentation of the Insula V.1. The collaboration with ISTI-CNR focused on a high-quality acquisition of the whole Isula, with the aim of using the three-dimensional data to support the work of experts during the study and documentation of this complex environment."
+ },
+
+ { 
+	"id": "kiosk",
+	"title":"RTI Museum Kiosks",
+	"subtitle": "Web kiosks for coin collections<br/>(Fondazione Palazzo Blu and MIBAC)",
+	"authors": "",
+	"tags": "",
+	"url": "http://vcg.isti.cnr.it/~palma/kiosks/",
+	"img": "images/kiosk.jpg",
+	"years": "2012-2013",
+	"body": "The project proposes an innovative way to present coins collections to better capture the interest of the museum visitors and to give them enhanced information, improving the current exposition setup. The kiosk is easy and intuitive to use for the ordinary public of the museum and it allows the real-time manipulation of RTI (Reflectance Transformation Imaging) of each coin face with a set of basic operations like zooming, panning, flipping the coin, changing of the light direction."
+ }, 
+
+ {
+	"id": "capsella",
+	"title":"Capsella Samagher",
+	"subtitle": "(Museo Archeologico di Venezia)<br/>Digitization and restoration aid",
+	"authors": "",
+	"tags": "",
+	"img": "images/capsella.png",
+	"url": "http://vcg.isti.cnr.it/capsella",
+	"years": "2012-2013",
+	"body": "The goal of this project was the digitization (2D and 3D) of the Capsella Samagher, an early-Christian reliquary in the National Archaeology Museum of Venice. The digitization was a prerequisite for a diagnostic activity and a new initial conservative restoration. This Reliquary (height 18,5 cm, length 20,5 cm, width 16,01), which was discovered in Samagher (Pula, Croatia) in 1906 under the altar of the Church of St. Hermagoras, is in carved ivory with corner reinforcements and silver accessories. Probably of Roman craftsmanship, it is of exceptional value for the history of early Christian art. Funded by Gruppo INTESA SANPAOLO."
+ },
+ 
+ {
+	"id": "tetina",
+	"title":"Etruscan tomb of Sigliano",
+	"subtitle": "3D scanning of the remains of an etruscan tomb and the making of a video",
+	"authors": "",
+	"tags": "",
+	"img": "images/tetina.jpg",
+	"url": "http://vcg.isti.cnr.it/tetina",
+	"years": "2011-2013",
+	"body": "The project, a collaboration between the Visual Computing Lab and the National Archaeological Museum of Umbria (Perugia), has been focused on an Etruscan burial site of Hellenistic age, discovered at the end of the XIX century in Sigliano-Val di Fosso (Perugia), and later destroyed. Its memory survives only in two archival documents and in some artefacts conserved at the National Archaeological Museum of Umbria. The fragmentation and heterogeneity of the materials, however, makes really difficult to provide a 'global' view over this burial site. Thus, we exploited the opportunities offered by digital media, to present to the public the monument as a whole, bringing back its original structures and objects."
+ }
+ 
+]
+
