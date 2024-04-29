@@ -12,9 +12,12 @@ publication: '*Computer Graphics Forum*'
 featured: false
 doi: '10.1111/cgf.13857'
 
-url_source: https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/RealTime_PBGI__Additional.pdf
+links:
+  - name: Additional material
+    url: https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/RealTime_PBGI__Additional.pdf
 url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/RealTime_PBGI.pdf
 url_slides: https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/hdr_pbgi.pptx
+
 image:
 #    caption: 'Image'
     focal_point: ''
