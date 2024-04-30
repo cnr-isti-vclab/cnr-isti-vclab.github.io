@@ -10,6 +10,7 @@ image:
 design:
   view: 2
   columns: '1'
+  css_class: universal-wrapper
 ---
 
 This research track is focused on the use of Computer Graphics in the Cultural Heritage field. Our work is aimed at supporting the study, documentation, management, restoration, and promotion of works of art.

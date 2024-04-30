@@ -20,4 +20,5 @@ content:
 design:
   view: 2
   columns: '1'
+  css_class: universal-wrapper
 ---

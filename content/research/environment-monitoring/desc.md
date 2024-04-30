@@ -10,6 +10,7 @@ image:
 design:
   view: 2
   columns: '1'
+  css_class: universal-wrapper
 ---
 
 The growing popularity of low-cost cameras and data-driven autonomous robotics have made large-scale imaging increasingly popular in environmental monitoring. 

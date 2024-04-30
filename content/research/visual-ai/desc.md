@@ -10,6 +10,7 @@ image:
 design:
   view: 2
   columns: '1'
+  css_class: universal-wrapper
 ---
 
 Research on the foundational themes of Computer graphis like quad meshing, texture parametrization, Hexahedral Meshing, etc. has been always one of the basic line of our lab.

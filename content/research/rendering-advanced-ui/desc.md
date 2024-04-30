@@ -10,6 +10,7 @@ image:
 design:
   view: 2
   columns: '1'
+  css_class: universal-wrapper
 ---
 
 The research activities investigate innovative algorithms to use raw acquired 3D data in real-time rendering. The proposed methods provide robust solutions to improve the rendering quality of big 3D scanning data by combining transparency, ambient occlusion, and point cloud rendering. Additionally, real 3D point clouds are proposed as an approximate radiance cache for the real-time relighting of virtual objects inside the acquired environment using a new Point-Based Global Illumination algorithm. 

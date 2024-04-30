@@ -10,6 +10,7 @@ image:
 design:
   view: 2
   columns: '1'
+  css_class: universal-wrapper
 ---
 
 The development of computational tools and manufacturing techniques is continuously pushing forward the limit of feasible shapes in architecture. Along with new creative freeforms, new issues arise on structural design, economic sustainability and, more generally, on architectural style. These challenges ask for a new approach to architectural design where form is driven by statics, manufacturing, material compliance, and other aspects which have implications on construction and cost, but are not disruptive to the creative aim.

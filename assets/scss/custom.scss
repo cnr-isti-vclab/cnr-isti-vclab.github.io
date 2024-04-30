@@ -76,3 +76,21 @@ background: #1d2127 !important;
 {
     padding-top: 2em !important;
 }
+
+@media only screen and (min-width: 1001px) {
+  #profile-page {
+    width: 1000px;
+    margin: 0 auto;    
+    }
+}
+
+#profile-page .article-widget
+{
+    display: none;
+}
+
+@media (min-width: 992px) {
+    .people-widget .col-sm-auto {
+        width: 25%;
+    }
+}
