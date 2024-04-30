@@ -3,6 +3,7 @@ title: "A 'digital Loggia' for Raphael and his workshop in Villa Farnesina, Rome
 date: 2020-10-06
 image:
   focal_point: 'top'
+reading_time: false
 ---
 
 An Interactive Digital System was developed by Gianpaolo Palma and Eliana Siotto of the Visual Computing Lab of ISTI-CNR to explore the frescoed ceiling of the Loggia of Cupid and Psyche at the time of the COVID-19. [The system](http://vcg.isti.cnr.it/farnesina/loggia) was created in collaboration with the [Accademia Nazionale dei Lincei](https://www.lincei.it/it) within the celebrations for the fifth centenary of Raphael's death, and it is mentioned among the "[136 reopening projects in Italy and worldwide](https://www.ilgiornaledellarte.com/articoli/il-giornale-dell-arte-di-maggio/133265.html)".
