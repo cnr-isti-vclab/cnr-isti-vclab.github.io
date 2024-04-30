@@ -22,6 +22,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      css_class: universal-wrapper
 
   - block: markdown
     content:
@@ -29,6 +30,8 @@ sections:
       text: |
         - [Roberto Scopigno](https://vcg.isti.cnr.it/~scopigno/) - *Research Director, currently director of ISTI*
         - [Claudio Montani](https://vcg.isti.cnr.it/~montani/) - *Research Director, Retired*
+    design:
+      css_class: universal-wrapper
         
 
   - block: markdown
@@ -61,4 +64,6 @@ sections:
         - Claudio Rocchini - *Research Fellow*
         - Manuele Sabbadin - *Phd*
         - Andrea Spinelli - *Research Fellow*
+    design:
+      css_class: universal-wrapper
 ---

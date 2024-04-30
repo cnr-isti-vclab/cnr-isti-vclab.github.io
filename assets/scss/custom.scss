@@ -54,3 +54,25 @@
   padding-left: 1rem !important;
   padding-right: 1rem !important;
 }
+
+body.dark, .dark .docs-toc-link, .dark .modal button.close, .dark input {
+background: #1d2127 !important; 
+}
+
+.home-section:nth-of-type(even) {
+    background: white !important;
+}
+
+.dark .home-section:nth-of-type(even) {
+    background: #1d2127 !important;
+}
+
+.home-section
+{
+    padding: 2em 0 !important;
+}
+
+.gallery-grid
+{
+    padding-top: 2em !important;
+}
