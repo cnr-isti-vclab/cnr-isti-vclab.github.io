@@ -5,6 +5,7 @@ authors: []
 tags: 
 - 
 
+date: 2014-01-01
 show_date: false
 
 external_link: "http://vcg.isti.cnr.it/griffin"

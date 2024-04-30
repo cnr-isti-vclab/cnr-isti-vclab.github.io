@@ -6,6 +6,7 @@ tags:
 - Digital Heritage
 - Alchemy
 
+date: 2015-01-01
 show_date: false
 
 external_link: "http://vcg.isti.cnr.it/alchemy"
