@@ -1,5 +1,5 @@
 ---
-title: Research Lines
+title: Research
 
 # Listing view
 #view: publications
