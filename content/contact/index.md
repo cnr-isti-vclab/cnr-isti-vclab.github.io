@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: ''
-      email: test@example.org
-      phone: 888 888 88 88
+      email: p.cignoni@isti.cnr.it
+      phone: +39 050 3152926
       address:
         street: Via Giuseppe Moruzzi, 1
         city: Pisa
