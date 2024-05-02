@@ -1,0 +1,26 @@
+<html>
+<head>
+<script>
+
+function toggleFunction(a) {
+    if (a.classList.contains("toggle"))
+        a.classList.remove("toggle");
+    else
+        a.classList.add("toggle");
+};
+
+window.onload = function() {
+    var links = document.querySelectorAll( '#section-collection.activities .article-style' );
+    for( i=0; i<links.length; i++ ) {
+        links[i].onclick = function(){toggleFunction(this);};
+    }
+    
+    var links = document.querySelectorAll( '#section-collection.activities .summary-link' );
+    for( i=0; i<links.length; i++ ) {
+        links[i].removeAttribute("href");
+    }
+};
+</script>
+</head>
+<body/>
+</html>

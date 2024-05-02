@@ -1,6 +1,6 @@
 ---
 title: "VirtualTour"
-summary: "[2014-15] Virtual navigation on mobile platforms <p onclick='this.style.display=\"block\"; event.preventDefault();' style='overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;'>VirtualTour is a virtual reality app for iOS 8 supporting the easy and natural exploration of cultural heritage sites captured with 3D scanning technologies or modeled by artists. Either walking in real-world or slider interaction trigger the navigation on a path in the virtual site. The view is rotated according to device's rotation. Funded by PON 'DICET', Regione Puglia, Italia</p>"
+summary: "_[2014-15] Virtual navigation on mobile platforms_<p class=\"summary\">VirtualTour is a virtual reality app for iOS 8 supporting the easy and natural exploration of cultural heritage sites captured with 3D scanning technologies or modeled by artists. Either walking in real-world or slider interaction trigger the navigation on a path in the virtual site. The view is rotated according to device's rotation. Funded by PON 'DICET', Regione Puglia, Italia</p>"
 authors: []
 tags: 
 - 

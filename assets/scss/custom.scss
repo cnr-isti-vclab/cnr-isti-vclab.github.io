@@ -94,3 +94,30 @@ background: #1d2127 !important;
         width: 25%;
     }
 }
+
+
+/*.activities .col-md-6
+{
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+
+.activities .col-md-6.order-first
+{
+    flex: 0 0 20% !important;
+    max-width: 20% !important;
+}*/
+
+
+#section-collection.activities p.summary
+{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+#section-collection.activities .article-style.toggle p.summary
+{
+     display: block;
+}

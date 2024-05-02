@@ -23,5 +23,5 @@ sections:
     design:
       view: compact 
       columns: '1'
-      css_class: universal-wrapper
+      css_class: universal-wrapper activities
 ---
