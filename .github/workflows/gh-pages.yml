@@ -35,7 +35,8 @@ jobs:
           switches: -avzr --dry-run
           path: ./public/
           remote_path: ${{ secrets.HUGO_PATH }}
+          remote_port: ${{ secrets.HUGO_PORT }}
           remote_host: ${{ secrets.HUGO_HOST }}
           remote_user: ${{ secrets.HUGO_USER }}
-          remote_password: ${{ secrets.HUGO_PASSWORD }}
+          remote_key_pass: ${{ secrets.HUGO_PASSWORD }}
           remote_key: ${{ secrets.HUGO_KEY }}
