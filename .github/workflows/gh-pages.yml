@@ -28,3 +28,14 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: rsync deployments
+        uses: burnett01/rsync-deployments@5.2
+        with:
+          switches: -avzr --dry-run
+          path: ./public/
+          remote_path: ${{ secrets.HUGO_PATH }}
+          remote_host: ${{ secrets.HUGO_HOST }}
+          remote_user: ${{ secrets.HUGO_USER }}
+          remote_password: ${{ secrets.HUGO_PASSWORD }}
+          remote_key: ${{ secrets.HUGO_KEY }}
