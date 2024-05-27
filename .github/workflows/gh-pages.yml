@@ -32,7 +32,7 @@ jobs:
       - name: rsync deployments
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: -avzr --dry-run
+          switches: -avzr
           legacy_allow_rsa_hostkeys: "true"
           path: ./public/
           remote_path: ${{ secrets.HUGO_PATH }}
