@@ -15,7 +15,7 @@ weight: 1605
 superuser: false
 
 # Role/position
-role: Pos-Doc Researcher
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Technologies for Cultural Heritage
+bio: Architectural Geometry
 
 interests:
   - Architectural geometry
