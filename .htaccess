@@ -4,3 +4,66 @@ RewriteEngine On
 RewriteBase /
 RewriteRule ^Publication/(.*)$ /publication/$1 [L,R=302]
 
+RewriteRule ^~([^/]+)$ ~$1/ [L,R]
+RewriteRule ^~(.*) /homepages/$1 [L]
+
+
+#ACTIVITIES
+
+RewriteRule ^alchemy$ /activities/alchemy/ [L,R]
+RewriteRule ^alchemy(.*) /activities/alchemy/$1 [L,R=301]
+
+RewriteRule ^cross$ /activities/cross/ [L,R]
+RewriteRule ^cross(.*) /activities/cross/$1 [L,R=301]
+
+RewriteRule ^exploremaps$ /activities/exploremaps/ [L,R]
+RewriteRule ^exploremaps(.*) /activities/exploremaps/$1 [L,R=301]
+
+RewriteRule ^farnesina$ /activities/farnesina/ [L,R]
+RewriteRule ^farnesina(.*) /activities/farnesina/$1 [L,R=301]
+
+RewriteRule ^griffin$ /activities/griffin/ [L,R]
+RewriteRule ^griffin(.*) /activities/griffin/$1 [L,R=301]
+
+RewriteRule ^PalazzoBlu$ /activities/PalazzoBlu/ [L,R]
+RewriteRule ^PalazzoBlu(.*) /activities/PalazzoBlu/$1 [L,R=301]
+
+RewriteRule ^Palmieri$ /activities/Palmieri/ [L,R]
+RewriteRule ^Palmieri(.*) /activities/Palmieri/$1 [L,R=301]
+
+RewriteRule ^roman-sarcophagi$ /activities/roman-sarcophagi/ [L,R]
+RewriteRule ^roman-sarcophagi(.*) /activities/roman-sarcophagi/$1 [L,R=301]
+
+RewriteRule ^SanMatteo$ /activities/SanMatteo/ [L,R]
+RewriteRule ^SanMatteo(.*) /activities/SanMatteo/$1 [L,R=301]
+
+RewriteRule ^sposi$ /activities/sposi/ [L,R]
+RewriteRule ^sposi(.*) /activities/sposi/$1 [L,R=301]
+
+RewriteRule ^tetina$ /activities/tetina/ [L,R]
+RewriteRule ^tetina(.*) /activities/tetina/$1 [L,R=301]
+
+RewriteRule ^VCG_Armenian_Kiosk$ /activities/VCG_Armenian_Kiosk/ [L,R]
+RewriteRule ^VCG_Armenian_Kiosk(.*) /activities/armeniancodices/$1 [L,R=301]
+
+RewriteRule ^VCG_EcceHomo_Kiosk$ /activities/VCG_EcceHomo_Kiosk/ [L,R]
+RewriteRule ^VCG_EcceHomo_Kiosk(.*) /activities/eccehomo/$1 [L,R=301]
+
+
+
+#TOOLS
+
+RewriteRule ^corto$ /vcgtools/corto/ [L,R]
+RewriteRule ^corto(.*) /vcgtools/corto/$1 [L,R=301]
+
+RewriteRule ^relight$ /vcgtools/relight/ [L,R]
+RewriteRule ^relight(.*) /vcgtools/relight/$1 [L,R=301]
+
+RewriteRule ^spidergl$ /vcgtools/spidergl/ [L,R]
+RewriteRule ^spidergl(.*) /vcgtools/spidergl/$1 [L,R=301]
+
+#EVENTS
+
+RewriteRule ^icip2022-itmo-challenge$ /vcgevents/icip2022-itmo-challenge/ [L,R]
+RewriteRule ^icip2022-itmo-challenge(.*) /vcgevents/icip2022-itmo-challenge/$1 [L,R=301]
+
