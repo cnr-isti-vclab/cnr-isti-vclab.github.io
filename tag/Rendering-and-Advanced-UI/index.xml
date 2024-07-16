@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rendering and Advanced UI | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/tag/Rendering-and-Advanced-UI/</link><atom:link href="http://vcg.isti.cnr.it/tag/Rendering-and-Advanced-UI/index.xml" rel="self" type="application/rss+xml"/><description>Rendering and Advanced UI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Rendering and Advanced UI</title><link>http://vcg.isti.cnr.it/tag/Rendering-and-Advanced-UI/</link></image><item><title>Social and hUman ceNtered XR</title><link>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</guid><description/></item><item><title>Augmented Virtuality Using Touch-Sensitive 3D-Printed Objects</title><link>http://vcg.isti.cnr.it/publication/2021/PPC21/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PPC21/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rendering and Advanced UI | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/tag/Rendering-and-Advanced-UI/</link><atom:link href="http://vcg.isti.cnr.it/tag/Rendering-and-Advanced-UI/index.xml" rel="self" type="application/rss+xml"/><description>Rendering and Advanced UI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>http://vcg.isti.cnr.it/media/icon_hu99235f83657eda8c6e6761af9b1430df_128410_512x512_fill_lanczos_center_3.png</url><title>Rendering and Advanced UI</title><link>http://vcg.isti.cnr.it/tag/Rendering-and-Advanced-UI/</link></image><item><title>Capacitive Touch Sensing on General 3D Surfaces</title><link>http://vcg.isti.cnr.it/publication/2024/PPSC24-3dTouch/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2024/PPSC24-3dTouch/</guid><description>&lt;p>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2024/PPSC24-3dTouch/papers_637s3.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2024/PPSC24-3dTouch/maxPlanck.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure class="pubFig" >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2024/PPSC24-3dTouch/cube.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/m8gcV1zCJX0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>Social and hUman ceNtered XR</title><link>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2023/VCC23-SunItalIA/</guid><description/></item><item><title>Augmented Virtuality Using Touch-Sensitive 3D-Printed Objects</title><link>http://vcg.isti.cnr.it/publication/2021/PPC21/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2021/PPC21/</guid><description>&lt;p>
 &lt;figure class="pubFig" >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://vcgdata.isti.cnr.it/Publications/2021/PPC21/system.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
