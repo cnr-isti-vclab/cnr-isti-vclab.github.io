@@ -8,7 +8,7 @@ tags:
 date: 2013-01-01
 show_date: false
 
-external_link: "http://vcg.isti.cnr.it/~palma/kiosks/"
+external_link: "http://vcg.isti.cnr.it/activities/kiosks/"
 
 image:
   caption: ""

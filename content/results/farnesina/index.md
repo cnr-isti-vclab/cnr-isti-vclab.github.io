@@ -8,7 +8,7 @@ tags:
 date: 2017-01-01
 show_date: false
 
-external_link: "http://vcg.isti.cnr.it/activities/farnesina"
+external_link: "http://vcg.isti.cnr.it/activities/farnesina.old"
 
 image:
   caption: ""
