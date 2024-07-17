@@ -46,6 +46,7 @@ sections:
         - Rita Borgo - *Phd*
         - Paolo Brivio - *Phd*
         - Giuseppe Croccia - *Research Fellow*
+        - Francesca Demitry - Administration
         - Marco Di Benedetto - *Phd, Research Fellow*
         - Daniele Duranti - *Phd*
         - Irene Filoscia - *Research Fellow*
