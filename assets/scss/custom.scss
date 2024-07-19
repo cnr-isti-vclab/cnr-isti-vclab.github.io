@@ -140,3 +140,40 @@ body:not(.dark) .logo_dark {
     margin: 0px !important;
     padding: 0.5em;
 }
+
+.site-footer .d-lg-inline-flex
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.site-footer .navbar-brand
+{
+    margin: 0px !important;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+.site-footer .social img
+{
+    max-height: 40px;
+}
+
+footer p
+{
+    margin-bottom: 0px !important;
+}
+
+.page-footer .container
+{
+    max-width: 100% !important;
+    box-shadow: 0 -0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
+}
+
+.dark .page-footer .container
+{
+    max-width: 100% !important;
+    box-shadow: 0 -0.125rem 0.25rem 0 rgba(255, 255, 255, 0.11);
+}

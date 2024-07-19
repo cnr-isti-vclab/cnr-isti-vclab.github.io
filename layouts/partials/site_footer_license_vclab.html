@@ -1,0 +1,160 @@
+{{/* Display copyright license. */}}
+
+
+{{ $show_social := site.Params.footer.show_social | default true }}
+{{ $has_x := fileExists "assets/media/X-c.png" }}
+{{ $has_youtube := fileExists "assets/media/youtube-c.png" }}
+{{ $has_x_white := fileExists "assets/media/X.png" }}
+{{ $has_youtube_white := fileExists "assets/media/youtube.png" }}
+{{ $logoX := "" }}
+{{ if $has_x }}
+  {{ $logoX = (partial "blox-core/functions/get_logo" (dict "name" "X-c" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+{{ $logoXWhite := "" }}
+{{ if $has_x_white }}
+  {{ $logoXWhite = (partial "blox-core/functions/get_logo" (dict "name" "X" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+{{ $logoYoutube := "" }}
+{{ if $has_youtube }}
+  {{ $logoYoutube = (partial "blox-core/functions/get_logo" (dict "name" "youtube-c" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+{{ $logoYoutubeWhite := "" }}
+{{ if $has_youtube_white }}
+  {{ $logoYoutubeWhite = (partial "blox-core/functions/get_logo" (dict "name" "youtube" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+
+{{- if $show_social -}}
+<div class="powered-by social">
+    <div class="d-lg-inline-flex">
+        {{if $has_x}}
+        <a class="navbar-brand" href="https://twitter.com/visualcnr?lang=en">
+            <img src="{{ $logoX.RelPermalink }}" alt="X" class="logo_light"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+            <img src="{{ $logoXWhite.RelPermalink }}" alt="X" class="logo_dark"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        </a>
+        {{end}}
+        
+         {{if $has_youtube}}
+        <a class="navbar-brand" href="https://www.youtube.com/@VisualComputingLab">
+            <img src="{{ $logoYoutube.RelPermalink }}" alt="Youtube" class="logo_light"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+            <img src="{{ $logoYoutubeWhite.RelPermalink }}" alt="Youtube" class="logo_dark"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        </a>
+         {{end}}
+               
+      </div>
+</div>
+{{- end -}}
+
+
+
+{{/* Get site logo. */}}
+{{ $show_logo := site.Params.footer.show_logo | default true }}
+{{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
+{{ $has_cnr_logo := fileExists "assets/media/cnr_large.png" | or (fileExists "assets/media/cnr_large.svg") }}
+{{ $has_isti_logo := fileExists "assets/media/isti_large.png" | or (fileExists "assets/media/isti_large.svg") }}
+{{ $has_cnr_logo_white := fileExists "assets/media/cnr_large_white.png" | or (fileExists "assets/media/cnr_large_white.svg") }}
+{{ $has_isti_logo_white := fileExists "assets/media/isti_large_white.png" | or (fileExists "assets/media/isti_large_white.svg") }}
+{{ $logo := "" }}
+{{ if $has_logo }}
+  {{ $logo = (partial "blox-core/functions/get_logo" (dict "name" "logo" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+{{ $logoCnr := "" }}
+{{ if $has_cnr_logo }}
+  {{ $logoCnr = (partial "blox-core/functions/get_logo" (dict "name" "cnr_large" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+{{ $logoIsti := "" }}
+{{ if $has_isti_logo }}
+  {{ $logoIsti = (partial "blox-core/functions/get_logo" (dict "name" "isti_large" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+{{ $logoCnrWhite := "" }}
+{{ if $has_cnr_logo_white }}
+  {{ $logoCnrWhite = (partial "blox-core/functions/get_logo" (dict "name" "cnr_large_white" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+{{ $logoIstiWhite := "" }}
+{{ if $has_isti_logo_white }}
+  {{ $logoIstiWhite = (partial "blox-core/functions/get_logo" (dict "name" "isti_large_white" "constraint" "max_height" "size" 140)) }}
+{{ end }}
+
+
+{{- if $show_logo -}}
+<div class="powered-by logos">
+    <div class="d-lg-inline-flex">
+        {{if $has_cnr_logo}}
+        <a class="navbar-brand" href="https:\\www.cnr.it">
+            <img src="{{ $logoCnr.RelPermalink }}" alt="CNR" class="logo_light"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+            <img src="{{ $logoCnrWhite.RelPermalink }}" alt="CNR" class="logo_dark"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        </a>
+        {{end}}
+        
+         {{if $has_isti_logo}}
+        <a class="navbar-brand" href="https:\\www.isti.cnr.it">
+            <img src="{{ $logoIsti.RelPermalink }}" alt="ISTI" class="logo_light"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+            <img src="{{ $logoIstiWhite.RelPermalink }}" alt="ISTI" class="logo_dark"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        </a>
+         {{end}}
+         
+         {{if $has_logo}}
+        <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
+            <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        </a>
+         {{end}}
+        
+      </div>
+</div>
+{{- end -}}
+
+
+{{ $copyright_license := .Params.copyright.license | default site.Params.footer.copyright.license }}
+{{ $notice := .Params.copyright.notice | default site.Params.footer.copyright.notice }}
+
+{{ if ($copyright_license.enable | default false) }}
+
+  {{ $allow_commercial := $copyright_license.allow_commercial | default false }}
+  {{ $allow_derivatives := $copyright_license.allow_derivatives | default false }}
+  {{ $share_alike := $copyright_license.share_alike | default true }}
+
+  {{ $cc_code := "by" }}
+  {{ if not $allow_commercial }}
+    {{ $cc_code = printf "%s-nc" $cc_code }}
+  {{end}}
+  {{ if and $allow_derivatives $share_alike }}
+    {{ $cc_code = printf "%s-sa" $cc_code }}
+  {{ else if not $allow_derivatives }}
+    {{ $cc_code = printf "%s-nd" $cc_code }}
+  {{end}}
+
+  {{ $license_url := printf "https://creativecommons.org/licenses/%s/4.0" ($cc_code | urlize) }}
+
+  {{ with $notice }}
+  <p class="powered-by copyright-license-text">
+    {{ replace (replace . "{year}" now.Year) "{license}" (printf "<a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">CC %s 4.0</a>" $license_url (replace $cc_code "-" " " | upper)) | markdownify }}
+  </p>
+  {{ end }}
+
+
+{{ else }}
+
+  {{ with $notice }}
+  <p class="powered-by copyright-license-text">
+    {{ replace . "{year}" now.Year | markdownify }}
+  </p>
+  {{ end }}
+
+{{ end }}
