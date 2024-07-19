@@ -121,3 +121,22 @@ background: #1d2127 !important;
 {
      display: block;
 }
+
+
+body:not(.dark) .logo_dark {
+  display: none;
+}
+.dark .logo_light {
+  display: none;
+}
+
+.navbar-brand-mobile-wrapper
+{
+    justify-content: center;
+}
+
+.navbar-brand-mobile-wrapper .navbar-brand
+{
+    margin: 0px !important;
+    padding: 0.5em;
+}
