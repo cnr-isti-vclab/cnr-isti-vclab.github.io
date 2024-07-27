@@ -40,12 +40,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: home
+    icon_pack: fas
+    link: https://vcg.isti.cnr.it/~potenziani/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:marco.potenziani@isti.cnr.it'
-# - icon: orcid
-#   icon_pack: fab
-#   link: https://orcid.org/0000-0003-4644-4638
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-4644-4638
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=8X7NwJMAAAAJ
