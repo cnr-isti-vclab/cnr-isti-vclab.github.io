@@ -30,12 +30,13 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Computer-Aided Design, Volume 168, March 2024*'
-publication_short: 'CAD'
+# publication_short: 'CAD'
 
 abstract: 'We introduce a new method for designing reinforcement for grid shells and improving their resistance to out-of-plane forces inducing bending. The central concept is to support the base network of elements with an additional layer of beams placed at a certain distance from the base surface. We exploit two main techniques to design these structures: first, we derive the orientation of the beam network on a given initial surface forming the grid shell to be reinforced; then, we compute the height of the additional layer that maximizes its overall structural performance. Our method includes a new formulation to derive a smooth direction field that orients the quad remeshing and a novel algorithm that iteratively optimizes the height of the additional layer to minimize the structure’s compliance. We couple our optimization strategy with a set of constraints to improve buildability of the network and, simultaneously, preserve the initial surface. We showcase our method on a significant dataset of shapes to demonstrate its applicability to cases where free-form grid shells do not exhibit adequate structural performance due to their geometry.'
 
 # Summary. An optional shortened abstract, it appears in the list of publications.
-summary: A new method for designing reinforcement for grid shells and improving their resistance to out-of-plane forces inducing bending.
+summary: 
+# summary: A new method for designing reinforcement for grid shells and improving their resistance to out-of-plane forces inducing bending.
 # Add keywords here (example keywords below)
 tags:
 # - Digital Heritage 

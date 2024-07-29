@@ -32,12 +32,12 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Computers & Graphics*'
-publication_short: 'CAG'
+# publication_short: 'CAG'
 
 abstract: 'This paper addresses the design of surface shells as assemblies of tileable, flat geometric patterns with predictable performance in response to mechanical stimuli. We design a family of tileable and fabricable patterns represented as triangle meshes, which can be assembled for creating surface tessellations. First, a regular recursive subdivision of the planar space generates different geometric configurations for candidate patterns, having interesting and varied aesthetic properties. Then, a refinement step addresses manufacturability by solving for non-manifold configurations and sharp angles that would produce disconnected or weak patterns. We devise a strategy for creating continuous variations on the geometry of individual patterns, in both aesthetics and behavior, to enrich the catalog of available designs. Finally, we simulate our patterns to evaluate their mechanical response when loaded in different scenarios targeting out-of-plane bending. Through a simple browsing interface, we show that our patterns span a variety of different bending behaviors. The result is a catalog of patterns with varied aesthetics and predefined mechanical behavior, to use for the direct design of mechanical metamaterials. To assess the feasibility of our design-to-fabricate approach, we show fabricated 3D objects with different curvatures, and compare physical and simulated experiments.'
 
 # Summary. An optional shortened abstract, it appears in the list of publications.
-summary: We design a family of tileable and fabricable patterns represented as triangle meshes, which can be assembled for creating surface tessellations.
+summary: 
 # Add keywords here (example keywords below)
 tags:
 # - Digital Heritage 
