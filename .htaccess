@@ -51,6 +51,8 @@ RewriteRule ^VCG_Armenian_Kiosk(.*) /activities/armeniancodices/$1 [L,R=301]
 RewriteRule ^VCG_EcceHomo_Kiosk$ /activities/VCG_EcceHomo_Kiosk/ [L,R]
 RewriteRule ^VCG_EcceHomo_Kiosk(.*) /activities/eccehomo/$1 [L,R=301]
 
+RewriteRule ^guido$ /activities/guido/ [L,R]
+RewriteRule ^guido(.*) /activities/guido/$1 [L,R=301]
 
 
 #TOOLS
