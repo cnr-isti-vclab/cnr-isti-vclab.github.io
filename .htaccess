@@ -1,4 +1,4 @@
-
+Options +Indexes
 RewriteEngine On
 
 RewriteBase /
