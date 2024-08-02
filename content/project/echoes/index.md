@@ -7,10 +7,9 @@ Funded by the European Commission and UK Research and Innovation (UKRI), ECHOES 
 <br><br>
 _ECHOES is a project funded by the European Commission under Grant Agreement n.101157364_<br>
 _Start Date 2024-06-01 End Date 2029-05-31_"
-authors: [massimiliano-corsini]
+authors: [paolo-cignoni]
 tags: 
-- geometry processing
-- 3d reconstruction 
+- Digital Heritage
 categories: []
 date: 2024-06-01T10:39:08+01:00
 
