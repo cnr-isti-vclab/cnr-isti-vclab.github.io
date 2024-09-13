@@ -13,7 +13,7 @@ categories: []
 date: 2023-01-02
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://sites.google.com/uniroma1.it/changes/"
+external_link: "https://www.fondazionechanges.org/"
 projects_class: Active
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
