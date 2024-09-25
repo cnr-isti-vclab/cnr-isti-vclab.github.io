@@ -43,3 +43,6 @@ image:
   preview_only: false
 
 ---
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2024/P24-Alignable/models.jpg" >}}
+{{< figure src="https://vcgdata.isti.cnr.it/Publications/2024/P24-Alignable/teaser2.jpg" >}}
+
