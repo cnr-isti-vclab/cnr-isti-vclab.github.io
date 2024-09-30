@@ -14,12 +14,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Digital Technologies for Cultural Heritage
+bio: Imaging, 3D, and AI 
 
 interests:
-  - ...
-  - ...
-  - ...
+  - Graphics & Vision 
+  - Geometry Processing
+  - Artificial Intelligence
+  - Visualization
 
 education:
   courses:
@@ -69,6 +70,6 @@ user_groups:
 Massimiliano Corsini is a senior researcher at the Visual Computing Laboratory of the ISTI-CNR in Pisa, Italy.
 
 For several years, he worked on appearance and shape acquisition of real objects, advanced visualization for Cultural Heritage applications, 
-and visual media productions. His current research regards the applications of Artificial Intelligence, Computer Graphics, 
-and Computer Vision to Environmental Monitoring, Digital Humanities, Mobile Robotics, and Visual Analytics. 
+and visual media productions. His current research regards the applications of Computer Graphics, Computer Vision, 
+and Artificial Intelligence, to Environmental Monitoring, Digital Humanities, Mobile Robotics, and Visual Analytics. 
 
