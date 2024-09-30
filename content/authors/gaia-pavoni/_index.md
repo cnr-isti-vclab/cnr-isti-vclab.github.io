@@ -25,21 +25,20 @@ organizations:
 bio: Environmental Monitoring
 
 interests:
-  - Architectural geometry
-  - Structural engineering
-  - Computational design
-  - Structural optimization
-  - Digital fabrication
+  - Human-centered AI
+  - Automatic recognition
+  - Computer Vision
+  - Geometry processing
 
 
 education:
   courses:
-    - course: PhD in Structural Engineering cum Laude (Tecnica delle Costruzioni ICAR/09)
+    - course: PhD in Information Engineering
       institution: University of Pisa
-      year: 2019
-    - course: Master Degree in Civil Engineering cum Laude 
-      institution: University of Pisa
-      year: 2014
+      year: 2020
+    - course: Master Degree in Applied Mathematics
+      institution: University of Roma Tor Vergata
+      year: 2011
 
 
 # Social/Academic Networking
@@ -49,19 +48,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:francesco.laccone@isti.cnr.it'
+    link: 'mailto:gaia.pavoni@isti.cnr.it'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.it/citations?user=fU06Wc0AAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=it&user=v37SiqcAAAAJ
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0002-3787-7215
+    link: https://orcid.org/0000-0003-4083-3835
   - icon: github
     icon_pack: fab
-    link: https://github.com/flaccone
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/f_laccone
+    link: https://github.com/cnr-isti-vclab/TagLab
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -80,4 +77,6 @@ user_groups:
   - Researchers
 ---
 
-I am a Researcher at the ISTI - CNR in Pisa. My research focuses on ...
+I'm a Researcher at the Visual Computing Lab at CNR-ISTI (National Research Council of Italy, Institute of Information Science and Technologies).
+I am involved in developing IT tools using computer vision, geometric processing, and AI for environmental monitoring and cultural heritage investigations.
+Since 2021, I have served as a software architect for the interactive annotation software TagLab, widely adopted in coral reef ecology.
