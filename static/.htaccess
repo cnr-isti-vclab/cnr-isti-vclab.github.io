@@ -9,6 +9,19 @@ RewriteRule ^Publications/(.*)$ /publication/$1 [L,R=302]
 RewriteRule ^~([^/]+)$ ~$1/ [L,R]
 RewriteRule ^~(.*) /homepages/$1 [L]
 
+#HOMEPAGES
+RewriteRule ^deformFactors$ /homepages/tarini/deformFactors [L,R]
+RewriteRule ^deformFactors(.*) /homepages/tarini/deformFactors/$1 [L]
+
+RewriteRule ^polycubemaps$ /homepages/tarini/polycubemaps [L,R]
+RewriteRule ^polycubemaps(.*) /homepages/tarini/polycubemaps/$1 [L]
+
+RewriteRule ^volume-encoded-uv-maps$ /homepages/tarini/volume-encoded-uv-maps [L,R]
+RewriteRule ^volume-encoded-uv-maps(.*) /homepages/tarini/volume-encoded-uv-maps/$1 [L]
+
+RewriteRule ^polycubemaps$ /homepages/tarini/polycubemaps [L,R]
+RewriteRule ^polycubemaps(.*) /homepages/tarini/polycubemaps/$1 [L]
+
 
 #ACTIVITIES
 
