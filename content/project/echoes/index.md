@@ -12,6 +12,7 @@ tags:
 - Digital Heritage
 categories: []
 date: 2024-06-01T10:39:08+01:00
+weight: 202406
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.echoes-eccch.eu"

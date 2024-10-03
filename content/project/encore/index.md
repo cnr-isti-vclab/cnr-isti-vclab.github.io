@@ -1,6 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+# delete the following three lines if you want that your page appears:
+_build:
+  render: always
+  list: never
 title: "Encore"
 summary: "ENergy aware BIM Cloud Platform in a COst-effective Building REnovation Context"
 authors: [paolo-cignoni]

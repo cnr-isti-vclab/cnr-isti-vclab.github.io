@@ -1,19 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+_build:
+  render: always
+  list: never
+  
 title: "Evocation"
 summary: "Advanced Visual and Geometric Computing for 3D Capture, Display, and Fabrication"
 authors:
-  - Andrea Favilli
-  - Francesco Laccone 
   - Paolo Cignoni 
-  - Luigi Malomo 
-  - Daniela Giorgi
 tags: 
 - digital fabrication 
 - geometry processing
 categories: []
 date: 2023-01-20T10:39:08+01:00
+weight: 201810
+
 project_reference: "2018-2022 H2020-MSCA-ITN-2018 Innovative Training Networks (ITN)"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://evocation.eu/"
