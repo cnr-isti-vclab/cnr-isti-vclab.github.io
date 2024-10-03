@@ -3,7 +3,7 @@
 title: Gaia Pavoni
 first_name: Gaia
 last_name: Pavoni
-weight: 1200
+weight: 1601
 # delete the following three lines if you want that your page appears:
 #_build:
 #  render: always
