@@ -39,7 +39,7 @@ sections:
       title: Former Members
       text: |
         - Francesca De Mitry - *Administration* (moved to a different department in 2024)
-        - Thomas Alderighi - *Phd & Research Fellow* (since 2023 ANSYS)_
+        - Thomas Alderighi - *Phd & Research Fellow* (since 2023 ANSYS)
         - Andrea Maggiordomo - *Phd* - (since 2023 NVIDIA)*
         - [Nico Pietroni](https://www.nicopietroni.com/)  *researcher*  (moved in 2017 to UNIVERSITY OF TECHNOLOGY SYDNEY)
         - Guido Ranzuglia *Research Fellow* (moved in 2017 UTS Rapido Sydney)

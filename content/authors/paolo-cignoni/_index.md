@@ -25,18 +25,18 @@ organizations:
 bio: 
 
 # List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
+# interests:
+# - Interest 1
+# - Interest 2
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+# education:
+#   courses:
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -64,8 +64,15 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-courses: ["geometry"]
-research: ["geometry-processing"]
+# education:
+#   teaching:
+#     - course: PhD in Computer Science
+#       institution: University of Pisa
+#       year: 2018
+#     - course: Master Degree in Information Engineering
+#       institution: University of Siena
+#       year: 2013
+# research: ["geometry-processing"]
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -79,9 +86,14 @@ user_groups:
 - Group 2
 ---
 
-Dr. **Paolo Cignoni** is a Research Director with CNR-ISTI where he leads the Visual Computing Laboratory. He received a Ph.D. Degree in Computer Science at the University of Pisa in 1998. He has been awarded "Best Young Researcher" by the Eurographics association in 2004. His research interests cover many Computer Graphics fields like geometry processing, 3D scanning data processing, digital fabrication, scientific visualisation and digital heritage.
-He teaches the main 3D Graphics course at the University of Pisa since more than 10 years. 
+Dr. **Paolo Cignoni** is a Research Director with [CNR-ISTI](https://www.isti.cnr.it) where he leads the [Visual Computing Laboratory](https://vcg.isti.cnr.it)) since 2019. He received a Ph.D. Degree in Computer Science at the University of Pisa in 1998. He was awarded by the Eurographics Association "Best Young Researcher" in 2004, and he got the "Outstanding Technical Contributions Award" in 2021. Since 2022, he is part of the ACM SIGGRAPH Academy. His research interests cover many Computer Graphics fields, including geometry processing and machine learning technologies for 3D, applied to 3D scanning data processing, digital fabrication, scientific visualisation, and digital heritage.
+His laboratory has provided the community with many successful and widely distributed advanced [software tools](/software) like MeshLab and many others. He has published more than 180 papers in international refereed journals/conferences and has served on the program committee of all the most important conferences on computer graphics. He is a member of the Eurographics Executive Committee.
+## Teaching
 
-He started and still leads the development of MeshLab, a widely known open source mesh processing tool used in hundreds of universities, research centers and companies by thousands of users. He has published more than one hundred papers in international refereed journals/conferences and has served in the program committee of all the most important conferences of Computer Graphics. He is member of Eurographics Executive Committee, and he has been in the Editorial Board of IEEE TVCG, Computer Graphics Forum, and ACM Journal on Computing and Cultural Heritage.
-[A project]({{< relref "/research/geometry-processing" >}})
+He teaches 3D Graphics courses at the [Computer Science](http://www.di.unipi.it) department of [University of Pisa](http://www.unipi.it). 
+* 2024/25 [3D Geometric Modeling & Processing](https://vcg.isti.cnr.it/~cignoni/GMP2425/index.html)
+* 2023/25 [3D Geometric Modeling & Processing](https://vcg.isti.cnr.it/~cignoni/GMP2324/index.html)
+
+
+---
 
