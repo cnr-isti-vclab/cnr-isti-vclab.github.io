@@ -38,12 +38,13 @@ sections:
     content:
       title: Former Members
       text: |
-        - [Arslan Siddique](Arslan-Siddique/) - *Phd* (since 2024 Research Fellow at SantAnna School of Advanced Studies)
+        - [Arslan Siddique](../author/Arslan-Siddique/) - *Phd* (since 2024 Research Fellow at Sant'Anna School of Advanced Studies)
         - Francesca De Mitry - *Administration* (moved to a different department in 2024)
         - Thomas Alderighi - *Phd & Research Fellow* (since 2023 ANSYS)
         - Andrea Maggiordomo - *Phd* - (since 2023 NVIDIA)*
-        - [Nico Pietroni](https://www.nicopietroni.com/)  *researcher*  (moved in 2017 to UNIVERSITY OF TECHNOLOGY SYDNEY)
-        - Guido Ranzuglia *Research Fellow* (moved in 2017 UTS Rapido Sydney)
+        - [Nico Pietroni](https://www.nicopietroni.com/)  *researcher*  (moved in 2017 to Univ. of Technology Sydney)
+        - Guido Ranzuglia *Research Fellow* (moved in 2017 to UTS Rapido Sydney)
+        - Stefano Nuvoli - *Research Fellow* (moved in 2022 to Amazon)
         - Andrea Baldacci - *Phd*
         - Luca Benedetti - *Phd*
         - Daniele Bernabei - *Phd*
@@ -63,7 +64,6 @@ sections:
         - Ricardo Marroquim - *Visiting*
         - Nicolas Mellado - *Visiting*
         - Cesar Mendoza - *Visiting*
-        - Stefano Nuvoli - *Research Fellow*
         - Gregorio Palmas - *Phd*
         - Claudio Rocchini - *Research Fellow*
         - Manuele Sabbadin - *Phd*
