@@ -38,6 +38,7 @@ sections:
     content:
       title: Former Members
       text: |
+        - [Arslan Siddique](Arslan-Siddique/) - *Phd* (since 2024 Research Fellow at SantAnna School of Advanced Studies)
         - Francesca De Mitry - *Administration* (moved to a different department in 2024)
         - Thomas Alderighi - *Phd & Research Fellow* (since 2023 ANSYS)
         - Andrea Maggiordomo - *Phd* - (since 2023 NVIDIA)*
