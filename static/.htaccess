@@ -84,3 +84,8 @@ RewriteRule ^spidergl(.*) /vcgtools/spidergl/$1 [L,R=301]
 RewriteRule ^icip2022-itmo-challenge$ /vcgevents/icip2022-itmo-challenge/ [L,R]
 RewriteRule ^icip2022-itmo-challenge(.*) /vcgevents/icip2022-itmo-challenge/$1 [L,R=301]
 
+#OTHER
+
+RewriteRule ^3dhop$ https://3dhop.net [L,R]
+RewriteRule ^3dhop(.*) https://3dhop.net/$1 [L,R=301]
+
