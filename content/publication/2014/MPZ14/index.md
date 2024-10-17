@@ -20,15 +20,15 @@ abstract: 'abstract              p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12
 url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/14fieldtrace.pdf
 url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/14fieldtrace_proofs.pdf
 ---
-[ talk Slides ](https://vcgdata.isti.cnr.it/Publicstions/2014/MPZ14/14fieldtrace.pptx)
+[ talk Slides ](https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/14fieldtrace.pptx)
 
-[ Input data for our experiments ](https://vcgdata.isti.cnr.it/Publicstions/2014/MPZ14/inputmodels.zip)
+[ Input data for our experiments ](https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/inputmodels.zip)
 
-[ Results of MIQ ](https://vcgdata.isti.cnr.it/Publicstions/2014/MPZ14/miq_NO_rounding.zip)
+[ Results of MIQ ](https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/miq_NO_rounding.zip)
 
-[ Results for BD  ](https://vcgdata.isti.cnr.it/Publicstions/2014/MPZ14/miq_bd.zip)
+[ Results for BD  ](https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/miq_bd.zip)
 
-[ Results for IGM ](https://vcgdata.isti.cnr.it/Publicstions/2014/MPZ14/miq_igm.zip)
+[ Results for IGM ](https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/miq_igm.zip)
 
-[ Our Results ](https://vcgdata.isti.cnr.it/Publicstions/2014/MPZ14/RGPFinal.zip)
+[ Our Results ](https://vcgdata.isti.cnr.it/Publications/2014/MPZ14/RGPFinal.zip)
 
