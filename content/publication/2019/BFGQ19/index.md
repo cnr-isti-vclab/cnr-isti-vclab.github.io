@@ -10,6 +10,9 @@ publication_types: ['paper-conference']
 publication: '*Nature Machine Intelligence*'
 featured: false
 
+tags:
+ - Visual AI
+ 
 image:
 #    caption: 'Image'
     focal_point: ''
