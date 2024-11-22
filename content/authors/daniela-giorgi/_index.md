@@ -21,7 +21,8 @@ organizations:
 bio: This is my bio
 
 interests:
-  - Computer Graphics; 3D Shape Analysis
+  - Computer Graphics
+  - 3D Shape Analysis
   - Computational Topology
   - Artificial Intelligence
   - Geometric and 3D Deep Learning

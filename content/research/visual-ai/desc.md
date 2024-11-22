@@ -17,5 +17,5 @@ Visual AI is the field of artificial intelligence that enables machines to make 
  
 Visual AI is becoming increasingly important across various applications. At VCLab, the application fields include 3D object design, architectural geometry, environmental monitoring, 3D acquisition and reconstruction, Extended Reality.
 
-Our results in Visual AI contributed to several research projects, including the Horizon 2020 project [SUN - Social and hUman ceNtered XR](https://fondazione-fair.it/en/), and the EU funded PNRR project [FAIR - Future Artificial Intelligence Research](https://fondazione-fair.it/en/).
+Our results in Visual AI contributed to several research projects, including the Horizon 2020 project [SUN - Social and hUman ceNtered XR](https://www.sun-xr-project.eu/), and the EU funded PNRR project [FAIR - Future Artificial Intelligence Research](https://fondazione-fair.it/en/).
 
