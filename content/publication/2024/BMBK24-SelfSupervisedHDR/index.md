@@ -39,8 +39,9 @@ tags:
 # - Digital Heritage 
 - High Dynamic Range Imaging
 - Inverse Tone Mapping
--  Deep Learning
+- Deep Learning
 - Computational Photography
+- Visual AI
  
 featured: false
 

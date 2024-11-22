@@ -21,9 +21,10 @@ organizations:
 bio: This is my bio
 
 interests:
-  - TBA
-  - TBA
-  - TBA
+  - Computer Graphics; 3D Shape Analysis
+  - Computational Topology
+  - Artificial Intelligence
+  - Geometric and 3D Deep Learning
 
 education:
   courses:

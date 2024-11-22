@@ -13,12 +13,9 @@ design:
   css_class: universal-wrapper
 ---
 
-Research on the foundational themes of Computer graphis like quad meshing, texture parametrization, Hexahedral Meshing, etc. has been always one of the basic line of our lab.
+Visual AI is the field of artificial intelligence that enables machines to make sense of and act on visual data. At VCLab, the research in Visual AI encompasses different formats of visual data: from images and videos to RTI and 3D surfaces.
+ 
+Visual AI is becoming increasingly important across various applications. At VCLab, the application fields include 3D object design, architectural geometry, environmental monitoring, 3D acquisition and reconstruction, Extended Reality.
 
-Our activity on Geometry Processing includes methodologies for shape analysis and characterization, mesh parametrization and its applications. First, we aim to apply such techniques for re-meshing, compression and visualization. 
+Our results in Visual AI contributed to several research projects, including the Horizon 2020 project [SUN - Social and hUman ceNtered XR](https://fondazione-fair.it/en/), and the EU funded PNRR project [FAIR - Future Artificial Intelligence Research](https://fondazione-fair.it/en/).
 
-This research activity has been the driving force for many contributions in other research lines like [digital fabrication](/research/digital-fabrication), [digital heritage](/research/digitization),  providing tools for efficient geometric modeling, physical simulation, numerical optimization and shape analysis. The results of this research have been published in several papers in top-tier conferences and journals in the field of Computer Graphics and Computer-Aided Design (ACM Transactions on Graphics, SIGGRAPH, SIGGRAPH Asia, Eurographics, etc.).
-
-Relevant expertise in digital fabrication has been exploited in the context of several research projects, including Italian Government PRIN [DSurf](https://www.isti.cnr.it/en/research/project-detail/7800/DSurf_DSurf:_Scalable_Computational_Methods_for_3D_Printing_Surfaces), EU Horizon 2020 ITN [Evocation](https://evocation.eu), and EU Horizon 2020 [EMOTIVE](https://emotiveproject.eu).
-
-Below some of the latest papers on this subject are listed.
