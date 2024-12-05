@@ -6,7 +6,7 @@ weight: 1809
 superuser: false
 
 # Role/position
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
