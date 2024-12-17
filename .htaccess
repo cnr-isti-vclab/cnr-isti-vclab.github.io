@@ -73,6 +73,9 @@ RewriteRule ^guido(.*) /activities/guido/$1 [L,R=301]
 RewriteRule ^corto$ /vcgtools/corto/ [L,R]
 RewriteRule ^corto(.*) /vcgtools/corto/$1 [L,R=301]
 
+RewriteRule ^nexus$ /vcgtools/nexus/ [L,R]
+RewriteRule ^nexus(.*) /vcgtools/nexus/$1 [L,R=301]
+
 RewriteRule ^relight$ /vcgtools/relight/ [L,R]
 RewriteRule ^relight(.*) /vcgtools/relight/$1 [L,R=301]
 
