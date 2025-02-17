@@ -3,9 +3,9 @@
 title: Elena Scandurra
 
 # delete the following three lines if you want that your page appears:
-# _build:
-#   render: always
-#   list: never
+_build:
+  render: always
+  list: never
 
 
 # Is this the primary user of the site?

@@ -28,8 +28,8 @@ sections:
     content:
       title: Former Heads of VC Lab
       text: |
-        - [Roberto Scopigno](https://vcg.isti.cnr.it/~scopigno/) - *Research Director, currently director of ISTI*
-        - [Claudio Montani](https://vcg.isti.cnr.it/~montani/) - *Research Director, Retired*
+        - [Roberto Scopigno](https://vcg.isti.cnr.it/~scopigno/) (Lab Head: Jul. 2006 – Mar. 2019) - *Research Director, currently director of ISTI*
+        - Claudio Montani (Lab Head: Jul. 1987 – Jun. 2006) - *Research Director, Retired*
     design:
       css_class: universal-wrapper
         
@@ -38,13 +38,14 @@ sections:
     content:
       title: Former Members
       text: |
+        - [Elena Scandurra](../author/Elena-Scandurra/) - *Phd* (since 2024 working at MBI Group)
         - [Arslan Siddique](../author/Arslan-Siddique/) - *Phd* (since 2024 Research Fellow at Sant'Anna School of Advanced Studies)
         - Francesca De Mitry - *Administration* (moved to a different department in 2024)
         - Thomas Alderighi - *Phd & Research Fellow* (since 2023 ANSYS)
-        - Andrea Maggiordomo - *Phd* - (since 2023 NVIDIA)*
+        - Andrea Maggiordomo - *Phd* - (since 2023 NVIDIA)
+        - Stefano Nuvoli - *Research Fellow* (moved in 2022 to Amazon)
         - [Nico Pietroni](https://www.nicopietroni.com/)  *researcher*  (moved in 2017 to Univ. of Technology Sydney)
         - Guido Ranzuglia *Research Fellow* (moved in 2017 to UTS Rapido Sydney)
-        - Stefano Nuvoli - *Research Fellow* (moved in 2022 to Amazon)
         - Andrea Baldacci - *Phd*
         - Luca Benedetti - *Phd*
         - Daniele Bernabei - *Phd*
