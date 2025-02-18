@@ -31,5 +31,5 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2021/PNACT21/ReliableQuad.pdf
 
 [ Download the slides! (.pttx)](https://vcgdata.isti.cnr.it/Publicstions/2021/PNACT21/reliable-quadremesh-siggraph2021.pptx)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/mUzYFH7DrN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>
+{{< youtube "mUzYFH7DrN0" >}}
 
