@@ -25,5 +25,4 @@ url_video: https://vcgdata.isti.cnr.it/Publications/2014/PPTS14/frame_fields.mp4
 
 [[experimental data]](https://vcgdata.isti.cnr.it/Publicstions/2014/PPTS14/experimental-data.zip)
 
-<iframe width="580" height="435" src="//player.vimeo.com/video/114245005?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< vimeo "114245005" >}}
