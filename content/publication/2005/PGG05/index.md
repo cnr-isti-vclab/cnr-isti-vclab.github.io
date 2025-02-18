@@ -28,5 +28,5 @@ abstract: 'Computer assisted medical applications require often the reconstructi
  computed on a field representing the signed distance from the true surface.'
 url_video: http://vcg.isti.cnr.it/Publications/2005/PGG05/self-collision.avi
 ---
-<iframe width="580" height="435" src="http://www.youtube.com/v/NNcH3IWkaNM&hl=it_IT&fs=1&" frameborder="0" frameborder="0" allowfullscreen>
 
+{{< youtube "NNcH3IWkaNM" >}}

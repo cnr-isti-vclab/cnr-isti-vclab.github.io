@@ -29,5 +29,4 @@ url_video: https://vcgdata.isti.cnr.it/Publications/2010/TPCPP10/QuadH264.mov
 
 [ Here some comparison with other quad mesh simplification methods](https://vcgdata.isti.cnr.it/Publicstions/2010/TPCPP10/comparison/Comparison.html)
 
-<iframe width="580" height="435" src="http://www.youtube.com/v/CUuhwksq0jY&hl=it_IT&fs=1&" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "CUuhwksq0jY" >}}

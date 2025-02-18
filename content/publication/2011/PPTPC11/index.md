@@ -21,5 +21,4 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2011/PPTPC11/TVCG2010-PanPupTa
 ---
 [ Talk Slides ](https://vcgdata.isti.cnr.it/Publicstions/2011/PPTPC11/fitmap.ppt)
 
-<iframe width="580" height="435" src="http://www.youtube.com/embed/a0wYWC8JX34" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "a0wYWC8JX34" >}}

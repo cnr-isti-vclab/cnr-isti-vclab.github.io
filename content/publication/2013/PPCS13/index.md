@@ -23,5 +23,4 @@ abstract: 'We propose a computer-assisted constraint-based methodology for virtu
 
 [ Talk Slides ](https://vcgdata.isti.cnr.it/Publicstions/2013/PPCS13/Reassembly.pptx)
 
-<iframe width="580" height="435" src="http://www.youtube.com/embed/wn9_b9YZhU0" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "wn9_b9YZhU0" >}}

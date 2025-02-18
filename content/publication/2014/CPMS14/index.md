@@ -23,5 +23,4 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2014/CPMS14/joinery_lowres.pdf
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/CPMS14/bimba0_e.jpg" >}}
 [ Talk Slides ](https://vcgdata.isti.cnr.it/Publicstions/2014/CPMS14/Joinery_SigAsia.pptx)
 
-<iframe width="580" height="435" src="http://www.youtube.com/embed/5AIw5dhLP70" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "5AIw5dhLP70" >}}

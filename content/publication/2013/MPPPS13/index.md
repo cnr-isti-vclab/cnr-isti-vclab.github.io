@@ -26,5 +26,4 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/MPPPS13/AnimationAwareQua
 
 [ Code ](https://vcgdata.isti.cnr.it/Publicstions/2013/MPPPS13/Animation-Aware_Quadrangulation_code.zip)
 
-<iframe width="580" height="435" src="http://www.youtube.com/embed/d4ZalZ48vXE" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "d4ZalZ48vXE" >}}

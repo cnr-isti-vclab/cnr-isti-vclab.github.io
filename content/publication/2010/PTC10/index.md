@@ -35,5 +35,4 @@ url_video: https://vcgdata.isti.cnr.it/Publications/2010/PTC10/iso_param.avi
 
 [ Here some colored by considering isometry](https://vcgdata.isti.cnr.it/Publicstions/2010/PTC10/color_by_distorsion/distorsionComparison.html)
 
-<iframe width="580" height="435" src="http://www.youtube.com/v/t4RC3H3Ab0Y&hl=en_US&fs=1&" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "t4RC3H3Ab0Y" >}}

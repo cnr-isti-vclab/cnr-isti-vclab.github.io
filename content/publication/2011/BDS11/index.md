@@ -59,5 +59,5 @@ abstract: 'In this paper, we present a practical system for enhancing the qualit
  These videos could not be done without the help of our actors and The Director. We thank in alphabetic order: Daniele Bernabei, Marco Di Benedetto, and Stefano Marras.'
 url_slides: https://vcgdata.isti.cnr.it/Publications/2011/BDS11/bsd11_slides.pdf
 ---
-<iframe width="580" height="435" src="http://www.youtube.com/embed/5aZJLd7ZLrM" frameborder="0" frameborder="0" allowfullscreen>
+{{< youtube "5aZJLd7ZLrM" >}}
 

@@ -24,5 +24,4 @@ abstract: 'http://www.exploremaps.org We introduce a novel efficient technique f
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2014/DGBJGS14/webgl-gui-diagram.jpg" >}}
 [http://www.exploremaps.org](http://www.exploremaps.org)
 
-<iframe width="580" height="435" src="http://www.youtube.com/embed/yW3uVEzd-Pg" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "yW3uVEzd-Pg" >}}

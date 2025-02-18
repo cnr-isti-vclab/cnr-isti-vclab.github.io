@@ -27,5 +27,5 @@ abstract: 'In this paper, we present a physically based model for real-time
  leads to an unconditionally stable, controllable and computationally 
  light simulation. Our results demonstrate the effectiveness of our model, showing the interaction of the thread with other objects in real time and the creation of complex knots.'
 ---
-<iframe width="580" height="435" src="http://www.youtube.com/v/l3hjOIC84HM&hl=en_US&fs=1&" frameborder="0" frameborder="0" allowfullscreen>
 
+{{< youtube "l3hjOIC84HM" >}}
