@@ -27,4 +27,3 @@ abstract: 'abstract
 url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/BBTPCS13/2013_photocloud_ieee_preprint.pdf
 ---
 [youTube videos](https://www.youtube.com/playlist?list=PLHJB2bhmgB7cmYD0ST9CEDMRv1JlX4xPH)
-

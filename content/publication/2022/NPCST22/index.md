@@ -32,5 +32,6 @@ altro testo
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2022/NPCST22/1_BoneToBone.png" >}}
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2022/NPCST22/0_Teaser.png" >}}
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2022/NPCST22/3_Anims.png" >}}
-<iframe width="580" height="435" src="https://www.youtube.com/embed/84WPrEVuve4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>
+
+{{< youtube "84WPrEVuve4" >}}
 

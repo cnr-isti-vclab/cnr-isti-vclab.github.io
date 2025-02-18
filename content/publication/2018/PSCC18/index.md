@@ -27,5 +27,6 @@ abstract: 'The wide availability of 3D acquisition devices makes viable their us
 tags:
 - Rendering and Advanced UI
 ---
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/i_2oiK4sXIE' frameborder='0' allowfullscreen></iframe></div>
+
+{{< youtube "i_2oiK4sXIE" >}}
 

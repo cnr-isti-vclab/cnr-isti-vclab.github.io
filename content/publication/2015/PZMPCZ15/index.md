@@ -27,5 +27,4 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2015/PZMPCZ15/microstructures-
 
 [ Siggraph presentation ](https://vcgdata.isti.cnr.it/Publicstions/2015/PZMPCZ15/Elastic_Textures_Siggraph_Slides.pptx)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/licLnknhiFU" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "licLnknhiFU" >}}

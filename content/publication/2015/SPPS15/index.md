@@ -27,4 +27,4 @@ image:
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2015/SPPS15/3dhop.jpg" >}}
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2015/SPPS15/3dhop_reconstruc.jpg" >}}
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/8wJ10y65Cz0' frameborder='0' allowfullscreen></iframe></div>
+{{< youtube "8wJ10y65Cz0" >}}

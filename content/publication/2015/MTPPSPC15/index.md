@@ -37,5 +37,4 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2015/MTPPSPC15/DDQ-Paper.pdf
 
 [ A database of learned patches ](https://vcgdata.isti.cnr.it/Publicstions/2015/MTPPSPC15/patches_40_convex_12_concave_7_edges_max8convexcorners.db.zip)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/H8K5CyQB_kc" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "H8K5CyQB_kc" >}}

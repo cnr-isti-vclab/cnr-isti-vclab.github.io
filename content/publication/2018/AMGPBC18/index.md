@@ -28,5 +28,5 @@ image:
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2018/AMGPBC18/result_hammer.jpg" >}}
 [ Slides ](https://vcgdata.isti.cnr.it/Publicstions/2018/AMGPBC18/metamolds_slides.pptx)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/7M2TbQnRLNg" frameborder="0" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen>
+{{< youtube "7M2TbQnRLNg" >}}
 

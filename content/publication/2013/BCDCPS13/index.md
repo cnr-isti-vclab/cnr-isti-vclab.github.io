@@ -45,5 +45,4 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2013/BCDCPS13/main.pdf
 
 [ Piccante](http://piccantelib.net)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/UtOsYqlvLfE" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "UtOsYqlvLfE" >}}

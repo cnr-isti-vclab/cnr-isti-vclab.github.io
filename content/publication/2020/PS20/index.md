@@ -15,4 +15,4 @@ image:
     share: false
 ---
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/_4ZsqbXeMJQ' frameborder='0' allowfullscreen></iframe></div>
+{{< youtube "_4ZsqbXeMJQ" >}}

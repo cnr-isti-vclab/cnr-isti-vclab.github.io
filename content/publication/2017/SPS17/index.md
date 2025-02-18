@@ -16,4 +16,4 @@ image:
     share: false
 ---
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/Qlye2z02HiA' frameborder='0' allowfullscreen></iframe></div>
+{{< youtube "Qlye2z02HiA" >}}

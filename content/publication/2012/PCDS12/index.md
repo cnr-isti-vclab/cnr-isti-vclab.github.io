@@ -26,5 +26,4 @@ image:
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2012/PCDS12/pisa.png" >}}
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2012/PCDS12/1_uffizi.png" >}}
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/Dl4kcx3OgnM' frameborder='0' allowfullscreen></iframe></div>
-
+{{< youtube "Dl4kcx3OgnM" >}}

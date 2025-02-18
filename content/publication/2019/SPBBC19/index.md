@@ -31,6 +31,4 @@ tags:
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/desk.png" >}}
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2019/SPBBC19/atrium.png" >}}
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/szBWhY1b4x8' frameborder='0' allowfullscreen></iframe></div>
-
-
+{{< youtube "szBWhY1b4x8" >}}

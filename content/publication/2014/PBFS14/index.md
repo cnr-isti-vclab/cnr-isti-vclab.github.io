@@ -23,6 +23,4 @@ url_project: https://vcg.isti.cnr.it/PalazzoBlu/
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/viewer_hotspot.jpg" >}}
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2014/PBFS14/viewer_light.jpg" >}}
 
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/0A3bzSk7VHw' frameborder='0' allowfullscreen></iframe></div>
-
-
+{{< youtube "0A3bzSk7VHw" >}}

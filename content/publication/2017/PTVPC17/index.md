@@ -28,5 +28,5 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2017/PTVPC17/Position-Based Te
 
 [here](https://vcgdata.isti.cnr.it/Publicstions/2017/PTVPC17/TensegrityData.zip)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/qgilDkW_Aps" frameborder="0" frameborder="0" allowfullscreen>
+{{< youtube "qgilDkW_Aps" >}}
 

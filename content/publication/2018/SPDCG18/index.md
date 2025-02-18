@@ -22,4 +22,5 @@ abstract: 'We propose a novel rendering framework for visualizing point data wit
 tags:
 - Rendering and Advanced UI
 ---
-<div class='embed-container'><iframe src='https://www.youtube.com/embed/hWz4ReLG36U' frameborder='0' allowfullscreen></iframe></div>
+
+{{< youtube "hWz4ReLG36U" >}}

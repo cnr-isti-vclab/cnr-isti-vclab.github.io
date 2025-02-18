@@ -26,5 +26,4 @@ abstract: 'Starting from the triangle mesh of a digital shape, mainly an articul
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2015/ULPTS15/mosaic.png" >}}
 [Data Available Here.](https://drive.google.com/open?id=0B6EEjMMaU7haUHhmQ0xWOGRjSVE)
 
-[Video (youtube).](https://www.youtube.com/watch?v=5TzsT2BVVhA)
-
+{{< youtube "5TzsT2BVVhA" >}}

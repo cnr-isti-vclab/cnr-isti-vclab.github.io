@@ -25,5 +25,6 @@ tags:
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2021/PPC21/user1.jpg" >}}
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2021/PPC21/female1.jpg" >}}
 {{< figure class="pubFig" src="https://vcgdata.isti.cnr.it/Publications/2021/PPC21/support.jpg" >}}
-<div class='embed-container'><iframe src='https://www.youtube.com/embed//92M5O9HF_xA' frameborder='0' allowfullscreen></iframe></div>
+
+{{< youtube "92M5O9HF_xA" >}}
 

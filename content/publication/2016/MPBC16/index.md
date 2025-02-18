@@ -20,5 +20,4 @@ image:
 ---
 [Siggraph slides (.key)](https://vcgdata.isti.cnr.it/Publicstions/2016/MPBC16/flexmolds.key)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/coVXn6mc1Co" frameborder="0" frameborder="0" allowfullscreen>
-
+{{< youtube "coVXn6mc1Co" >}}

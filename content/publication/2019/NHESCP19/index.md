@@ -27,5 +27,5 @@ url_pdf: https://vcgdata.isti.cnr.it/Publications/2019/NHESCP19/quadmixer_author
 ---
 [here](https://vcgdata.isti.cnr.it/Publicstions/2019/NHESCP19/quadmixer.pptx)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/mOgC8lFE6tI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>
+{{< youtube "mOgC8lFE6tI" >}}
 

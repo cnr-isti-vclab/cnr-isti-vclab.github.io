@@ -19,5 +19,5 @@ image:
     preview_only: false
     share: false
 ---
-<iframe width="580" height="435" src="https://www.youtube.com/embed/PrUVo3potl4" frameborder="0" frameborder="0" allowfullscreen>
 
+{{< youtube "PrUVo3potl4" >}}

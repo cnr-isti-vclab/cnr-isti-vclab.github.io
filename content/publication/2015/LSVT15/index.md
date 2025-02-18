@@ -32,6 +32,4 @@ abstract: 'abstract
 ---
 [[ project page ]](http://www.cs.ubc.ca/labs/imager/tr/2015/untangler/)
 
-[[ Video ]
-](https://www.youtube.com/watch?v=QCts--i99yA)
-
+{{< youtube "QCts--i99yA" >}}

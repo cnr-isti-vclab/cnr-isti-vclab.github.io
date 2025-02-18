@@ -17,5 +17,5 @@ image:
     share: false
 abstract: 'http://www.envymycarbook.com This book guides students in developing their own interactive graphics application. The authors show step by step how to implement computer graphics concepts and theory using the EnvyMyCar (NVMC) framework as a consistent example throughout the text. They use the WebGL graphics API to develop NVMC, a simple, interactive car racing game. Each chapter focuses on a particular computer graphics aspect, such as 3D modeling and lighting. The authors help students understand how to handle 3D geometric transformations, texturing, complex lighting effects, and more. This practical approach leads students to draw the elements and effects needed to ultimately create a visually pleasing car racing game.'
 ---
-<iframe width="580" height="435" src="//www.youtube.com/embed/t0bvzHW-e5I" frameborder="0" frameborder="0" allowfullscreen>
 
+{{< youtube "t0bvzHW-e5I" >}}

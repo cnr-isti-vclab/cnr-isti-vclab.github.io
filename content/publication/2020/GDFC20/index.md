@@ -70,5 +70,5 @@ url_video: https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/transfproj_squar
 {{< figure src="https://vcgdata.isti.cnr.it/Publications/2020/GDFC20/figura5.png" >}}
 [Bridges 2020 presentation (.pptx)](https://vcgdata.isti.cnr.it/Publicstions/2020/GDFC20/Bridges2020.pptx)
 
-<iframe width="580" height="435" src="https://www.youtube.com/embed/Y0CHnZGwvCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen>
+{{< youtube "Y0CHnZGwvCQ" >}}
 
