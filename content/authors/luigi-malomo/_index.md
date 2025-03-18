@@ -14,7 +14,7 @@ last_name: Malomo
 superuser: false
 
 # Role/position
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,7 @@ bio: Computational Fabrication
 interests:
   - Computational Fabrication
   - Geometry Processing
+  - Architectural Geometry
 
 education:
   courses:
@@ -46,6 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house
+    icon_pack: fas
+    link: 'https://vcg.isti.cnr.it/~malomo'
   - icon: envelope
     icon_pack: fas
     link: 'luigi.malomo@isti.cnr.it'
@@ -76,4 +80,4 @@ user_groups:
   - Researchers
 ---
 
-Dr. Luigi Malomo is a permanent researcher at the Visual Computing Laboratory of ISTI - CNR, in Pisa (Italy). He received the PhD in Computer Science from the University of Pisa in April 2017. His research focuses mainly on Computational Fabrication and covers many topics related to computer graphics like geometry processing, human-computer interfaces, meshing and parametrizations. Currently, the scope of his research is to apply computational geometry knowledge to tangible applications like the optimization of manufacturing processes and physically-based geometric design.
+Dr. Luigi Malomo is a senior researcher at the Visual Computing Laboratory of ISTI - CNR, in Pisa (Italy). He received the PhD in Computer Science from the University of Pisa in April 2017. His research focuses mainly on Computational Fabrication and covers many topics related to computer graphics like geometry processing, human-computer interfaces, meshing and parametrizations. Currently, the scope of his research is to apply computational geometry knowledge to tangible applications like the optimization of manufacturing processes and physically-based geometric design.
