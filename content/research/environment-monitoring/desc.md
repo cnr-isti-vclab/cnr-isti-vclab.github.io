@@ -1,7 +1,7 @@
 ---
 weight: 10
-title: "Digital Fabrication"
-authors: ["luigi-malomo"]
+title: "Environmental Monitoring"
+authors: ["gaia-pavoni"]
 show_date: false
 #date: 2022
 image:
@@ -32,13 +32,8 @@ the PRIN EUPHROSYNE, and the 2023-2025 joint research collaborations funded by [
 
 Selected papers:
 
-- [Field-aligned mesh joinery](/publication/2014/CPMS14)
-- [Elastic textures for additive fabrication](/publication/2015/PZMPCZ15)
-- [FlexMolds: automatic design of flexible shells for molding](/publication/2016/MPBC16)
-- [FlexMaps: Computational Design of Flat Flexible Shells for Shaping 3D Objects](/publication/2018/MPIPMCB18)
-- [Volume-aware design of flexible molds](/publication/2019/AMGBCP19)
-- [Optimizing Object Decomposition to Reduce Visual Artifacts in 3D Printing](/publication/2020/FAGMCC20)
+- [TagLab: AI-assisted annotation for the fast and accurate semantic segmentation of coral reef orthoimages](/publication/2021/PCPEPSC21/)
+- [On Improving the Training of Models for the Semantic Segmentation of Benthic Communities from Orthographic Imagery](/publication/2020/PCCEC20/)
+- [Challenges in the deep learning-based semantic segmentation of benthic communities from Ortho-images](/publication/2021/PCPPC21/)
+- [Semantic Segmentation of Benthic Communities from Ortho-Mosaic Maps](/publication/2019/PCCPS19/)
 
-
-<!-- State of the art in stylized fabrication
-State of the art in computational mould design -->
