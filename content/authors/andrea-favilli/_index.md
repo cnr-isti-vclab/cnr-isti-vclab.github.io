@@ -51,9 +51,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:andrea.favilli@isti.cnr.it'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=????????????
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=kWyuJrYAAAAJ&hl=it
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0009-0004-9342-7106	
@@ -65,8 +65,8 @@ social:
   #   link: https://twitter.com/????
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
+#  - icon: cv
+#    icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
