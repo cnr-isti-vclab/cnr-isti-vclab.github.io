@@ -43,6 +43,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: house
+  icon_pack: fas
+  link: https://vcg.isti.cnr.it/~cignoni
 - icon: envelope
   icon_pack: fas
   link: "mailto:paolo.cignoni@isti.cnr.it"  # For a direct email link, use "mailto:test@example.org".
@@ -52,9 +55,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=nz0WWGsAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ALoopingIcon
 - icon: github
   icon_pack: fab
   link: https://github.com/cignoni
@@ -86,13 +86,15 @@ user_groups:
 - Group 2
 ---
 
-Dr. **Paolo Cignoni** is a Research Director with [CNR-ISTI](https://www.isti.cnr.it) where he leads the [Visual Computing Laboratory](https://vcg.isti.cnr.it)) since 2019. He received a Ph.D. in Computer Science at the University of Pisa in 1998. He was awarded by the Eurographics Association "Best Young Researcher" in 2004, and he got the "Outstanding Technical Contributions Award" in 2021. Since 2022, he is part of the ACM SIGGRAPH Academy. His research interests cover many Computer Graphics fields, including geometry processing and machine learning technologies for 3D, applied to 3D scanning data processing, digital fabrication, scientific visualisation, and digital heritage.
+Dr. **Paolo Cignoni** is a Research Director with [CNR-ISTI](https://www.isti.cnr.it) where he leads the [Visual Computing Laboratory](https://vcg.isti.cnr.it) since 2019. He received a Ph.D. in Computer Science at the University of Pisa in 1998. He was awarded by the Eurographics Association "Best Young Researcher" in 2004, and he got the "Outstanding Technical Contributions Award" in 2021. Since 2022, he is part of the ACM SIGGRAPH Academy. 
+
+His research interests cover many Computer Graphics fields, including geometry processing and machine learning technologies for 3D, applied to 3D scanning data processing, digital fabrication, scientific visualisation, and digital heritage.
+
 His laboratory has provided the community with many successful and widely distributed advanced [software tools](/software) like MeshLab and many others. He has published more than 180 papers in international refereed journals/conferences and has served on the program committee of all the most important conferences on computer graphics. He is a member of the Eurographics Executive Committee.
 ## Teaching
-
 He teaches 3D Graphics courses at the [Computer Science](http://www.di.unipi.it) department of [University of Pisa](http://www.unipi.it). 
+* 2025/26 [3D Geometric Modeling & Processing](https://vcg.isti.cnr.it/~cignoni/GMP2526/index.html)
 * 2024/25 [3D Geometric Modeling & Processing](https://vcg.isti.cnr.it/~cignoni/GMP2425/index.html)
-* 2023/25 [3D Geometric Modeling & Processing](https://vcg.isti.cnr.it/~cignoni/GMP2324/index.html)
 
 
 ---
