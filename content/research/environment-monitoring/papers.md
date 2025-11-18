@@ -13,7 +13,7 @@ content:
     category: ''
     exclude_featured: false
     publication_type: ''
-    tag: 'Architectural Geometry'
+    tag: 'Environmental Monitoring'
   offset: 0
   order: desc
   page_type: 
