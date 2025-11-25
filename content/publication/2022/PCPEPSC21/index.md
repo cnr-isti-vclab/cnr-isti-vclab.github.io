@@ -4,6 +4,7 @@ authors:
   - Gaia Pavoni
   - Massimiliano Corsini
   - Federico Ponchio
+  - Alessandro Muntoni
   - Clinton Edwards
   - Nicole Pedersen
   - Stuart Sandin
