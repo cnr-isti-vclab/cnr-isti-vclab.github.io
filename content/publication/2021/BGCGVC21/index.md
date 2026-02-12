@@ -26,6 +26,8 @@ tags:
 
 url_pdf: https://iris.cnr.it/retrieve/1f18b2fb-9a78-46a1-8e1b-21666b62cedd/prod_465907-doc_191167.pdf
 
+url_code: 'https://github.com/cnr-isti-vclab/DeepFrameSelection'
+
 image:
 #    caption: 'Image'
     focal_point: ''
