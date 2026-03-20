@@ -80,4 +80,6 @@ user_groups:
   - Researchers
 ---
 
-I am fixed-term Researcher at the ISTI - CNR in Pisa. My research focuses on Architectural Geometry, which is an interdisciplinary topic that aims to design, model, optimize, and manufacture complex free-form architectures through the tight collaboration and the synergy of several disciplines, such as differential geometry, algorithmic mathematics, computer graphics, engineering and industrial practice. I am also Adjunct Professor at the University of Pisa.
+I am Researcher at the ISTI - CNR in Pisa. My research focuses on Architectural Geometry, which is an interdisciplinary topic that aims to design, model, optimize, and manufacture complex free-form architectures through the tight collaboration and the synergy of several disciplines, such as differential geometry, algorithmic mathematics, computer graphics, engineering and industrial practice. I am also Adjunct Professor at the University of Pisa.
+## Teaching
+* 2026 [Geometric Computing for Design and Optimization](https://vcg.isti.cnr.it/courses/2026/PhDcourseGeomComputing)

@@ -80,3 +80,6 @@ user_groups:
 ---
 
 I am Post-Doctoral Researcher at the ISTI - CNR in Pisa. My research investigates the interface between architecture, geometry, computational design, and digital fabrication. I pursued my PhD in the Applied Geometry Group at TU Wien, and I worked as post-doc in the Geometric Computing Lab at EPFL.
+
+## Teaching
+* 2026 [Geometric Computing for Design and Optimization](https://vcg.isti.cnr.it/courses/2026/PhDcourseGeomComputing)
