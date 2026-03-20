@@ -4,7 +4,110 @@
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>A 3D-based Web Platform for Multi-Source Diagnostic Data Fusion and Visualization</title><link>http://vcg.isti.cnr.it/publication/2026/BCDMPSS26-ChangesPlatformMaterial/</link><pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2026/BCDMPSS26-ChangesPlatformMaterial/</guid><description/></item><item><title>The science laboratory in the Museum: the latest scientific analyses on the cotton cemí and new research perspectives</title><link>http://vcg.isti.cnr.it/publication/2025/BMPOMBSPPBM25-MAETzemi/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/BMPOMBSPPBM25-MAETzemi/</guid><description/></item><item><title>Designing and Developing Interactive Kiosks for Cultural Heritage: Best Practices and Common Issues</title><link>http://vcg.isti.cnr.it/publication/2025/PCC25-InteractiveKiosks/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/PCC25-InteractiveKiosks/</guid><description/></item><item><title>AI-driven specular removal for 3D asset creation</title><link>http://vcg.isti.cnr.it/publication/2025/CCDGS25-specular/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/CCDGS25-specular/</guid><description/></item><item><title>OpenLIME: An open and flexible web framework for creating and exploring complex multi-layered relightable image models</title><link>http://vcg.isti.cnr.it/publication/2025/OpenLIME/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/OpenLIME/</guid><description/></item><item><title>Removing dead coral after marine heatwaves can mitigate coral–algae competition and increase viable coral recruitment</title><link>http://vcg.isti.cnr.it/publication/2025/KPCBDMN25/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/KPCBDMN25/</guid><description/></item><item><title>Optimizing Free-Form Grid Shells with Reclaimed Elements under Inventory Constraints</title><link>http://vcg.isti.cnr.it/publication/2025/ReclaimedGridShells/</link><pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/ReclaimedGridShells/</guid><description>
+&lt;p>Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>New PhD Course on Geometric Computing for Design and Optimization</title><link>http://vcg.isti.cnr.it/post/26-03-20-PhDcourseGeomComp/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/post/26-03-20-PhDcourseGeomComp/</guid><description>&lt;p>We are pleased to announce the launch of a new PhD Course titled “Geometric Computing for Design and Optimization”, which will take place in Spring 2026 (May–June) at Politecnico di Torino.&lt;/p>
+&lt;p>The Course will be taught by &lt;a href="https://vcg.isti.cnr.it/author/Francesco-Laccone/" target="_blank" rel="noopener">Francesco Laccone&lt;/a> and &lt;a href="https://vcg.isti.cnr.it/author/Davide-Pellis/" target="_blank" rel="noopener">Davide Pellis&lt;/a> and is organized within the PhD Program in Civil and Environmental Engineering. While rooted in this program, the course is open to all PhD students interested in advanced computational methods for geometry-driven design and optimization.&lt;/p>
+&lt;p>This course will explore the theoretical foundations and practical applications of geometric computing, with a focus on its role in modern design processes, simulation, and optimization techniques across engineering and related disciplines.
+Further details regarding schedule, syllabus, and registration will be in the &lt;a href="https://vcg.isti.cnr.it/courses/2026/PhDcourseGeomComputing" target="_blank" rel="noopener">course webpage&lt;/a>.&lt;/p></description></item><item><title>PhD Course: Geometric Computing for Design and Optimization</title><link>http://vcg.isti.cnr.it/courses/2026/PhDcourseGeomComputing/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/courses/2026/PhDcourseGeomComputing/</guid><description>&lt;h4 id="organized-within-the-phd-program-in-civil-and-environmental-engineering">Organized within the PhD Program in Civil and Environmental Engineering&lt;/h4>
+&lt;h4 id="addressed-to-all-phd-students">Addressed to all PhD students&lt;/h4>
+&lt;br />
+&lt;h2 id="lecturers">Lecturers&lt;/h2>
+&lt;p>&lt;a href="https://vcg.isti.cnr.it/author/Francesco-Laccone/" target="_blank" rel="noopener">Francesco Laccone&lt;/a> and &lt;a href="https://vcg.isti.cnr.it/author/Davide-Pellis/" target="_blank" rel="noopener">Davide Pellis&lt;/a>&lt;/p>
+&lt;br />
+&lt;h4 id="24-hours---10-lectures-in-may---jun-2026">24 hours - 10 lectures in MAY - JUN 2026&lt;/h4>
+&lt;h4 id="politecnico-di-torino-aula-abc">Politecnico di Torino, Aula ABC&lt;/h4>
+&lt;br />
+&lt;h2 id="course-description">Course Description&lt;/h2>
+&lt;p>This doctoral course explores the mathematical and computational foundations of geometric modeling in the context of the ongoing digital transformation across Civil and Industrial Engineering, Architecture and Design. As advanced computational tools and digital fabrication expand formal possibilities, they also introduce challenges related to performance, sustainability, and aesthetics.&lt;/p>
+&lt;p>The course develops design approaches based on geometric data processing and algorithmic modeling, linking geometry to real-world design problems involving complex shapes (e.g., architectural roofs and façades, automotive, naval, and aerospace shells, mechanical components, artworks). Students will engage with geometric representations, differential geometry, and optimization techniques through a combination of theory and hands-on work using Rhino, Grasshopper, and Python.&lt;/p>
+&lt;br />
+&lt;h2 id="learning-objectives">Learning Objectives&lt;/h2>
+&lt;p>By the end of the course, students will:&lt;/p>
+&lt;ul>
+&lt;li>Understand and manipulate continuous and discrete geometric representations&lt;/li>
+&lt;li>Apply differential geometry concepts to curves and surfaces&lt;/li>
+&lt;li>Implement geometry processing algorithms&lt;/li>
+&lt;li>Use parametric and computational design tools&lt;/li>
+&lt;li>Integrate optimization methods into design workflows&lt;/li>
+&lt;li>Develop and fabricate design prototypes&lt;/li>
+&lt;/ul>
+&lt;br />
+&lt;h2 id="contents-and-schedule">Contents and Schedule&lt;/h2>
+&lt;p>WEEK 1: Geometry and Representation&lt;/p>
+&lt;table>
+&lt;tr> &lt;!-- Row 1 -->
+&lt;td style="width:13%" >May 07&lt;/td>
+&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td> Course Introduction and 3D Geometry Basics &lt;br />
+Course overview • Software ecosystem and tools • Continuous vs. discrete geometric representations • Introduction to polygonal meshes&lt;/td>
+&lt;/tr>
+&lt;tr> &lt;!-- Row 2 -->
+&lt;td> May 07 &lt;/td>
+&lt;td>hh to hh (2h)&lt;/td>
+&lt;td>3D Data Structures and Parametric Representations &lt;br />
+Mesh data structures • Parametric curve representations: Bézier curves, B-Splines, NURBS • Extension from curves to parametric surfaces • Comparative advantages for design and computation&lt;/td>
+&lt;/tr>
+&lt;tr> &lt;!-- Row 1 -->
+&lt;td style="width:13%" >May 08&lt;/td>
+&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td> Differential Geometry of Curves and Surfaces &lt;br />
+Parametric curves and surfaces • Curvature analysis and geometric descriptors • Curves on surfaces: geodesics, curvature fields, asymptotic directions • Surface classification for design and fabrication • Visualization and interpretation of geometric properties&lt;/td>
+&lt;/tr>
+&lt;tr> &lt;!-- Row 2 -->
+&lt;td> May 8 &lt;/td>
+&lt;td>hh to hh (2h)&lt;/td>
+&lt;td>Geometry Processing Fundamentals &lt;br />
+Remeshing and Subdivision methods • Discrete differential operators for meshes • Relaxation, Laplacian smoothing&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;p>WEEK 2: Computational Geometry and Fabrication&lt;/p>
+&lt;table>
+&lt;tr> &lt;!-- Row 1 -->
+&lt;td style="width:13%" >May 21&lt;/td>
+&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td> Digital Fabrication of Surfaces &lt;br />
+Surface rationalization strategies: nodes, beams, panels • Fabrication constraints and material considerations • CNC fabrication processes and workflows • Design approaches: continuous vs. discretized (polyhedral) surfaces&lt;/td>
+&lt;/tr>
+&lt;tr> &lt;!-- Row 2 -->
+&lt;td> May 21 &lt;/td>
+&lt;td>hh to hh (2h)&lt;/td>
+&lt;td>CAD Tools for Geometry Processing &lt;br />
+Introduction to Rhino and Grasshopper environments • Data flow and parametric modeling logic • Representation of curves and surfaces in CAD • Python scripting in Rhino/Grasshopper • Introduction to MeshLab and PyMeshLab for geometry processing&lt;/td>
+&lt;/tr>
+&lt;tr> &lt;!-- Row 1 -->
+&lt;td style="width:13%" >May 22&lt;/td>
+&lt;td style="width:18%">hh to hh (4h)&lt;/td>
+&lt;td> Workshop 1 - Design of an asymptotic framework &lt;br />
+From curve/surface to structure • Design and generation of a framework •
+Control of geometric properties and constraints • Implementation using Rhino/Grasshopper and Python&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;p>WEEK 3: Design and Optimization&lt;/p>
+&lt;table>
+&lt;tr> &lt;!-- Row 1 -->
+&lt;td style="width:13%" >Jun 04&lt;/td>
+&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td> Optimization in Geometric Design &lt;br />
+Formulating design problems as optimization tasks • Objective functions, variables, and constraints • Introduction to optimization methods • Application in Rhino/Python for geometry-aware design&lt;/td>
+&lt;/tr>
+&lt;tr> &lt;!-- Row 2 -->
+&lt;td> Jun 04 &lt;/td>
+&lt;td>hh to hh (4h)&lt;/td>
+&lt;td>Workshop 2 - Design of an asymptotic framework on a minimal surface &lt;br />
+Optimization of a minimal surface • Computation of geometric quantities on meshes • CAD-to-CAM pipeline for digital fabrication • Preparation of final project outputs&lt;/td>
+&lt;/tr>
+&lt;tr> &lt;!-- Row 1 -->
+&lt;td style="width:13%" >Jun 05&lt;/td>
+&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td> Final Presentations and Review &lt;br />
+Assembly of physical prototypes (e.g., paper or cardboard models) • Presentation of workshop outcomes • Peer discussion and feedback&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;br />
+&lt;h2 id="enrolment-details">Enrolment details&lt;/h2>
+&lt;p>Available soon&lt;/p>
+&lt;br />
+&lt;h2 id="material">Material&lt;/h2>
+&lt;p>Available soon&lt;/p></description></item><item><title>A 3D-based Web Platform for Multi-Source Diagnostic Data Fusion and Visualization</title><link>http://vcg.isti.cnr.it/publication/2026/BCDMPSS26-ChangesPlatformMaterial/</link><pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2026/BCDMPSS26-ChangesPlatformMaterial/</guid><description/></item><item><title>The science laboratory in the Museum: the latest scientific analyses on the cotton cemí and new research perspectives</title><link>http://vcg.isti.cnr.it/publication/2025/BMPOMBSPPBM25-MAETzemi/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/BMPOMBSPPBM25-MAETzemi/</guid><description/></item><item><title>Designing and Developing Interactive Kiosks for Cultural Heritage: Best Practices and Common Issues</title><link>http://vcg.isti.cnr.it/publication/2025/PCC25-InteractiveKiosks/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/PCC25-InteractiveKiosks/</guid><description/></item><item><title>AI-driven specular removal for 3D asset creation</title><link>http://vcg.isti.cnr.it/publication/2025/CCDGS25-specular/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/CCDGS25-specular/</guid><description/></item><item><title>OpenLIME: An open and flexible web framework for creating and exploring complex multi-layered relightable image models</title><link>http://vcg.isti.cnr.it/publication/2025/OpenLIME/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/OpenLIME/</guid><description/></item><item><title>Removing dead coral after marine heatwaves can mitigate coral–algae competition and increase viable coral recruitment</title><link>http://vcg.isti.cnr.it/publication/2025/KPCBDMN25/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/KPCBDMN25/</guid><description/></item><item><title>Optimizing Free-Form Grid Shells with Reclaimed Elements under Inventory Constraints</title><link>http://vcg.isti.cnr.it/publication/2025/ReclaimedGridShells/</link><pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/publication/2025/ReclaimedGridShells/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/L05gny2ikNs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
 >&lt;/iframe>
