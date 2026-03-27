@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses | Visual Computing Lab</title><link>http://vcg.isti.cnr.it/courses/</link><atom:link href="http://vcg.isti.cnr.it/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><item><title>PhD Course: Geometric Computing for Design and Optimization</title><link>http://vcg.isti.cnr.it/courses/2026/PhDcourseGeomComputing/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>http://vcg.isti.cnr.it/courses/2026/PhDcourseGeomComputing/</guid><description>&lt;h4 id="organized-within-the-phd-program-in-civil-and-environmental-engineering">Organized within the PhD Program in Civil and Environmental Engineering&lt;/h4>
-&lt;h4 id="addressed-to-all-phd-students">Addressed to all PhD students&lt;/h4>
+&lt;h4 id="addressed-to-all-phd-students-and-early-stage-researchers">Addressed to all PhD students, and Early-Stage Researchers&lt;/h4>
 &lt;br />
 &lt;h2 id="lecturers">Lecturers&lt;/h2>
 &lt;p>&lt;a href="https://vcg.isti.cnr.it/author/Francesco-Laccone/" target="_blank" rel="noopener">Francesco Laccone&lt;/a> and &lt;a href="https://vcg.isti.cnr.it/author/Davide-Pellis/" target="_blank" rel="noopener">Davide Pellis&lt;/a>&lt;/p>
 &lt;br />
 &lt;h4 id="24-hours---10-lectures-in-may---jun-2026">24 hours - 10 lectures in MAY - JUN 2026&lt;/h4>
-&lt;h4 id="politecnico-di-torino-aula-abc">Politecnico di Torino, Aula ABC&lt;/h4>
+&lt;h4 id="politecnico-di-torino-aula-13s">Politecnico di Torino, Aula 13S&lt;/h4>
 &lt;br />
 &lt;h2 id="course-description">Course Description&lt;/h2>
 &lt;p>This doctoral course explores the mathematical and computational foundations of geometric modeling in the context of the ongoing digital transformation across Civil and Industrial Engineering, Architecture and Design. As advanced computational tools and digital fabrication expand formal possibilities, they also introduce challenges related to performance, sustainability, and aesthetics.&lt;/p>
 &lt;p>The course develops design approaches based on geometric data processing and algorithmic modeling, linking geometry to real-world design problems involving complex shapes (e.g., architectural roofs and façades, automotive, naval, and aerospace shells, mechanical components, artworks). Students will engage with geometric representations, differential geometry, and optimization techniques through a combination of theory and hands-on work using Rhino, Grasshopper, and Python.&lt;/p>
-&lt;br />
+&lt;div id="courseCarousel" class="carousel slide" data-ride="carousel" style="max-width:800px; margin: 2rem auto;">
+&lt;div class="carousel-indicators">
+&lt;button type="button" data-target="#courseCarousel" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">&lt;/button>
+&lt;button type="button" data-target="#courseCarousel" data-slide-to="1" aria-label="Slide 2">&lt;/button>
+&lt;button type="button" data-target="#courseCarousel" data-slide-to="2" aria-label="Slide 3">&lt;/button>
+&lt;button type="button" data-target="#courseCarousel" data-slide-to="3" aria-label="Slide 4">&lt;/button>
+&lt;/div>
+&lt;div class="carousel-inner rounded">
+&lt;div class="carousel-item active">
+&lt;img src="flexmapsPavilion.png" class="d-block w-100" alt="Description 1">
+&lt;/div>
+&lt;div class="carousel-item">
+&lt;img src="princSym.jpg" class="d-block w-100" alt="Description 2">
+&lt;/div>
+&lt;div class="carousel-item">
+&lt;img src="mold.png" class="d-block w-100" alt="Description 3">
+&lt;/div>
+&lt;div class="carousel-item">
+&lt;img src="coralli.png" class="d-block w-100" alt="Description 4">
+&lt;/div>
+&lt;/div>
+&lt;button class="carousel-control-prev" type="button" data-target="#courseCarousel" data-slide="prev">
+&lt;span class="carousel-control-prev-icon" aria-hidden="true">&lt;/span>
+&lt;span class="sr-only">Previous&lt;/span>
+&lt;/button>
+&lt;button class="carousel-control-next" type="button" data-target="#courseCarousel" data-slide="next">
+&lt;span class="carousel-control-next-icon" aria-hidden="true">&lt;/span>
+&lt;span class="sr-only">Next&lt;/span>
+&lt;/button>
+&lt;/div>
 &lt;h2 id="learning-objectives">Learning Objectives&lt;/h2>
 &lt;p>By the end of the course, students will:&lt;/p>
 &lt;ul>
@@ -27,25 +56,25 @@
 &lt;table>
 &lt;tr> &lt;!-- Row 1 -->
 &lt;td style="width:13%" >May 07&lt;/td>
-&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td style="width:18%">14.30-16.30 (2h)&lt;/td>
 &lt;td> Course Introduction and 3D Geometry Basics &lt;br />
 Course overview • Software ecosystem and tools • Continuous vs. discrete geometric representations • Introduction to polygonal meshes&lt;/td>
 &lt;/tr>
 &lt;tr> &lt;!-- Row 2 -->
 &lt;td> May 07 &lt;/td>
-&lt;td>hh to hh (2h)&lt;/td>
+&lt;td>16.30-18.30 (2h)&lt;/td>
 &lt;td>3D Data Structures and Parametric Representations &lt;br />
 Mesh data structures • Parametric curve representations: Bézier curves, B-Splines, NURBS • Extension from curves to parametric surfaces • Comparative advantages for design and computation&lt;/td>
 &lt;/tr>
 &lt;tr> &lt;!-- Row 1 -->
 &lt;td style="width:13%" >May 08&lt;/td>
-&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td style="width:18%">9.00-11.00 (2h)&lt;/td>
 &lt;td> Differential Geometry of Curves and Surfaces &lt;br />
 Parametric curves and surfaces • Curvature analysis and geometric descriptors • Curves on surfaces: geodesics, curvature fields, asymptotic directions • Surface classification for design and fabrication • Visualization and interpretation of geometric properties&lt;/td>
 &lt;/tr>
 &lt;tr> &lt;!-- Row 2 -->
 &lt;td> May 8 &lt;/td>
-&lt;td>hh to hh (2h)&lt;/td>
+&lt;td>11.00-13.00 (2h)&lt;/td>
 &lt;td>Geometry Processing Fundamentals &lt;br />
 Remeshing and Subdivision methods • Discrete differential operators for meshes • Relaxation, Laplacian smoothing&lt;/td>
 &lt;/tr>
@@ -54,19 +83,19 @@ Remeshing and Subdivision methods • Discrete differential operators for meshes
 &lt;table>
 &lt;tr> &lt;!-- Row 1 -->
 &lt;td style="width:13%" >May 21&lt;/td>
-&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td style="width:18%">14.30-16.30 (2h)&lt;/td>
 &lt;td> Digital Fabrication of Surfaces &lt;br />
 Surface rationalization strategies: nodes, beams, panels • Fabrication constraints and material considerations • CNC fabrication processes and workflows • Design approaches: continuous vs. discretized (polyhedral) surfaces&lt;/td>
 &lt;/tr>
 &lt;tr> &lt;!-- Row 2 -->
 &lt;td> May 21 &lt;/td>
-&lt;td>hh to hh (2h)&lt;/td>
+&lt;td>16.30-18.30 (2h)&lt;/td>
 &lt;td>CAD Tools for Geometry Processing &lt;br />
 Introduction to Rhino and Grasshopper environments • Data flow and parametric modeling logic • Representation of curves and surfaces in CAD • Python scripting in Rhino/Grasshopper • Introduction to MeshLab and PyMeshLab for geometry processing&lt;/td>
 &lt;/tr>
 &lt;tr> &lt;!-- Row 1 -->
 &lt;td style="width:13%" >May 22&lt;/td>
-&lt;td style="width:18%">hh to hh (4h)&lt;/td>
+&lt;td style="width:18%">9.00-13.00 (4h)&lt;/td>
 &lt;td> Workshop 1 - Design of an asymptotic framework &lt;br />
 From curve/surface to structure • Design and generation of a framework •
 Control of geometric properties and constraints • Implementation using Rhino/Grasshopper and Python&lt;/td>
@@ -76,25 +105,32 @@ Control of geometric properties and constraints • Implementation using Rhino/G
 &lt;table>
 &lt;tr> &lt;!-- Row 1 -->
 &lt;td style="width:13%" >Jun 04&lt;/td>
-&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td style="width:18%">11.00-13.00 (2h)&lt;/td>
 &lt;td> Optimization in Geometric Design &lt;br />
 Formulating design problems as optimization tasks • Objective functions, variables, and constraints • Introduction to optimization methods • Application in Rhino/Python for geometry-aware design&lt;/td>
 &lt;/tr>
 &lt;tr> &lt;!-- Row 2 -->
 &lt;td> Jun 04 &lt;/td>
-&lt;td>hh to hh (4h)&lt;/td>
+&lt;td>13.30-17.30 (4h)&lt;/td>
 &lt;td>Workshop 2 - Design of an asymptotic framework on a minimal surface &lt;br />
 Optimization of a minimal surface • Computation of geometric quantities on meshes • CAD-to-CAM pipeline for digital fabrication • Preparation of final project outputs&lt;/td>
 &lt;/tr>
 &lt;tr> &lt;!-- Row 1 -->
 &lt;td style="width:13%" >Jun 05&lt;/td>
-&lt;td style="width:18%">hh to hh (2h)&lt;/td>
+&lt;td style="width:18%">9.30-11.30 (2h)&lt;/td>
 &lt;td> Final Presentations and Review &lt;br />
 Assembly of physical prototypes (e.g., paper or cardboard models) • Presentation of workshop outcomes • Peer discussion and feedback&lt;/td>
 &lt;/tr>
 &lt;/table>
 &lt;br />
 &lt;h2 id="enrolment-details">Enrolment details&lt;/h2>
+&lt;p>Attendance is free of charge.&lt;/p>
+&lt;ul>
+&lt;li>PoliTo students: Please follow the standard enrolment procedure.&lt;/li>
+&lt;li>Non-PoliTo students: Please email the lecturers to express your interest; you will be registered on the first day of the course.&lt;/li>
+&lt;/ul>
+&lt;br />
+&lt;h2 id="requirements">Requirements&lt;/h2>
 &lt;p>Available soon&lt;/p>
 &lt;br />
 &lt;h2 id="material">Material&lt;/h2>
