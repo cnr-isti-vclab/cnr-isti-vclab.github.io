@@ -1,7 +1,7 @@
 ---
 title: 'Tecnologie per la conservazione e il restauro'
 authors:
-  - roberto-scopigno
+  - Roberto Scopigno
   - marco-potenziani
   - marco-callieri
 date: '2026-03-01'
