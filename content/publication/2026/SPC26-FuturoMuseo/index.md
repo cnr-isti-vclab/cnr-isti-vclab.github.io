@@ -15,6 +15,10 @@ tags:
   - Digital Heritage
 featured: false
 
+links:
+  - name: Link
+    url: https://www.store.rubbettinoeditore.it/catalogo/futuro-museo/
+
 url_pdf: http://vcgdata.isti.cnr.it/Publications/2026/SPC26-FuturoMuseo/Tecnologie_conservazione_restauro_preprint.pdf
 
 image:
