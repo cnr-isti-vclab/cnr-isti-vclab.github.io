@@ -21,6 +21,8 @@ summary: A new PhD Course on Geometric Computing for Design and Optimization sta
 #### 24 hours - 10 lectures in MAY - JUN 2026
 #### Politecnico di Torino, Aula 13S
 
+#### IN PERSON ONLY ATTENDANCE
+
 <br />
 
 ## Course Description
