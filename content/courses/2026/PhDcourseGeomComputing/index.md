@@ -160,9 +160,13 @@ Attendance is free of charge.
 <br />
 
 ## Requirements
-Available soon
+Participants are required to have access to and basic familiarity with the following software packages.
+
+* Rhinoceros 3D [available here](https://www.rhino3d.com/download/), including the Grasshopper plugin. Get familiar with the basics [here](https://www.rhino3d.com/learn/?query=kind:%20jump_start&modal=null)
+* MeshLab [available here](https://www.meshlab.net/#download). Get familiar with the basics [here](https://www.youtube.com/watch?v=l8yu_B0miXg&list=PL8B1E816EAE236B4D)
+* Familiarity with Python and Numpy is welcomed
 
 <br />
 
 ## Material
-Available soon
+All course materials will be distributed directly to participants via email.
