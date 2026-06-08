@@ -174,11 +174,11 @@ All course materials will be distributed directly to participants via email.
 <br />
 
 ## Course Photos
-<div id="courseCarousel" class="carousel slide" data-ride="carousel" style="max-width:800px; margin: 2rem auto;">
+<div id="courseCarouselPhotos" class="carousel slide" data-ride="carousel" style="max-width:800px; margin: 2rem auto;">
   <div class="carousel-indicators">
-    <button type="button" data-target="#courseCarousel" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-target="#courseCarousel" data-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-target="#courseCarousel" data-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-target="#courseCarouselPhotos" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-target="#courseCarouselPhotos" data-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-target="#courseCarouselPhotos" data-slide-to="2" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner rounded">
     <div class="carousel-item active">
