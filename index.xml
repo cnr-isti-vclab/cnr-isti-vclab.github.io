@@ -150,13 +150,13 @@ Assembly of physical prototypes (e.g., paper or cardboard models) • Presentati
 &lt;br />
 &lt;h2 id="material">Material&lt;/h2>
 &lt;p>All course materials will be distributed directly to participants via email.&lt;/p>
+&lt;br />
 &lt;h2 id="course-photos">Course Photos&lt;/h2>
 &lt;div id="courseCarousel" class="carousel slide" data-ride="carousel" style="max-width:800px; margin: 2rem auto;">
 &lt;div class="carousel-indicators">
 &lt;button type="button" data-target="#courseCarousel" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">&lt;/button>
 &lt;button type="button" data-target="#courseCarousel" data-slide-to="1" aria-label="Slide 2">&lt;/button>
 &lt;button type="button" data-target="#courseCarousel" data-slide-to="2" aria-label="Slide 3">&lt;/button>
-&lt;button type="button" data-target="#courseCarousel" data-slide-to="3" aria-label="Slide 4">&lt;/button>
 &lt;/div>
 &lt;div class="carousel-inner rounded">
 &lt;div class="carousel-item active">
