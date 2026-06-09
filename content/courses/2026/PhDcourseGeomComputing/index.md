@@ -51,11 +51,11 @@ The course develops design approaches based on geometric data processing and alg
       <img src="coralli.png" class="d-block w-100" alt="Description 4">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#courseCarouselPhotos" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-target="#courseCarousel" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-target="#courseCarouselPhotos" data-slide="next">
+  <button class="carousel-control-next" type="button" data-target="#courseCarousel" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </button>
@@ -191,11 +191,11 @@ All course materials will be distributed directly to participants via email.
       <img src="GCDO-asymptoticGridshell.jpg" class="d-block w-100" alt="Description 3">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#courseCarousel" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-target="#courseCarouselPhotos" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-target="#courseCarousel" data-slide="next">
+  <button class="carousel-control-next" type="button" data-target="#courseCarouselPhotos" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </button>
