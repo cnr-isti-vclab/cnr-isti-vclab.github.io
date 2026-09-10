@@ -38,6 +38,7 @@ sections:
     content:
       title: Former Members
       text: |
+        - [Valentina Piras](../author/valentina-piras/) - *PhD* (since 2026 Research Fellow at Centro di Ricerca "E. Piaggio", University of Pisa)
         - [Elena Scandurra](../author/Elena-Scandurra/) - *Phd* (since 2024 working at MBI Group)
         - [Arslan Siddique](../author/Arslan-Siddique/) - *Phd* (since 2024 Research Fellow at Sant'Anna School of Advanced Studies)
         - Francesca De Mitry - *Administration* (moved to a different department in 2024)
