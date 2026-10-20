@@ -5,7 +5,7 @@
 #   render: always
 #   list: never
 
-title: "ArchiClip: Learning joint text–geometry representations for 3D architectural freeform surfaces"
+title: "Design and Fabrication of a Bistable Collapsible Gridshell"
 authors:
 - Davide Pellis
 - Francesco Laccone
