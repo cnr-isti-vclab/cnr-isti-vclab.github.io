@@ -17,7 +17,7 @@ authors:
   - Feiran Li
   - Daisuke Iso
 
-date: '2026-12-03'
+date: '2026-11-10'
   
 author_notes:
 #  - 'Equal contribution'
@@ -32,7 +32,7 @@ author_notes:
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: '*SA Conference Papers '25: Proceedings of the SIGGRAPH Asia 2025 Conference Papers*'
+publication: '*Proceedings of the 19th ACM SIGGRAPH Asia Conference Papers*'
 publication_short: 'SA26'
 
 abstract: 'The high dynamic range (HDR) video ecosystem is approaching maturity, but the problem of upconverting legacy standard dynamic range (SDR) videos persists without a convincing solution. We propose a framework for HDR video synthesis from casual SDR footage by leveraging a large-scale generative video model. We introduce a Multi-Exposure Video Model (MEVM) that can predict exposure-bracketed linear SDR video sequences from a single nonlinear SDR video input. We further propose a learnable Video Merging Model (VMM) that merges the predicted exposure-bracketed video into a high-quality HDR sequence while preserving detail in both shadows and highlights. Extensive experiments, quantitative and qualitative evaluation, and a user study demonstrate that our approach enables robust HDR conversion for in-the-wild examples from casual consumer videos and even cinematic footage. Finally, our model can support HDR synthesis pipelines built upon existing SDR generative video models.'
